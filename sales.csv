@@ -1,0 +1,4321 @@
+date,item_id,item_name,quantity_sold,price,promotion,is_holiday,is_ramadan
+2024-01-01,1,Grilled Chicken,39,120,0,0,0
+2024-01-02,1,Grilled Chicken,47,120,0,0,0
+2024-01-03,1,Grilled Chicken,66,120,1,0,0
+2024-01-04,1,Grilled Chicken,51,120,0,0,0
+2024-01-05,1,Grilled Chicken,80,120,1,0,0
+2024-01-06,1,Grilled Chicken,58,120,0,0,0
+2024-01-07,1,Grilled Chicken,47,120,0,1,0
+2024-01-08,1,Grilled Chicken,51,120,0,0,0
+2024-01-09,1,Grilled Chicken,44,120,0,0,0
+2024-01-10,1,Grilled Chicken,42,120,0,0,0
+2024-01-11,1,Grilled Chicken,43,120,0,0,0
+2024-01-12,1,Grilled Chicken,67,120,0,0,0
+2024-01-13,1,Grilled Chicken,64,120,0,0,0
+2024-01-14,1,Grilled Chicken,44,120,0,0,0
+2024-01-15,1,Grilled Chicken,61,120,1,0,0
+2024-01-16,1,Grilled Chicken,52,120,0,0,0
+2024-01-17,1,Grilled Chicken,41,120,0,0,0
+2024-01-18,1,Grilled Chicken,46,120,0,0,0
+2024-01-19,1,Grilled Chicken,87,120,1,0,0
+2024-01-20,1,Grilled Chicken,67,120,0,0,0
+2024-01-21,1,Grilled Chicken,64,120,0,0,0
+2024-01-22,1,Grilled Chicken,55,120,0,0,0
+2024-01-23,1,Grilled Chicken,49,120,0,0,0
+2024-01-24,1,Grilled Chicken,53,120,0,0,0
+2024-01-25,1,Grilled Chicken,42,120,0,0,0
+2024-01-26,1,Grilled Chicken,53,120,0,0,0
+2024-01-27,1,Grilled Chicken,55,120,0,0,0
+2024-01-28,1,Grilled Chicken,43,120,0,0,0
+2024-01-29,1,Grilled Chicken,52,120,0,0,0
+2024-01-30,1,Grilled Chicken,54,120,0,0,0
+2024-01-31,1,Grilled Chicken,48,120,0,0,0
+2024-02-01,1,Grilled Chicken,45,120,0,0,0
+2024-02-02,1,Grilled Chicken,54,120,0,0,0
+2024-02-03,1,Grilled Chicken,106,120,1,0,0
+2024-02-04,1,Grilled Chicken,57,120,0,0,0
+2024-02-05,1,Grilled Chicken,44,120,0,0,0
+2024-02-06,1,Grilled Chicken,44,120,0,0,0
+2024-02-07,1,Grilled Chicken,49,120,0,0,0
+2024-02-08,1,Grilled Chicken,59,120,0,0,0
+2024-02-09,1,Grilled Chicken,70,120,0,0,0
+2024-02-10,1,Grilled Chicken,65,120,0,0,0
+2024-02-11,1,Grilled Chicken,50,120,0,0,0
+2024-02-12,1,Grilled Chicken,59,120,1,0,0
+2024-02-13,1,Grilled Chicken,57,120,0,0,0
+2024-02-14,1,Grilled Chicken,47,120,0,0,0
+2024-02-15,1,Grilled Chicken,42,120,0,0,0
+2024-02-16,1,Grilled Chicken,67,120,0,0,0
+2024-02-17,1,Grilled Chicken,65,120,0,0,0
+2024-02-18,1,Grilled Chicken,54,120,0,0,0
+2024-02-19,1,Grilled Chicken,58,120,0,0,0
+2024-02-20,1,Grilled Chicken,60,120,0,0,0
+2024-02-21,1,Grilled Chicken,52,120,0,0,0
+2024-02-22,1,Grilled Chicken,50,120,0,0,0
+2024-02-23,1,Grilled Chicken,67,120,0,0,0
+2024-02-24,1,Grilled Chicken,48,120,0,0,0
+2024-02-25,1,Grilled Chicken,54,120,0,0,0
+2024-02-26,1,Grilled Chicken,55,120,0,0,0
+2024-02-27,1,Grilled Chicken,51,120,0,0,0
+2024-02-28,1,Grilled Chicken,46,120,0,0,0
+2024-02-29,1,Grilled Chicken,61,120,0,0,0
+2024-03-01,1,Grilled Chicken,70,120,0,0,0
+2024-03-02,1,Grilled Chicken,56,120,0,0,0
+2024-03-03,1,Grilled Chicken,53,120,0,0,0
+2024-03-04,1,Grilled Chicken,50,120,0,0,0
+2024-03-05,1,Grilled Chicken,78,120,1,0,0
+2024-03-06,1,Grilled Chicken,51,120,0,0,0
+2024-03-07,1,Grilled Chicken,55,120,0,0,0
+2024-03-08,1,Grilled Chicken,71,120,0,0,0
+2024-03-09,1,Grilled Chicken,65,120,0,0,0
+2024-03-10,1,Grilled Chicken,58,120,0,0,0
+2024-03-11,1,Grilled Chicken,99,120,0,0,1
+2024-03-12,1,Grilled Chicken,99,120,0,0,1
+2024-03-13,1,Grilled Chicken,80,120,0,0,1
+2024-03-14,1,Grilled Chicken,94,120,0,0,1
+2024-03-15,1,Grilled Chicken,194,120,1,0,1
+2024-03-16,1,Grilled Chicken,178,120,1,0,1
+2024-03-17,1,Grilled Chicken,92,120,0,0,1
+2024-03-18,1,Grilled Chicken,73,120,0,0,1
+2024-03-19,1,Grilled Chicken,92,120,0,0,1
+2024-03-20,1,Grilled Chicken,84,120,0,0,1
+2024-03-21,1,Grilled Chicken,82,120,0,0,1
+2024-03-22,1,Grilled Chicken,123,120,0,0,1
+2024-03-23,1,Grilled Chicken,135,120,0,0,1
+2024-03-24,1,Grilled Chicken,112,120,0,0,1
+2024-03-25,1,Grilled Chicken,71,120,0,0,1
+2024-03-26,1,Grilled Chicken,98,120,0,0,1
+2024-03-27,1,Grilled Chicken,92,120,0,0,1
+2024-03-28,1,Grilled Chicken,99,120,0,0,1
+2024-03-29,1,Grilled Chicken,119,120,0,0,1
+2024-03-30,1,Grilled Chicken,180,120,1,0,1
+2024-03-31,1,Grilled Chicken,88,120,0,0,1
+2024-04-01,1,Grilled Chicken,74,120,0,0,1
+2024-04-02,1,Grilled Chicken,94,120,0,0,1
+2024-04-03,1,Grilled Chicken,76,120,0,0,1
+2024-04-04,1,Grilled Chicken,94,120,0,0,1
+2024-04-05,1,Grilled Chicken,134,120,0,0,1
+2024-04-06,1,Grilled Chicken,105,120,0,0,1
+2024-04-07,1,Grilled Chicken,88,120,0,0,1
+2024-04-08,1,Grilled Chicken,96,120,0,0,1
+2024-04-09,1,Grilled Chicken,84,120,0,0,1
+2024-04-10,1,Grilled Chicken,108,120,0,1,0
+2024-04-11,1,Grilled Chicken,55,120,0,0,0
+2024-04-12,1,Grilled Chicken,65,120,0,0,0
+2024-04-13,1,Grilled Chicken,114,120,1,0,0
+2024-04-14,1,Grilled Chicken,53,120,0,0,0
+2024-04-15,1,Grilled Chicken,59,120,0,0,0
+2024-04-16,1,Grilled Chicken,51,120,0,0,0
+2024-04-17,1,Grilled Chicken,59,120,0,0,0
+2024-04-18,1,Grilled Chicken,48,120,0,0,0
+2024-04-19,1,Grilled Chicken,68,120,0,0,0
+2024-04-20,1,Grilled Chicken,78,120,0,0,0
+2024-04-21,1,Grilled Chicken,65,120,0,0,0
+2024-04-22,1,Grilled Chicken,61,120,0,0,0
+2024-04-23,1,Grilled Chicken,54,120,0,0,0
+2024-04-24,1,Grilled Chicken,48,120,0,0,0
+2024-04-25,1,Grilled Chicken,63,120,0,0,0
+2024-04-26,1,Grilled Chicken,75,120,0,0,0
+2024-04-27,1,Grilled Chicken,75,120,0,0,0
+2024-04-28,1,Grilled Chicken,63,120,0,0,0
+2024-04-29,1,Grilled Chicken,54,120,0,0,0
+2024-04-30,1,Grilled Chicken,55,120,0,0,0
+2024-05-01,1,Grilled Chicken,55,120,0,0,0
+2024-05-02,1,Grilled Chicken,55,120,0,0,0
+2024-05-03,1,Grilled Chicken,91,120,1,0,0
+2024-05-04,1,Grilled Chicken,57,120,0,0,0
+2024-05-05,1,Grilled Chicken,56,120,0,0,0
+2024-05-06,1,Grilled Chicken,67,120,1,0,0
+2024-05-07,1,Grilled Chicken,51,120,0,0,0
+2024-05-08,1,Grilled Chicken,57,120,0,0,0
+2024-05-09,1,Grilled Chicken,45,120,0,0,0
+2024-05-10,1,Grilled Chicken,130,120,1,0,0
+2024-05-11,1,Grilled Chicken,88,120,0,0,0
+2024-05-12,1,Grilled Chicken,53,120,0,0,0
+2024-05-13,1,Grilled Chicken,56,120,0,0,0
+2024-05-14,1,Grilled Chicken,50,120,0,0,0
+2024-05-15,1,Grilled Chicken,59,120,1,0,0
+2024-05-16,1,Grilled Chicken,67,120,1,0,0
+2024-05-17,1,Grilled Chicken,86,120,0,0,0
+2024-05-18,1,Grilled Chicken,74,120,0,0,0
+2024-05-19,1,Grilled Chicken,43,120,0,0,0
+2024-05-20,1,Grilled Chicken,55,120,0,0,0
+2024-05-21,1,Grilled Chicken,63,120,0,0,0
+2024-05-22,1,Grilled Chicken,48,120,0,0,0
+2024-05-23,1,Grilled Chicken,44,120,0,0,0
+2024-05-24,1,Grilled Chicken,96,120,1,0,0
+2024-05-25,1,Grilled Chicken,87,120,0,0,0
+2024-05-26,1,Grilled Chicken,44,120,0,0,0
+2024-05-27,1,Grilled Chicken,52,120,0,0,0
+2024-05-28,1,Grilled Chicken,62,120,0,0,0
+2024-05-29,1,Grilled Chicken,84,120,1,0,0
+2024-05-30,1,Grilled Chicken,52,120,0,0,0
+2024-05-31,1,Grilled Chicken,90,120,0,0,0
+2024-06-01,1,Grilled Chicken,68,120,0,0,0
+2024-06-02,1,Grilled Chicken,52,120,0,0,0
+2024-06-03,1,Grilled Chicken,40,120,0,0,0
+2024-06-04,1,Grilled Chicken,59,120,0,0,0
+2024-06-05,1,Grilled Chicken,56,120,0,0,0
+2024-06-06,1,Grilled Chicken,52,120,0,0,0
+2024-06-07,1,Grilled Chicken,65,120,0,0,0
+2024-06-08,1,Grilled Chicken,71,120,0,0,0
+2024-06-09,1,Grilled Chicken,47,120,0,0,0
+2024-06-10,1,Grilled Chicken,49,120,0,0,0
+2024-06-11,1,Grilled Chicken,53,120,0,0,0
+2024-06-12,1,Grilled Chicken,54,120,0,0,0
+2024-06-13,1,Grilled Chicken,54,120,0,0,0
+2024-06-14,1,Grilled Chicken,62,120,0,0,0
+2024-06-15,1,Grilled Chicken,54,120,0,0,0
+2024-06-16,1,Grilled Chicken,65,120,0,1,0
+2024-06-17,1,Grilled Chicken,60,120,0,0,0
+2024-06-18,1,Grilled Chicken,48,120,0,0,0
+2024-06-19,1,Grilled Chicken,50,120,0,0,0
+2024-06-20,1,Grilled Chicken,56,120,0,0,0
+2024-06-21,1,Grilled Chicken,65,120,0,0,0
+2024-06-22,1,Grilled Chicken,104,120,1,0,0
+2024-06-23,1,Grilled Chicken,48,120,0,0,0
+2024-06-24,1,Grilled Chicken,46,120,0,0,0
+2024-06-25,1,Grilled Chicken,61,120,0,0,0
+2024-06-26,1,Grilled Chicken,56,120,0,0,0
+2024-06-27,1,Grilled Chicken,56,120,0,0,0
+2024-06-28,1,Grilled Chicken,57,120,0,0,0
+2024-06-29,1,Grilled Chicken,61,120,0,0,0
+2024-06-30,1,Grilled Chicken,49,120,0,0,0
+2024-07-01,1,Grilled Chicken,47,120,0,0,0
+2024-07-02,1,Grilled Chicken,53,120,0,0,0
+2024-07-03,1,Grilled Chicken,52,120,0,0,0
+2024-07-04,1,Grilled Chicken,56,120,0,0,0
+2024-07-05,1,Grilled Chicken,62,120,0,0,0
+2024-07-06,1,Grilled Chicken,67,120,0,0,0
+2024-07-07,1,Grilled Chicken,55,120,0,0,0
+2024-07-08,1,Grilled Chicken,45,120,0,0,0
+2024-07-09,1,Grilled Chicken,44,120,0,0,0
+2024-07-10,1,Grilled Chicken,56,120,0,0,0
+2024-07-11,1,Grilled Chicken,36,120,0,0,0
+2024-07-12,1,Grilled Chicken,77,120,0,0,0
+2024-07-13,1,Grilled Chicken,62,120,0,0,0
+2024-07-14,1,Grilled Chicken,47,120,0,0,0
+2024-07-15,1,Grilled Chicken,76,120,1,0,0
+2024-07-16,1,Grilled Chicken,52,120,0,0,0
+2024-07-17,1,Grilled Chicken,39,120,0,0,0
+2024-07-18,1,Grilled Chicken,42,120,0,0,0
+2024-07-19,1,Grilled Chicken,64,120,0,0,0
+2024-07-20,1,Grilled Chicken,71,120,0,0,0
+2024-07-21,1,Grilled Chicken,69,120,1,0,0
+2024-07-22,1,Grilled Chicken,47,120,0,0,0
+2024-07-23,1,Grilled Chicken,66,120,0,1,0
+2024-07-24,1,Grilled Chicken,57,120,0,0,0
+2024-07-25,1,Grilled Chicken,46,120,0,0,0
+2024-07-26,1,Grilled Chicken,70,120,0,0,0
+2024-07-27,1,Grilled Chicken,61,120,0,0,0
+2024-07-28,1,Grilled Chicken,39,120,0,0,0
+2024-07-29,1,Grilled Chicken,35,120,0,0,0
+2024-07-30,1,Grilled Chicken,48,120,0,0,0
+2024-07-31,1,Grilled Chicken,50,120,0,0,0
+2024-08-01,1,Grilled Chicken,54,120,0,0,0
+2024-08-02,1,Grilled Chicken,61,120,0,0,0
+2024-08-03,1,Grilled Chicken,59,120,0,0,0
+2024-08-04,1,Grilled Chicken,47,120,0,0,0
+2024-08-05,1,Grilled Chicken,39,120,0,0,0
+2024-08-06,1,Grilled Chicken,47,120,0,0,0
+2024-08-07,1,Grilled Chicken,47,120,0,0,0
+2024-08-08,1,Grilled Chicken,45,120,0,0,0
+2024-08-09,1,Grilled Chicken,60,120,0,0,0
+2024-08-10,1,Grilled Chicken,72,120,0,0,0
+2024-08-11,1,Grilled Chicken,47,120,0,0,0
+2024-08-12,1,Grilled Chicken,43,120,0,0,0
+2024-08-13,1,Grilled Chicken,36,120,0,0,0
+2024-08-14,1,Grilled Chicken,37,120,0,0,0
+2024-08-15,1,Grilled Chicken,47,120,0,0,0
+2024-08-16,1,Grilled Chicken,54,120,0,0,0
+2024-08-17,1,Grilled Chicken,58,120,0,0,0
+2024-08-18,1,Grilled Chicken,45,120,0,0,0
+2024-08-19,1,Grilled Chicken,53,120,0,0,0
+2024-08-20,1,Grilled Chicken,50,120,0,0,0
+2024-08-21,1,Grilled Chicken,45,120,0,0,0
+2024-08-22,1,Grilled Chicken,52,120,0,0,0
+2024-08-23,1,Grilled Chicken,66,120,0,0,0
+2024-08-24,1,Grilled Chicken,47,120,0,0,0
+2024-08-25,1,Grilled Chicken,52,120,0,0,0
+2024-08-26,1,Grilled Chicken,45,120,0,0,0
+2024-08-27,1,Grilled Chicken,32,120,0,0,0
+2024-08-28,1,Grilled Chicken,49,120,0,0,0
+2024-08-29,1,Grilled Chicken,45,120,0,0,0
+2024-08-30,1,Grilled Chicken,59,120,0,0,0
+2024-08-31,1,Grilled Chicken,64,120,0,0,0
+2024-09-01,1,Grilled Chicken,44,120,0,0,0
+2024-09-02,1,Grilled Chicken,46,120,0,0,0
+2024-09-03,1,Grilled Chicken,43,120,0,0,0
+2024-09-04,1,Grilled Chicken,43,120,0,0,0
+2024-09-05,1,Grilled Chicken,38,120,0,0,0
+2024-09-06,1,Grilled Chicken,62,120,0,0,0
+2024-09-07,1,Grilled Chicken,73,120,0,0,0
+2024-09-08,1,Grilled Chicken,42,120,0,0,0
+2024-09-09,1,Grilled Chicken,39,120,0,0,0
+2024-09-10,1,Grilled Chicken,40,120,0,0,0
+2024-09-11,1,Grilled Chicken,36,120,0,0,0
+2024-09-12,1,Grilled Chicken,42,120,0,0,0
+2024-09-13,1,Grilled Chicken,58,120,0,0,0
+2024-09-14,1,Grilled Chicken,59,120,0,0,0
+2024-09-15,1,Grilled Chicken,48,120,0,0,0
+2024-09-16,1,Grilled Chicken,40,120,0,0,0
+2024-09-17,1,Grilled Chicken,40,120,0,0,0
+2024-09-18,1,Grilled Chicken,37,120,0,0,0
+2024-09-19,1,Grilled Chicken,40,120,0,0,0
+2024-09-20,1,Grilled Chicken,43,120,0,0,0
+2024-09-21,1,Grilled Chicken,90,120,1,0,0
+2024-09-22,1,Grilled Chicken,38,120,0,0,0
+2024-09-23,1,Grilled Chicken,38,120,0,0,0
+2024-09-24,1,Grilled Chicken,43,120,0,0,0
+2024-09-25,1,Grilled Chicken,39,120,0,0,0
+2024-09-26,1,Grilled Chicken,38,120,0,0,0
+2024-09-27,1,Grilled Chicken,71,120,1,0,0
+2024-09-28,1,Grilled Chicken,54,120,0,0,0
+2024-09-29,1,Grilled Chicken,44,120,0,0,0
+2024-09-30,1,Grilled Chicken,48,120,0,0,0
+2024-10-01,1,Grilled Chicken,39,120,0,0,0
+2024-10-02,1,Grilled Chicken,43,120,0,0,0
+2024-10-03,1,Grilled Chicken,41,120,0,0,0
+2024-10-04,1,Grilled Chicken,69,120,0,0,0
+2024-10-05,1,Grilled Chicken,68,120,0,0,0
+2024-10-06,1,Grilled Chicken,36,120,0,0,0
+2024-10-07,1,Grilled Chicken,43,120,0,0,0
+2024-10-08,1,Grilled Chicken,44,120,0,0,0
+2024-10-09,1,Grilled Chicken,41,120,0,0,0
+2024-10-10,1,Grilled Chicken,40,120,0,0,0
+2024-10-11,1,Grilled Chicken,53,120,0,0,0
+2024-10-12,1,Grilled Chicken,55,120,0,0,0
+2024-10-13,1,Grilled Chicken,30,120,0,0,0
+2024-10-14,1,Grilled Chicken,47,120,0,0,0
+2024-10-15,1,Grilled Chicken,46,120,0,0,0
+2024-10-16,1,Grilled Chicken,43,120,0,0,0
+2024-10-17,1,Grilled Chicken,40,120,0,0,0
+2024-10-18,1,Grilled Chicken,55,120,0,0,0
+2024-10-19,1,Grilled Chicken,74,120,0,0,0
+2024-10-20,1,Grilled Chicken,52,120,0,0,0
+2024-10-21,1,Grilled Chicken,41,120,0,0,0
+2024-10-22,1,Grilled Chicken,39,120,0,0,0
+2024-10-23,1,Grilled Chicken,42,120,0,0,0
+2024-10-24,1,Grilled Chicken,43,120,0,0,0
+2024-10-25,1,Grilled Chicken,52,120,0,0,0
+2024-10-26,1,Grilled Chicken,62,120,0,0,0
+2024-10-27,1,Grilled Chicken,44,120,0,0,0
+2024-10-28,1,Grilled Chicken,42,120,0,0,0
+2024-10-29,1,Grilled Chicken,58,120,1,0,0
+2024-10-30,1,Grilled Chicken,49,120,0,0,0
+2024-10-31,1,Grilled Chicken,41,120,0,0,0
+2024-11-01,1,Grilled Chicken,78,120,0,0,0
+2024-11-02,1,Grilled Chicken,62,120,0,0,0
+2024-11-03,1,Grilled Chicken,45,120,0,0,0
+2024-11-04,1,Grilled Chicken,67,120,1,0,0
+2024-11-05,1,Grilled Chicken,54,120,0,0,0
+2024-11-06,1,Grilled Chicken,42,120,0,0,0
+2024-11-07,1,Grilled Chicken,49,120,0,0,0
+2024-11-08,1,Grilled Chicken,65,120,0,0,0
+2024-11-09,1,Grilled Chicken,69,120,0,0,0
+2024-11-10,1,Grilled Chicken,44,120,0,0,0
+2024-11-11,1,Grilled Chicken,51,120,0,0,0
+2024-11-12,1,Grilled Chicken,42,120,0,0,0
+2024-11-13,1,Grilled Chicken,34,120,0,0,0
+2024-11-14,1,Grilled Chicken,37,120,0,0,0
+2024-11-15,1,Grilled Chicken,62,120,0,0,0
+2024-11-16,1,Grilled Chicken,69,120,0,0,0
+2024-11-17,1,Grilled Chicken,47,120,0,0,0
+2024-11-18,1,Grilled Chicken,47,120,0,0,0
+2024-11-19,1,Grilled Chicken,50,120,0,0,0
+2024-11-20,1,Grilled Chicken,50,120,0,0,0
+2024-11-21,1,Grilled Chicken,54,120,0,0,0
+2024-11-22,1,Grilled Chicken,60,120,0,0,0
+2024-11-23,1,Grilled Chicken,67,120,0,0,0
+2024-11-24,1,Grilled Chicken,56,120,0,0,0
+2024-11-25,1,Grilled Chicken,50,120,0,0,0
+2024-11-26,1,Grilled Chicken,55,120,0,0,0
+2024-11-27,1,Grilled Chicken,45,120,0,0,0
+2024-11-28,1,Grilled Chicken,53,120,0,0,0
+2024-11-29,1,Grilled Chicken,72,120,0,0,0
+2024-11-30,1,Grilled Chicken,52,120,0,0,0
+2024-12-01,1,Grilled Chicken,50,120,0,0,0
+2024-12-02,1,Grilled Chicken,49,120,0,0,0
+2024-12-03,1,Grilled Chicken,53,120,0,0,0
+2024-12-04,1,Grilled Chicken,50,120,0,0,0
+2024-12-05,1,Grilled Chicken,64,120,0,0,0
+2024-12-06,1,Grilled Chicken,112,120,1,0,0
+2024-12-07,1,Grilled Chicken,71,120,0,0,0
+2024-12-08,1,Grilled Chicken,51,120,0,0,0
+2024-12-09,1,Grilled Chicken,43,120,0,0,0
+2024-12-10,1,Grilled Chicken,51,120,0,0,0
+2024-12-11,1,Grilled Chicken,50,120,0,0,0
+2024-12-12,1,Grilled Chicken,65,120,0,0,0
+2024-12-13,1,Grilled Chicken,72,120,0,0,0
+2024-12-14,1,Grilled Chicken,107,120,1,0,0
+2024-12-15,1,Grilled Chicken,65,120,1,0,0
+2024-12-16,1,Grilled Chicken,55,120,0,0,0
+2024-12-17,1,Grilled Chicken,36,120,0,0,0
+2024-12-18,1,Grilled Chicken,58,120,0,0,0
+2024-12-19,1,Grilled Chicken,46,120,0,0,0
+2024-12-20,1,Grilled Chicken,59,120,0,0,0
+2024-12-21,1,Grilled Chicken,68,120,0,0,0
+2024-12-22,1,Grilled Chicken,56,120,0,0,0
+2024-12-23,1,Grilled Chicken,50,120,0,0,0
+2024-12-24,1,Grilled Chicken,45,120,0,0,0
+2024-12-25,1,Grilled Chicken,55,120,0,0,0
+2024-12-26,1,Grilled Chicken,47,120,0,0,0
+2024-12-27,1,Grilled Chicken,69,120,0,0,0
+2024-12-28,1,Grilled Chicken,65,120,0,0,0
+2024-12-29,1,Grilled Chicken,53,120,0,0,0
+2024-12-30,1,Grilled Chicken,52,120,0,0,0
+2024-12-31,1,Grilled Chicken,54,120,0,0,0
+2025-01-01,1,Grilled Chicken,97,120,1,0,0
+2025-01-02,1,Grilled Chicken,64,120,1,0,0
+2025-01-03,1,Grilled Chicken,84,120,0,0,0
+2025-01-04,1,Grilled Chicken,49,120,0,0,0
+2025-01-05,1,Grilled Chicken,46,120,0,0,0
+2025-01-06,1,Grilled Chicken,55,120,0,0,0
+2025-01-07,1,Grilled Chicken,79,120,0,1,0
+2025-01-08,1,Grilled Chicken,57,120,0,0,0
+2025-01-09,1,Grilled Chicken,52,120,0,0,0
+2025-01-10,1,Grilled Chicken,73,120,0,0,0
+2025-01-11,1,Grilled Chicken,73,120,0,0,0
+2025-01-12,1,Grilled Chicken,55,120,0,0,0
+2025-01-13,1,Grilled Chicken,55,120,0,0,0
+2025-01-14,1,Grilled Chicken,54,120,0,0,0
+2025-01-15,1,Grilled Chicken,53,120,0,0,0
+2025-01-16,1,Grilled Chicken,54,120,0,0,0
+2025-01-17,1,Grilled Chicken,77,120,0,0,0
+2025-01-18,1,Grilled Chicken,77,120,0,0,0
+2025-01-19,1,Grilled Chicken,51,120,0,0,0
+2025-01-20,1,Grilled Chicken,49,120,0,0,0
+2025-01-21,1,Grilled Chicken,63,120,1,0,0
+2025-01-22,1,Grilled Chicken,68,120,0,0,0
+2025-01-23,1,Grilled Chicken,48,120,0,0,0
+2025-01-24,1,Grilled Chicken,69,120,0,0,0
+2025-01-25,1,Grilled Chicken,83,120,0,0,0
+2025-01-26,1,Grilled Chicken,47,120,0,0,0
+2025-01-27,1,Grilled Chicken,45,120,0,0,0
+2025-01-28,1,Grilled Chicken,53,120,0,0,0
+2025-01-29,1,Grilled Chicken,64,120,0,0,0
+2025-01-30,1,Grilled Chicken,57,120,0,0,0
+2025-01-31,1,Grilled Chicken,97,120,0,0,0
+2025-02-01,1,Grilled Chicken,84,120,0,0,0
+2025-02-02,1,Grilled Chicken,49,120,0,0,0
+2025-02-03,1,Grilled Chicken,58,120,0,0,0
+2025-02-04,1,Grilled Chicken,65,120,1,0,0
+2025-02-05,1,Grilled Chicken,62,120,0,0,0
+2025-02-06,1,Grilled Chicken,55,120,0,0,0
+2025-02-07,1,Grilled Chicken,117,120,1,0,0
+2025-02-08,1,Grilled Chicken,94,120,0,0,0
+2025-02-09,1,Grilled Chicken,70,120,0,0,0
+2025-02-10,1,Grilled Chicken,58,120,0,0,0
+2025-02-11,1,Grilled Chicken,64,120,0,0,0
+2025-02-12,1,Grilled Chicken,56,120,0,0,0
+2025-02-13,1,Grilled Chicken,60,120,0,0,0
+2025-02-14,1,Grilled Chicken,65,120,0,0,0
+2025-02-15,1,Grilled Chicken,72,120,0,0,0
+2025-02-16,1,Grilled Chicken,64,120,0,0,0
+2025-02-17,1,Grilled Chicken,47,120,0,0,0
+2025-02-18,1,Grilled Chicken,60,120,0,0,0
+2025-02-19,1,Grilled Chicken,61,120,0,0,0
+2025-02-20,1,Grilled Chicken,90,120,1,0,0
+2025-02-21,1,Grilled Chicken,93,120,1,0,0
+2025-02-22,1,Grilled Chicken,65,120,0,0,0
+2025-02-23,1,Grilled Chicken,67,120,0,0,0
+2025-02-24,1,Grilled Chicken,62,120,0,0,0
+2025-02-25,1,Grilled Chicken,58,120,0,0,0
+2025-02-26,1,Grilled Chicken,49,120,0,0,0
+2025-02-27,1,Grilled Chicken,58,120,0,0,0
+2025-02-28,1,Grilled Chicken,71,120,0,0,0
+2025-03-01,1,Grilled Chicken,146,120,0,0,1
+2025-03-02,1,Grilled Chicken,82,120,0,0,1
+2025-03-03,1,Grilled Chicken,95,120,0,0,1
+2025-03-04,1,Grilled Chicken,107,120,0,0,1
+2025-03-05,1,Grilled Chicken,105,120,0,0,1
+2025-03-06,1,Grilled Chicken,93,120,0,0,1
+2025-03-07,1,Grilled Chicken,143,120,0,0,1
+2025-03-08,1,Grilled Chicken,146,120,0,0,1
+2025-03-09,1,Grilled Chicken,140,120,1,0,1
+2025-03-10,1,Grilled Chicken,104,120,0,0,1
+2025-03-11,1,Grilled Chicken,96,120,0,0,1
+2025-03-12,1,Grilled Chicken,112,120,0,0,1
+2025-03-13,1,Grilled Chicken,98,120,0,0,1
+2025-03-14,1,Grilled Chicken,111,120,0,0,1
+2025-03-15,1,Grilled Chicken,142,120,0,0,1
+2025-03-16,1,Grilled Chicken,121,120,1,0,1
+2025-03-17,1,Grilled Chicken,115,120,0,0,1
+2025-03-18,1,Grilled Chicken,146,120,1,0,1
+2025-03-19,1,Grilled Chicken,76,120,0,0,1
+2025-03-20,1,Grilled Chicken,110,120,0,0,1
+2025-03-21,1,Grilled Chicken,139,120,0,0,1
+2025-03-22,1,Grilled Chicken,146,120,0,0,1
+2025-03-23,1,Grilled Chicken,100,120,0,0,1
+2025-03-24,1,Grilled Chicken,115,120,0,0,1
+2025-03-25,1,Grilled Chicken,92,120,0,0,1
+2025-03-26,1,Grilled Chicken,111,120,0,0,1
+2025-03-27,1,Grilled Chicken,104,120,0,0,1
+2025-03-28,1,Grilled Chicken,108,120,0,0,1
+2025-03-29,1,Grilled Chicken,107,120,0,0,1
+2025-03-30,1,Grilled Chicken,145,120,0,1,1
+2025-03-31,1,Grilled Chicken,57,120,0,0,0
+2025-04-01,1,Grilled Chicken,48,120,0,0,0
+2025-04-02,1,Grilled Chicken,54,120,0,0,0
+2025-04-03,1,Grilled Chicken,61,120,0,0,0
+2025-04-04,1,Grilled Chicken,76,120,0,0,0
+2025-04-05,1,Grilled Chicken,108,120,0,0,0
+2025-04-06,1,Grilled Chicken,58,120,0,0,0
+2025-04-07,1,Grilled Chicken,72,120,0,0,0
+2025-04-08,1,Grilled Chicken,75,120,0,0,0
+2025-04-09,1,Grilled Chicken,59,120,0,0,0
+2025-04-10,1,Grilled Chicken,58,120,0,0,0
+2025-04-11,1,Grilled Chicken,80,120,0,0,0
+2025-04-12,1,Grilled Chicken,83,120,0,0,0
+2025-04-13,1,Grilled Chicken,60,120,0,0,0
+2025-04-14,1,Grilled Chicken,54,120,0,0,0
+2025-04-15,1,Grilled Chicken,65,120,0,0,0
+2025-04-16,1,Grilled Chicken,60,120,0,0,0
+2025-04-17,1,Grilled Chicken,81,120,0,0,0
+2025-04-18,1,Grilled Chicken,94,120,0,0,0
+2025-04-19,1,Grilled Chicken,81,120,0,0,0
+2025-04-20,1,Grilled Chicken,67,120,0,0,0
+2025-04-21,1,Grilled Chicken,67,120,0,0,0
+2025-04-22,1,Grilled Chicken,71,120,0,0,0
+2025-04-23,1,Grilled Chicken,50,120,0,0,0
+2025-04-24,1,Grilled Chicken,53,120,0,0,0
+2025-04-25,1,Grilled Chicken,76,120,0,0,0
+2025-04-26,1,Grilled Chicken,84,120,0,0,0
+2025-04-27,1,Grilled Chicken,36,120,0,0,0
+2025-04-28,1,Grilled Chicken,56,120,0,0,0
+2025-04-29,1,Grilled Chicken,72,120,0,0,0
+2025-04-30,1,Grilled Chicken,54,120,0,0,0
+2025-05-01,1,Grilled Chicken,64,120,0,0,0
+2025-05-02,1,Grilled Chicken,87,120,0,0,0
+2025-05-03,1,Grilled Chicken,88,120,0,0,0
+2025-05-04,1,Grilled Chicken,68,120,0,0,0
+2025-05-05,1,Grilled Chicken,70,120,0,0,0
+2025-05-06,1,Grilled Chicken,74,120,0,0,0
+2025-05-07,1,Grilled Chicken,59,120,0,0,0
+2025-05-08,1,Grilled Chicken,56,120,0,0,0
+2025-05-09,1,Grilled Chicken,88,120,0,0,0
+2025-05-10,1,Grilled Chicken,88,120,0,0,0
+2025-05-11,1,Grilled Chicken,95,120,1,0,0
+2025-05-12,1,Grilled Chicken,51,120,0,0,0
+2025-05-13,1,Grilled Chicken,67,120,0,0,0
+2025-05-14,1,Grilled Chicken,52,120,0,0,0
+2025-05-15,1,Grilled Chicken,63,120,0,0,0
+2025-05-16,1,Grilled Chicken,79,120,0,0,0
+2025-05-17,1,Grilled Chicken,95,120,0,0,0
+2025-05-18,1,Grilled Chicken,51,120,0,0,0
+2025-05-19,1,Grilled Chicken,62,120,0,0,0
+2025-05-20,1,Grilled Chicken,90,120,1,0,0
+2025-05-21,1,Grilled Chicken,58,120,0,0,0
+2025-05-22,1,Grilled Chicken,62,120,0,0,0
+2025-05-23,1,Grilled Chicken,77,120,0,0,0
+2025-05-24,1,Grilled Chicken,83,120,0,0,0
+2025-05-25,1,Grilled Chicken,63,120,0,0,0
+2025-05-26,1,Grilled Chicken,79,120,1,0,0
+2025-05-27,1,Grilled Chicken,83,120,1,0,0
+2025-05-28,1,Grilled Chicken,46,120,0,0,0
+2025-05-29,1,Grilled Chicken,48,120,0,0,0
+2025-05-30,1,Grilled Chicken,77,120,0,0,0
+2025-05-31,1,Grilled Chicken,69,120,0,0,0
+2025-06-01,1,Grilled Chicken,59,120,0,0,0
+2025-06-02,1,Grilled Chicken,68,120,0,0,0
+2025-06-03,1,Grilled Chicken,69,120,0,0,0
+2025-06-04,1,Grilled Chicken,58,120,0,0,0
+2025-06-05,1,Grilled Chicken,51,120,0,0,0
+2025-06-06,1,Grilled Chicken,68,120,0,0,0
+2025-06-07,1,Grilled Chicken,96,120,0,0,0
+2025-06-08,1,Grilled Chicken,66,120,0,0,0
+2025-06-09,1,Grilled Chicken,58,120,0,0,0
+2025-06-10,1,Grilled Chicken,60,120,0,0,0
+2025-06-11,1,Grilled Chicken,57,120,0,0,0
+2025-06-12,1,Grilled Chicken,62,120,0,0,0
+2025-06-13,1,Grilled Chicken,79,120,0,0,0
+2025-06-14,1,Grilled Chicken,86,120,0,0,0
+2025-06-15,1,Grilled Chicken,64,120,0,0,0
+2025-06-16,1,Grilled Chicken,52,120,0,0,0
+2025-06-17,1,Grilled Chicken,85,120,1,0,0
+2025-06-18,1,Grilled Chicken,67,120,0,0,0
+2025-06-19,1,Grilled Chicken,61,120,0,0,0
+2025-06-20,1,Grilled Chicken,82,120,0,0,0
+2025-06-21,1,Grilled Chicken,71,120,0,0,0
+2025-06-22,1,Grilled Chicken,52,120,0,0,0
+2025-06-23,1,Grilled Chicken,57,120,0,0,0
+2024-01-01,2,Beef Koshari,55,45,0,0,0
+2024-01-02,2,Beef Koshari,67,45,0,0,0
+2024-01-03,2,Beef Koshari,83,45,1,0,0
+2024-01-04,2,Beef Koshari,56,45,0,0,0
+2024-01-05,2,Beef Koshari,92,45,0,0,0
+2024-01-06,2,Beef Koshari,71,45,0,0,0
+2024-01-07,2,Beef Koshari,91,45,0,1,0
+2024-01-08,2,Beef Koshari,57,45,0,0,0
+2024-01-09,2,Beef Koshari,79,45,0,0,0
+2024-01-10,2,Beef Koshari,61,45,0,0,0
+2024-01-11,2,Beef Koshari,55,45,0,0,0
+2024-01-12,2,Beef Koshari,84,45,0,0,0
+2024-01-13,2,Beef Koshari,115,45,1,0,0
+2024-01-14,2,Beef Koshari,57,45,0,0,0
+2024-01-15,2,Beef Koshari,70,45,0,0,0
+2024-01-16,2,Beef Koshari,67,45,0,0,0
+2024-01-17,2,Beef Koshari,65,45,0,0,0
+2024-01-18,2,Beef Koshari,57,45,0,0,0
+2024-01-19,2,Beef Koshari,146,45,1,0,0
+2024-01-20,2,Beef Koshari,89,45,0,0,0
+2024-01-21,2,Beef Koshari,59,45,0,0,0
+2024-01-22,2,Beef Koshari,72,45,0,0,0
+2024-01-23,2,Beef Koshari,65,45,0,0,0
+2024-01-24,2,Beef Koshari,71,45,0,0,0
+2024-01-25,2,Beef Koshari,67,45,0,0,0
+2024-01-26,2,Beef Koshari,110,45,0,0,0
+2024-01-27,2,Beef Koshari,76,45,0,0,0
+2024-01-28,2,Beef Koshari,61,45,0,0,0
+2024-01-29,2,Beef Koshari,88,45,0,0,0
+2024-01-30,2,Beef Koshari,64,45,0,0,0
+2024-01-31,2,Beef Koshari,56,45,0,0,0
+2024-02-01,2,Beef Koshari,70,45,0,0,0
+2024-02-02,2,Beef Koshari,140,45,1,0,0
+2024-02-03,2,Beef Koshari,88,45,0,0,0
+2024-02-04,2,Beef Koshari,51,45,0,0,0
+2024-02-05,2,Beef Koshari,59,45,0,0,0
+2024-02-06,2,Beef Koshari,54,45,0,0,0
+2024-02-07,2,Beef Koshari,82,45,0,0,0
+2024-02-08,2,Beef Koshari,54,45,0,0,0
+2024-02-09,2,Beef Koshari,84,45,0,0,0
+2024-02-10,2,Beef Koshari,96,45,0,0,0
+2024-02-11,2,Beef Koshari,57,45,0,0,0
+2024-02-12,2,Beef Koshari,70,45,0,0,0
+2024-02-13,2,Beef Koshari,62,45,0,0,0
+2024-02-14,2,Beef Koshari,70,45,0,0,0
+2024-02-15,2,Beef Koshari,65,45,0,0,0
+2024-02-16,2,Beef Koshari,90,45,0,0,0
+2024-02-17,2,Beef Koshari,103,45,0,0,0
+2024-02-18,2,Beef Koshari,59,45,0,0,0
+2024-02-19,2,Beef Koshari,71,45,0,0,0
+2024-02-20,2,Beef Koshari,75,45,0,0,0
+2024-02-21,2,Beef Koshari,58,45,0,0,0
+2024-02-22,2,Beef Koshari,56,45,0,0,0
+2024-02-23,2,Beef Koshari,126,45,1,0,0
+2024-02-24,2,Beef Koshari,70,45,0,0,0
+2024-02-25,2,Beef Koshari,71,45,0,0,0
+2024-02-26,2,Beef Koshari,75,45,0,0,0
+2024-02-27,2,Beef Koshari,58,45,0,0,0
+2024-02-28,2,Beef Koshari,76,45,0,0,0
+2024-02-29,2,Beef Koshari,80,45,0,0,0
+2024-03-01,2,Beef Koshari,98,45,0,0,0
+2024-03-02,2,Beef Koshari,109,45,0,0,0
+2024-03-03,2,Beef Koshari,67,45,0,0,0
+2024-03-04,2,Beef Koshari,91,45,1,0,0
+2024-03-05,2,Beef Koshari,69,45,0,0,0
+2024-03-06,2,Beef Koshari,61,45,0,0,0
+2024-03-07,2,Beef Koshari,65,45,0,0,0
+2024-03-08,2,Beef Koshari,95,45,0,0,0
+2024-03-09,2,Beef Koshari,97,45,0,0,0
+2024-03-10,2,Beef Koshari,74,45,0,0,0
+2024-03-11,2,Beef Koshari,85,45,0,0,1
+2024-03-12,2,Beef Koshari,153,45,0,0,1
+2024-03-13,2,Beef Koshari,101,45,0,0,1
+2024-03-14,2,Beef Koshari,122,45,0,0,1
+2024-03-15,2,Beef Koshari,158,45,0,0,1
+2024-03-16,2,Beef Koshari,141,45,0,0,1
+2024-03-17,2,Beef Koshari,121,45,0,0,1
+2024-03-18,2,Beef Koshari,101,45,0,0,1
+2024-03-19,2,Beef Koshari,114,45,0,0,1
+2024-03-20,2,Beef Koshari,142,45,0,0,1
+2024-03-21,2,Beef Koshari,108,45,0,0,1
+2024-03-22,2,Beef Koshari,156,45,0,0,1
+2024-03-23,2,Beef Koshari,134,45,0,0,1
+2024-03-24,2,Beef Koshari,124,45,0,0,1
+2024-03-25,2,Beef Koshari,104,45,0,0,1
+2024-03-26,2,Beef Koshari,119,45,0,0,1
+2024-03-27,2,Beef Koshari,129,45,0,0,1
+2024-03-28,2,Beef Koshari,111,45,0,0,1
+2024-03-29,2,Beef Koshari,166,45,0,0,1
+2024-03-30,2,Beef Koshari,162,45,0,0,1
+2024-03-31,2,Beef Koshari,129,45,0,0,1
+2024-04-01,2,Beef Koshari,123,45,0,0,1
+2024-04-02,2,Beef Koshari,133,45,0,0,1
+2024-04-03,2,Beef Koshari,112,45,0,0,1
+2024-04-04,2,Beef Koshari,98,45,0,0,1
+2024-04-05,2,Beef Koshari,125,45,0,0,1
+2024-04-06,2,Beef Koshari,127,45,0,0,1
+2024-04-07,2,Beef Koshari,111,45,0,0,1
+2024-04-08,2,Beef Koshari,118,45,0,0,1
+2024-04-09,2,Beef Koshari,106,45,0,0,1
+2024-04-10,2,Beef Koshari,79,45,0,1,0
+2024-04-11,2,Beef Koshari,66,45,0,0,0
+2024-04-12,2,Beef Koshari,92,45,0,0,0
+2024-04-13,2,Beef Koshari,97,45,0,0,0
+2024-04-14,2,Beef Koshari,85,45,0,0,0
+2024-04-15,2,Beef Koshari,56,45,0,0,0
+2024-04-16,2,Beef Koshari,78,45,0,0,0
+2024-04-17,2,Beef Koshari,77,45,0,0,0
+2024-04-18,2,Beef Koshari,70,45,0,0,0
+2024-04-19,2,Beef Koshari,102,45,0,0,0
+2024-04-20,2,Beef Koshari,133,45,1,0,0
+2024-04-21,2,Beef Koshari,77,45,0,0,0
+2024-04-22,2,Beef Koshari,64,45,0,0,0
+2024-04-23,2,Beef Koshari,63,45,0,0,0
+2024-04-24,2,Beef Koshari,55,45,0,0,0
+2024-04-25,2,Beef Koshari,75,45,0,0,0
+2024-04-26,2,Beef Koshari,90,45,0,0,0
+2024-04-27,2,Beef Koshari,79,45,0,0,0
+2024-04-28,2,Beef Koshari,63,45,0,0,0
+2024-04-29,2,Beef Koshari,76,45,0,0,0
+2024-04-30,2,Beef Koshari,73,45,0,0,0
+2024-05-01,2,Beef Koshari,64,45,0,0,0
+2024-05-02,2,Beef Koshari,84,45,0,0,0
+2024-05-03,2,Beef Koshari,96,45,0,0,0
+2024-05-04,2,Beef Koshari,143,45,1,0,0
+2024-05-05,2,Beef Koshari,73,45,0,0,0
+2024-05-06,2,Beef Koshari,69,45,0,0,0
+2024-05-07,2,Beef Koshari,75,45,0,0,0
+2024-05-08,2,Beef Koshari,81,45,0,0,0
+2024-05-09,2,Beef Koshari,69,45,0,0,0
+2024-05-10,2,Beef Koshari,105,45,0,0,0
+2024-05-11,2,Beef Koshari,88,45,0,0,0
+2024-05-12,2,Beef Koshari,86,45,0,0,0
+2024-05-13,2,Beef Koshari,64,45,0,0,0
+2024-05-14,2,Beef Koshari,90,45,0,0,0
+2024-05-15,2,Beef Koshari,60,45,0,0,0
+2024-05-16,2,Beef Koshari,68,45,0,0,0
+2024-05-17,2,Beef Koshari,100,45,0,0,0
+2024-05-18,2,Beef Koshari,153,45,1,0,0
+2024-05-19,2,Beef Koshari,84,45,0,0,0
+2024-05-20,2,Beef Koshari,83,45,0,0,0
+2024-05-21,2,Beef Koshari,56,45,0,0,0
+2024-05-22,2,Beef Koshari,74,45,0,0,0
+2024-05-23,2,Beef Koshari,64,45,0,0,0
+2024-05-24,2,Beef Koshari,105,45,0,0,0
+2024-05-25,2,Beef Koshari,107,45,0,0,0
+2024-05-26,2,Beef Koshari,72,45,0,0,0
+2024-05-27,2,Beef Koshari,65,45,0,0,0
+2024-05-28,2,Beef Koshari,60,45,0,0,0
+2024-05-29,2,Beef Koshari,63,45,0,0,0
+2024-05-30,2,Beef Koshari,88,45,1,0,0
+2024-05-31,2,Beef Koshari,94,45,0,0,0
+2024-06-01,2,Beef Koshari,105,45,0,0,0
+2024-06-02,2,Beef Koshari,70,45,0,0,0
+2024-06-03,2,Beef Koshari,59,45,0,0,0
+2024-06-04,2,Beef Koshari,59,45,0,0,0
+2024-06-05,2,Beef Koshari,74,45,0,0,0
+2024-06-06,2,Beef Koshari,84,45,0,0,0
+2024-06-07,2,Beef Koshari,93,45,0,0,0
+2024-06-08,2,Beef Koshari,85,45,0,0,0
+2024-06-09,2,Beef Koshari,60,45,0,0,0
+2024-06-10,2,Beef Koshari,73,45,0,0,0
+2024-06-11,2,Beef Koshari,81,45,0,0,0
+2024-06-12,2,Beef Koshari,65,45,0,0,0
+2024-06-13,2,Beef Koshari,63,45,0,0,0
+2024-06-14,2,Beef Koshari,76,45,0,0,0
+2024-06-15,2,Beef Koshari,92,45,0,0,0
+2024-06-16,2,Beef Koshari,110,45,0,1,0
+2024-06-17,2,Beef Koshari,61,45,0,0,0
+2024-06-18,2,Beef Koshari,69,45,0,0,0
+2024-06-19,2,Beef Koshari,71,45,0,0,0
+2024-06-20,2,Beef Koshari,71,45,0,0,0
+2024-06-21,2,Beef Koshari,110,45,1,0,0
+2024-06-22,2,Beef Koshari,80,45,0,0,0
+2024-06-23,2,Beef Koshari,67,45,0,0,0
+2024-06-24,2,Beef Koshari,72,45,0,0,0
+2024-06-25,2,Beef Koshari,83,45,0,0,0
+2024-06-26,2,Beef Koshari,57,45,0,0,0
+2024-06-27,2,Beef Koshari,68,45,0,0,0
+2024-06-28,2,Beef Koshari,89,45,0,0,0
+2024-06-29,2,Beef Koshari,84,45,0,0,0
+2024-06-30,2,Beef Koshari,74,45,0,0,0
+2024-07-01,2,Beef Koshari,70,45,0,0,0
+2024-07-02,2,Beef Koshari,70,45,0,0,0
+2024-07-03,2,Beef Koshari,56,45,0,0,0
+2024-07-04,2,Beef Koshari,62,45,0,0,0
+2024-07-05,2,Beef Koshari,88,45,0,0,0
+2024-07-06,2,Beef Koshari,89,45,0,0,0
+2024-07-07,2,Beef Koshari,83,45,0,0,0
+2024-07-08,2,Beef Koshari,62,45,0,0,0
+2024-07-09,2,Beef Koshari,45,45,0,0,0
+2024-07-10,2,Beef Koshari,64,45,0,0,0
+2024-07-11,2,Beef Koshari,68,45,0,0,0
+2024-07-12,2,Beef Koshari,86,45,0,0,0
+2024-07-13,2,Beef Koshari,56,45,0,0,0
+2024-07-14,2,Beef Koshari,66,45,0,0,0
+2024-07-15,2,Beef Koshari,67,45,0,0,0
+2024-07-16,2,Beef Koshari,53,45,0,0,0
+2024-07-17,2,Beef Koshari,58,45,0,0,0
+2024-07-18,2,Beef Koshari,62,45,0,0,0
+2024-07-19,2,Beef Koshari,110,45,1,0,0
+2024-07-20,2,Beef Koshari,80,45,0,0,0
+2024-07-21,2,Beef Koshari,65,45,0,0,0
+2024-07-22,2,Beef Koshari,81,45,1,0,0
+2024-07-23,2,Beef Koshari,76,45,0,1,0
+2024-07-24,2,Beef Koshari,69,45,0,0,0
+2024-07-25,2,Beef Koshari,54,45,0,0,0
+2024-07-26,2,Beef Koshari,81,45,0,0,0
+2024-07-27,2,Beef Koshari,78,45,0,0,0
+2024-07-28,2,Beef Koshari,53,45,0,0,0
+2024-07-29,2,Beef Koshari,68,45,0,0,0
+2024-07-30,2,Beef Koshari,94,45,1,0,0
+2024-07-31,2,Beef Koshari,58,45,0,0,0
+2024-08-01,2,Beef Koshari,61,45,0,0,0
+2024-08-02,2,Beef Koshari,83,45,0,0,0
+2024-08-03,2,Beef Koshari,71,45,0,0,0
+2024-08-04,2,Beef Koshari,75,45,1,0,0
+2024-08-05,2,Beef Koshari,60,45,0,0,0
+2024-08-06,2,Beef Koshari,52,45,0,0,0
+2024-08-07,2,Beef Koshari,60,45,0,0,0
+2024-08-08,2,Beef Koshari,44,45,0,0,0
+2024-08-09,2,Beef Koshari,77,45,0,0,0
+2024-08-10,2,Beef Koshari,84,45,0,0,0
+2024-08-11,2,Beef Koshari,61,45,0,0,0
+2024-08-12,2,Beef Koshari,68,45,0,0,0
+2024-08-13,2,Beef Koshari,52,45,0,0,0
+2024-08-14,2,Beef Koshari,59,45,0,0,0
+2024-08-15,2,Beef Koshari,66,45,0,0,0
+2024-08-16,2,Beef Koshari,83,45,0,0,0
+2024-08-17,2,Beef Koshari,88,45,0,0,0
+2024-08-18,2,Beef Koshari,71,45,1,0,0
+2024-08-19,2,Beef Koshari,59,45,0,0,0
+2024-08-20,2,Beef Koshari,57,45,0,0,0
+2024-08-21,2,Beef Koshari,60,45,0,0,0
+2024-08-22,2,Beef Koshari,53,45,0,0,0
+2024-08-23,2,Beef Koshari,92,45,0,0,0
+2024-08-24,2,Beef Koshari,86,45,0,0,0
+2024-08-25,2,Beef Koshari,67,45,0,0,0
+2024-08-26,2,Beef Koshari,60,45,0,0,0
+2024-08-27,2,Beef Koshari,53,45,0,0,0
+2024-08-28,2,Beef Koshari,63,45,0,0,0
+2024-08-29,2,Beef Koshari,67,45,0,0,0
+2024-08-30,2,Beef Koshari,81,45,0,0,0
+2024-08-31,2,Beef Koshari,70,45,0,0,0
+2024-09-01,2,Beef Koshari,54,45,0,0,0
+2024-09-02,2,Beef Koshari,58,45,0,0,0
+2024-09-03,2,Beef Koshari,68,45,0,0,0
+2024-09-04,2,Beef Koshari,70,45,0,0,0
+2024-09-05,2,Beef Koshari,52,45,0,0,0
+2024-09-06,2,Beef Koshari,81,45,0,0,0
+2024-09-07,2,Beef Koshari,72,45,0,0,0
+2024-09-08,2,Beef Koshari,49,45,0,0,0
+2024-09-09,2,Beef Koshari,62,45,0,0,0
+2024-09-10,2,Beef Koshari,59,45,0,0,0
+2024-09-11,2,Beef Koshari,59,45,0,0,0
+2024-09-12,2,Beef Koshari,56,45,0,0,0
+2024-09-13,2,Beef Koshari,80,45,0,0,0
+2024-09-14,2,Beef Koshari,80,45,0,0,0
+2024-09-15,2,Beef Koshari,63,45,0,0,0
+2024-09-16,2,Beef Koshari,52,45,0,0,0
+2024-09-17,2,Beef Koshari,64,45,0,0,0
+2024-09-18,2,Beef Koshari,62,45,0,0,0
+2024-09-19,2,Beef Koshari,60,45,0,0,0
+2024-09-20,2,Beef Koshari,78,45,0,0,0
+2024-09-21,2,Beef Koshari,107,45,1,0,0
+2024-09-22,2,Beef Koshari,57,45,0,0,0
+2024-09-23,2,Beef Koshari,58,45,0,0,0
+2024-09-24,2,Beef Koshari,47,45,0,0,0
+2024-09-25,2,Beef Koshari,73,45,0,0,0
+2024-09-26,2,Beef Koshari,65,45,0,0,0
+2024-09-27,2,Beef Koshari,94,45,0,0,0
+2024-09-28,2,Beef Koshari,83,45,0,0,0
+2024-09-29,2,Beef Koshari,53,45,0,0,0
+2024-09-30,2,Beef Koshari,61,45,0,0,0
+2024-10-01,2,Beef Koshari,88,45,1,0,0
+2024-10-02,2,Beef Koshari,51,45,0,0,0
+2024-10-03,2,Beef Koshari,66,45,0,0,0
+2024-10-04,2,Beef Koshari,74,45,0,0,0
+2024-10-05,2,Beef Koshari,84,45,0,0,0
+2024-10-06,2,Beef Koshari,68,45,0,0,0
+2024-10-07,2,Beef Koshari,60,45,0,0,0
+2024-10-08,2,Beef Koshari,95,45,1,0,0
+2024-10-09,2,Beef Koshari,48,45,0,0,0
+2024-10-10,2,Beef Koshari,50,45,0,0,0
+2024-10-11,2,Beef Koshari,70,45,0,0,0
+2024-10-12,2,Beef Koshari,59,45,0,0,0
+2024-10-13,2,Beef Koshari,46,45,0,0,0
+2024-10-14,2,Beef Koshari,68,45,0,0,0
+2024-10-15,2,Beef Koshari,66,45,0,0,0
+2024-10-16,2,Beef Koshari,54,45,0,0,0
+2024-10-17,2,Beef Koshari,74,45,0,0,0
+2024-10-18,2,Beef Koshari,106,45,1,0,0
+2024-10-19,2,Beef Koshari,96,45,0,0,0
+2024-10-20,2,Beef Koshari,72,45,0,0,0
+2024-10-21,2,Beef Koshari,54,45,0,0,0
+2024-10-22,2,Beef Koshari,64,45,0,0,0
+2024-10-23,2,Beef Koshari,67,45,0,0,0
+2024-10-24,2,Beef Koshari,54,45,0,0,0
+2024-10-25,2,Beef Koshari,53,45,0,0,0
+2024-10-26,2,Beef Koshari,87,45,0,0,0
+2024-10-27,2,Beef Koshari,53,45,0,0,0
+2024-10-28,2,Beef Koshari,58,45,0,0,0
+2024-10-29,2,Beef Koshari,61,45,0,0,0
+2024-10-30,2,Beef Koshari,64,45,0,0,0
+2024-10-31,2,Beef Koshari,57,45,0,0,0
+2024-11-01,2,Beef Koshari,83,45,0,0,0
+2024-11-02,2,Beef Koshari,92,45,0,0,0
+2024-11-03,2,Beef Koshari,46,45,0,0,0
+2024-11-04,2,Beef Koshari,50,45,0,0,0
+2024-11-05,2,Beef Koshari,72,45,1,0,0
+2024-11-06,2,Beef Koshari,79,45,1,0,0
+2024-11-07,2,Beef Koshari,66,45,0,0,0
+2024-11-08,2,Beef Koshari,92,45,0,0,0
+2024-11-09,2,Beef Koshari,80,45,0,0,0
+2024-11-10,2,Beef Koshari,59,45,0,0,0
+2024-11-11,2,Beef Koshari,71,45,0,0,0
+2024-11-12,2,Beef Koshari,63,45,0,0,0
+2024-11-13,2,Beef Koshari,58,45,0,0,0
+2024-11-14,2,Beef Koshari,68,45,0,0,0
+2024-11-15,2,Beef Koshari,91,45,0,0,0
+2024-11-16,2,Beef Koshari,87,45,0,0,0
+2024-11-17,2,Beef Koshari,58,45,0,0,0
+2024-11-18,2,Beef Koshari,55,45,0,0,0
+2024-11-19,2,Beef Koshari,55,45,0,0,0
+2024-11-20,2,Beef Koshari,56,45,0,0,0
+2024-11-21,2,Beef Koshari,56,45,0,0,0
+2024-11-22,2,Beef Koshari,79,45,0,0,0
+2024-11-23,2,Beef Koshari,118,45,1,0,0
+2024-11-24,2,Beef Koshari,64,45,0,0,0
+2024-11-25,2,Beef Koshari,55,45,0,0,0
+2024-11-26,2,Beef Koshari,65,45,0,0,0
+2024-11-27,2,Beef Koshari,64,45,0,0,0
+2024-11-28,2,Beef Koshari,63,45,0,0,0
+2024-11-29,2,Beef Koshari,80,45,0,0,0
+2024-11-30,2,Beef Koshari,75,45,0,0,0
+2024-12-01,2,Beef Koshari,69,45,0,0,0
+2024-12-02,2,Beef Koshari,65,45,0,0,0
+2024-12-03,2,Beef Koshari,67,45,0,0,0
+2024-12-04,2,Beef Koshari,61,45,0,0,0
+2024-12-05,2,Beef Koshari,61,45,0,0,0
+2024-12-06,2,Beef Koshari,99,45,0,0,0
+2024-12-07,2,Beef Koshari,116,45,0,0,0
+2024-12-08,2,Beef Koshari,63,45,0,0,0
+2024-12-09,2,Beef Koshari,67,45,0,0,0
+2024-12-10,2,Beef Koshari,65,45,0,0,0
+2024-12-11,2,Beef Koshari,60,45,0,0,0
+2024-12-12,2,Beef Koshari,63,45,0,0,0
+2024-12-13,2,Beef Koshari,111,45,0,0,0
+2024-12-14,2,Beef Koshari,82,45,0,0,0
+2024-12-15,2,Beef Koshari,67,45,0,0,0
+2024-12-16,2,Beef Koshari,62,45,0,0,0
+2024-12-17,2,Beef Koshari,67,45,0,0,0
+2024-12-18,2,Beef Koshari,62,45,0,0,0
+2024-12-19,2,Beef Koshari,64,45,0,0,0
+2024-12-20,2,Beef Koshari,76,45,0,0,0
+2024-12-21,2,Beef Koshari,93,45,0,0,0
+2024-12-22,2,Beef Koshari,65,45,0,0,0
+2024-12-23,2,Beef Koshari,73,45,0,0,0
+2024-12-24,2,Beef Koshari,68,45,0,0,0
+2024-12-25,2,Beef Koshari,63,45,0,0,0
+2024-12-26,2,Beef Koshari,61,45,0,0,0
+2024-12-27,2,Beef Koshari,94,45,0,0,0
+2024-12-28,2,Beef Koshari,109,45,0,0,0
+2024-12-29,2,Beef Koshari,65,45,0,0,0
+2024-12-30,2,Beef Koshari,55,45,0,0,0
+2024-12-31,2,Beef Koshari,72,45,0,0,0
+2025-01-01,2,Beef Koshari,80,45,0,0,0
+2025-01-02,2,Beef Koshari,75,45,0,0,0
+2025-01-03,2,Beef Koshari,82,45,0,0,0
+2025-01-04,2,Beef Koshari,97,45,0,0,0
+2025-01-05,2,Beef Koshari,78,45,0,0,0
+2025-01-06,2,Beef Koshari,68,45,0,0,0
+2025-01-07,2,Beef Koshari,100,45,0,1,0
+2025-01-08,2,Beef Koshari,67,45,0,0,0
+2025-01-09,2,Beef Koshari,70,45,0,0,0
+2025-01-10,2,Beef Koshari,84,45,0,0,0
+2025-01-11,2,Beef Koshari,100,45,0,0,0
+2025-01-12,2,Beef Koshari,75,45,0,0,0
+2025-01-13,2,Beef Koshari,75,45,0,0,0
+2025-01-14,2,Beef Koshari,73,45,0,0,0
+2025-01-15,2,Beef Koshari,63,45,0,0,0
+2025-01-16,2,Beef Koshari,100,45,1,0,0
+2025-01-17,2,Beef Koshari,121,45,0,0,0
+2025-01-18,2,Beef Koshari,102,45,0,0,0
+2025-01-19,2,Beef Koshari,94,45,1,0,0
+2025-01-20,2,Beef Koshari,80,45,0,0,0
+2025-01-21,2,Beef Koshari,91,45,0,0,0
+2025-01-22,2,Beef Koshari,78,45,0,0,0
+2025-01-23,2,Beef Koshari,73,45,0,0,0
+2025-01-24,2,Beef Koshari,117,45,0,0,0
+2025-01-25,2,Beef Koshari,96,45,0,0,0
+2025-01-26,2,Beef Koshari,84,45,0,0,0
+2025-01-27,2,Beef Koshari,71,45,0,0,0
+2025-01-28,2,Beef Koshari,72,45,0,0,0
+2025-01-29,2,Beef Koshari,83,45,0,0,0
+2025-01-30,2,Beef Koshari,88,45,0,0,0
+2025-01-31,2,Beef Koshari,102,45,0,0,0
+2025-02-01,2,Beef Koshari,119,45,0,0,0
+2025-02-02,2,Beef Koshari,80,45,0,0,0
+2025-02-03,2,Beef Koshari,70,45,0,0,0
+2025-02-04,2,Beef Koshari,73,45,0,0,0
+2025-02-05,2,Beef Koshari,82,45,0,0,0
+2025-02-06,2,Beef Koshari,90,45,0,0,0
+2025-02-07,2,Beef Koshari,118,45,0,0,0
+2025-02-08,2,Beef Koshari,118,45,0,0,0
+2025-02-09,2,Beef Koshari,66,45,0,0,0
+2025-02-10,2,Beef Koshari,85,45,0,0,0
+2025-02-11,2,Beef Koshari,85,45,0,0,0
+2025-02-12,2,Beef Koshari,81,45,0,0,0
+2025-02-13,2,Beef Koshari,85,45,0,0,0
+2025-02-14,2,Beef Koshari,85,45,0,0,0
+2025-02-15,2,Beef Koshari,78,45,0,0,0
+2025-02-16,2,Beef Koshari,82,45,0,0,0
+2025-02-17,2,Beef Koshari,79,45,0,0,0
+2025-02-18,2,Beef Koshari,77,45,0,0,0
+2025-02-19,2,Beef Koshari,84,45,0,0,0
+2025-02-20,2,Beef Koshari,82,45,0,0,0
+2025-02-21,2,Beef Koshari,112,45,0,0,0
+2025-02-22,2,Beef Koshari,168,45,1,0,0
+2025-02-23,2,Beef Koshari,75,45,0,0,0
+2025-02-24,2,Beef Koshari,84,45,0,0,0
+2025-02-25,2,Beef Koshari,74,45,0,0,0
+2025-02-26,2,Beef Koshari,62,45,0,0,0
+2025-02-27,2,Beef Koshari,78,45,0,0,0
+2025-02-28,2,Beef Koshari,123,45,0,0,0
+2025-03-01,2,Beef Koshari,220,45,1,0,1
+2025-03-02,2,Beef Koshari,137,45,0,0,1
+2025-03-03,2,Beef Koshari,144,45,0,0,1
+2025-03-04,2,Beef Koshari,142,45,0,0,1
+2025-03-05,2,Beef Koshari,168,45,1,0,1
+2025-03-06,2,Beef Koshari,119,45,0,0,1
+2025-03-07,2,Beef Koshari,177,45,0,0,1
+2025-03-08,2,Beef Koshari,183,45,0,0,1
+2025-03-09,2,Beef Koshari,141,45,0,0,1
+2025-03-10,2,Beef Koshari,142,45,0,0,1
+2025-03-11,2,Beef Koshari,174,45,0,0,1
+2025-03-12,2,Beef Koshari,155,45,0,0,1
+2025-03-13,2,Beef Koshari,126,45,0,0,1
+2025-03-14,2,Beef Koshari,223,45,0,0,1
+2025-03-15,2,Beef Koshari,155,45,0,0,1
+2025-03-16,2,Beef Koshari,116,45,0,0,1
+2025-03-17,2,Beef Koshari,145,45,0,0,1
+2025-03-18,2,Beef Koshari,128,45,0,0,1
+2025-03-19,2,Beef Koshari,94,45,0,0,1
+2025-03-20,2,Beef Koshari,156,45,0,0,1
+2025-03-21,2,Beef Koshari,193,45,0,0,1
+2025-03-22,2,Beef Koshari,177,45,0,0,1
+2025-03-23,2,Beef Koshari,130,45,0,0,1
+2025-03-24,2,Beef Koshari,130,45,0,0,1
+2025-03-25,2,Beef Koshari,100,45,0,0,1
+2025-03-26,2,Beef Koshari,119,45,0,0,1
+2025-03-27,2,Beef Koshari,123,45,0,0,1
+2025-03-28,2,Beef Koshari,285,45,1,0,1
+2025-03-29,2,Beef Koshari,168,45,0,0,1
+2025-03-30,2,Beef Koshari,210,45,0,1,1
+2025-03-31,2,Beef Koshari,82,45,0,0,0
+2025-04-01,2,Beef Koshari,75,45,0,0,0
+2025-04-02,2,Beef Koshari,86,45,0,0,0
+2025-04-03,2,Beef Koshari,83,45,0,0,0
+2025-04-04,2,Beef Koshari,128,45,0,0,0
+2025-04-05,2,Beef Koshari,108,45,0,0,0
+2025-04-06,2,Beef Koshari,77,45,0,0,0
+2025-04-07,2,Beef Koshari,92,45,0,0,0
+2025-04-08,2,Beef Koshari,82,45,0,0,0
+2025-04-09,2,Beef Koshari,93,45,0,0,0
+2025-04-10,2,Beef Koshari,78,45,0,0,0
+2025-04-11,2,Beef Koshari,115,45,0,0,0
+2025-04-12,2,Beef Koshari,105,45,0,0,0
+2025-04-13,2,Beef Koshari,75,45,0,0,0
+2025-04-14,2,Beef Koshari,62,45,0,0,0
+2025-04-15,2,Beef Koshari,99,45,0,0,0
+2025-04-16,2,Beef Koshari,110,45,1,0,0
+2025-04-17,2,Beef Koshari,89,45,0,0,0
+2025-04-18,2,Beef Koshari,111,45,0,0,0
+2025-04-19,2,Beef Koshari,129,45,0,0,0
+2025-04-20,2,Beef Koshari,93,45,1,0,0
+2025-04-21,2,Beef Koshari,86,45,0,0,0
+2025-04-22,2,Beef Koshari,91,45,0,0,0
+2025-04-23,2,Beef Koshari,84,45,0,0,0
+2025-04-24,2,Beef Koshari,76,45,0,0,0
+2025-04-25,2,Beef Koshari,126,45,1,0,0
+2025-04-26,2,Beef Koshari,104,45,0,0,0
+2025-04-27,2,Beef Koshari,64,45,0,0,0
+2025-04-28,2,Beef Koshari,91,45,0,0,0
+2025-04-29,2,Beef Koshari,88,45,0,0,0
+2025-04-30,2,Beef Koshari,92,45,0,0,0
+2025-05-01,2,Beef Koshari,74,45,0,0,0
+2025-05-02,2,Beef Koshari,97,45,0,0,0
+2025-05-03,2,Beef Koshari,119,45,0,0,0
+2025-05-04,2,Beef Koshari,88,45,0,0,0
+2025-05-05,2,Beef Koshari,65,45,0,0,0
+2025-05-06,2,Beef Koshari,76,45,0,0,0
+2025-05-07,2,Beef Koshari,98,45,0,0,0
+2025-05-08,2,Beef Koshari,90,45,0,0,0
+2025-05-09,2,Beef Koshari,108,45,0,0,0
+2025-05-10,2,Beef Koshari,95,45,0,0,0
+2025-05-11,2,Beef Koshari,73,45,0,0,0
+2025-05-12,2,Beef Koshari,109,45,1,0,0
+2025-05-13,2,Beef Koshari,68,45,0,0,0
+2025-05-14,2,Beef Koshari,132,45,1,0,0
+2025-05-15,2,Beef Koshari,93,45,0,0,0
+2025-05-16,2,Beef Koshari,95,45,0,0,0
+2025-05-17,2,Beef Koshari,135,45,0,0,0
+2025-05-18,2,Beef Koshari,77,45,0,0,0
+2025-05-19,2,Beef Koshari,82,45,0,0,0
+2025-05-20,2,Beef Koshari,77,45,0,0,0
+2025-05-21,2,Beef Koshari,71,45,0,0,0
+2025-05-22,2,Beef Koshari,109,45,1,0,0
+2025-05-23,2,Beef Koshari,86,45,0,0,0
+2025-05-24,2,Beef Koshari,105,45,0,0,0
+2025-05-25,2,Beef Koshari,80,45,0,0,0
+2025-05-26,2,Beef Koshari,83,45,0,0,0
+2025-05-27,2,Beef Koshari,66,45,0,0,0
+2025-05-28,2,Beef Koshari,66,45,0,0,0
+2025-05-29,2,Beef Koshari,82,45,0,0,0
+2025-05-30,2,Beef Koshari,93,45,0,0,0
+2025-05-31,2,Beef Koshari,105,45,0,0,0
+2025-06-01,2,Beef Koshari,92,45,0,0,0
+2025-06-02,2,Beef Koshari,68,45,0,0,0
+2025-06-03,2,Beef Koshari,71,45,0,0,0
+2025-06-04,2,Beef Koshari,89,45,0,0,0
+2025-06-05,2,Beef Koshari,62,45,0,0,0
+2025-06-06,2,Beef Koshari,104,45,0,0,0
+2025-06-07,2,Beef Koshari,137,45,0,0,0
+2025-06-08,2,Beef Koshari,82,45,0,0,0
+2025-06-09,2,Beef Koshari,87,45,0,0,0
+2025-06-10,2,Beef Koshari,74,45,0,0,0
+2025-06-11,2,Beef Koshari,93,45,1,0,0
+2025-06-12,2,Beef Koshari,64,45,0,0,0
+2025-06-13,2,Beef Koshari,109,45,0,0,0
+2025-06-14,2,Beef Koshari,109,45,0,0,0
+2025-06-15,2,Beef Koshari,94,45,0,0,0
+2025-06-16,2,Beef Koshari,74,45,0,0,0
+2025-06-17,2,Beef Koshari,80,45,0,0,0
+2025-06-18,2,Beef Koshari,76,45,0,0,0
+2025-06-19,2,Beef Koshari,66,45,0,0,0
+2025-06-20,2,Beef Koshari,107,45,0,0,0
+2025-06-21,2,Beef Koshari,117,45,0,0,0
+2025-06-22,2,Beef Koshari,83,45,0,0,0
+2025-06-23,2,Beef Koshari,70,45,0,0,0
+2024-01-01,3,Falafel Sandwich,106,20,0,0,0
+2024-01-02,3,Falafel Sandwich,78,20,0,0,0
+2024-01-03,3,Falafel Sandwich,92,20,0,0,0
+2024-01-04,3,Falafel Sandwich,77,20,0,0,0
+2024-01-05,3,Falafel Sandwich,125,20,0,0,0
+2024-01-06,3,Falafel Sandwich,107,20,0,0,0
+2024-01-07,3,Falafel Sandwich,168,20,1,1,0
+2024-01-08,3,Falafel Sandwich,92,20,0,0,0
+2024-01-09,3,Falafel Sandwich,101,20,0,0,0
+2024-01-10,3,Falafel Sandwich,80,20,0,0,0
+2024-01-11,3,Falafel Sandwich,78,20,0,0,0
+2024-01-12,3,Falafel Sandwich,102,20,0,0,0
+2024-01-13,3,Falafel Sandwich,100,20,0,0,0
+2024-01-14,3,Falafel Sandwich,76,20,0,0,0
+2024-01-15,3,Falafel Sandwich,109,20,1,0,0
+2024-01-16,3,Falafel Sandwich,129,20,1,0,0
+2024-01-17,3,Falafel Sandwich,89,20,0,0,0
+2024-01-18,3,Falafel Sandwich,91,20,0,0,0
+2024-01-19,3,Falafel Sandwich,123,20,0,0,0
+2024-01-20,3,Falafel Sandwich,130,20,0,0,0
+2024-01-21,3,Falafel Sandwich,77,20,0,0,0
+2024-01-22,3,Falafel Sandwich,87,20,0,0,0
+2024-01-23,3,Falafel Sandwich,96,20,1,0,0
+2024-01-24,3,Falafel Sandwich,96,20,1,0,0
+2024-01-25,3,Falafel Sandwich,87,20,0,0,0
+2024-01-26,3,Falafel Sandwich,114,20,0,0,0
+2024-01-27,3,Falafel Sandwich,164,20,1,0,0
+2024-01-28,3,Falafel Sandwich,93,20,0,0,0
+2024-01-29,3,Falafel Sandwich,143,20,1,0,0
+2024-01-30,3,Falafel Sandwich,87,20,0,0,0
+2024-01-31,3,Falafel Sandwich,120,20,1,0,0
+2024-02-01,3,Falafel Sandwich,80,20,0,0,0
+2024-02-02,3,Falafel Sandwich,131,20,0,0,0
+2024-02-03,3,Falafel Sandwich,110,20,0,0,0
+2024-02-04,3,Falafel Sandwich,85,20,0,0,0
+2024-02-05,3,Falafel Sandwich,95,20,0,0,0
+2024-02-06,3,Falafel Sandwich,89,20,0,0,0
+2024-02-07,3,Falafel Sandwich,89,20,0,0,0
+2024-02-08,3,Falafel Sandwich,80,20,0,0,0
+2024-02-09,3,Falafel Sandwich,125,20,0,0,0
+2024-02-10,3,Falafel Sandwich,152,20,0,0,0
+2024-02-11,3,Falafel Sandwich,76,20,0,0,0
+2024-02-12,3,Falafel Sandwich,109,20,1,0,0
+2024-02-13,3,Falafel Sandwich,98,20,0,0,0
+2024-02-14,3,Falafel Sandwich,93,20,0,0,0
+2024-02-15,3,Falafel Sandwich,105,20,0,0,0
+2024-02-16,3,Falafel Sandwich,111,20,0,0,0
+2024-02-17,3,Falafel Sandwich,135,20,0,0,0
+2024-02-18,3,Falafel Sandwich,94,20,0,0,0
+2024-02-19,3,Falafel Sandwich,113,20,1,0,0
+2024-02-20,3,Falafel Sandwich,84,20,0,0,0
+2024-02-21,3,Falafel Sandwich,92,20,0,0,0
+2024-02-22,3,Falafel Sandwich,82,20,0,0,0
+2024-02-23,3,Falafel Sandwich,141,20,0,0,0
+2024-02-24,3,Falafel Sandwich,135,20,0,0,0
+2024-02-25,3,Falafel Sandwich,87,20,0,0,0
+2024-02-26,3,Falafel Sandwich,90,20,0,0,0
+2024-02-27,3,Falafel Sandwich,103,20,0,0,0
+2024-02-28,3,Falafel Sandwich,92,20,0,0,0
+2024-02-29,3,Falafel Sandwich,115,20,0,0,0
+2024-03-01,3,Falafel Sandwich,133,20,0,0,0
+2024-03-02,3,Falafel Sandwich,113,20,0,0,0
+2024-03-03,3,Falafel Sandwich,81,20,0,0,0
+2024-03-04,3,Falafel Sandwich,105,20,0,0,0
+2024-03-05,3,Falafel Sandwich,88,20,0,0,0
+2024-03-06,3,Falafel Sandwich,95,20,0,0,0
+2024-03-07,3,Falafel Sandwich,62,20,0,0,0
+2024-03-08,3,Falafel Sandwich,127,20,0,0,0
+2024-03-09,3,Falafel Sandwich,105,20,0,0,0
+2024-03-10,3,Falafel Sandwich,109,20,1,0,0
+2024-03-11,3,Falafel Sandwich,173,20,0,0,1
+2024-03-12,3,Falafel Sandwich,145,20,0,0,1
+2024-03-13,3,Falafel Sandwich,144,20,0,0,1
+2024-03-14,3,Falafel Sandwich,189,20,0,0,1
+2024-03-15,3,Falafel Sandwich,228,20,0,0,1
+2024-03-16,3,Falafel Sandwich,244,20,0,0,1
+2024-03-17,3,Falafel Sandwich,175,20,0,0,1
+2024-03-18,3,Falafel Sandwich,167,20,0,0,1
+2024-03-19,3,Falafel Sandwich,180,20,0,0,1
+2024-03-20,3,Falafel Sandwich,138,20,0,0,1
+2024-03-21,3,Falafel Sandwich,136,20,0,0,1
+2024-03-22,3,Falafel Sandwich,239,20,1,0,1
+2024-03-23,3,Falafel Sandwich,163,20,0,0,1
+2024-03-24,3,Falafel Sandwich,155,20,0,0,1
+2024-03-25,3,Falafel Sandwich,175,20,1,0,1
+2024-03-26,3,Falafel Sandwich,185,20,1,0,1
+2024-03-27,3,Falafel Sandwich,149,20,0,0,1
+2024-03-28,3,Falafel Sandwich,105,20,0,0,1
+2024-03-29,3,Falafel Sandwich,205,20,0,0,1
+2024-03-30,3,Falafel Sandwich,207,20,0,0,1
+2024-03-31,3,Falafel Sandwich,190,20,0,0,1
+2024-04-01,3,Falafel Sandwich,157,20,0,0,1
+2024-04-02,3,Falafel Sandwich,156,20,0,0,1
+2024-04-03,3,Falafel Sandwich,182,20,0,0,1
+2024-04-04,3,Falafel Sandwich,149,20,0,0,1
+2024-04-05,3,Falafel Sandwich,212,20,0,0,1
+2024-04-06,3,Falafel Sandwich,325,20,1,0,1
+2024-04-07,3,Falafel Sandwich,140,20,0,0,1
+2024-04-08,3,Falafel Sandwich,172,20,0,0,1
+2024-04-09,3,Falafel Sandwich,129,20,0,0,1
+2024-04-10,3,Falafel Sandwich,156,20,0,1,0
+2024-04-11,3,Falafel Sandwich,104,20,0,0,0
+2024-04-12,3,Falafel Sandwich,124,20,0,0,0
+2024-04-13,3,Falafel Sandwich,127,20,0,0,0
+2024-04-14,3,Falafel Sandwich,115,20,0,0,0
+2024-04-15,3,Falafel Sandwich,95,20,0,0,0
+2024-04-16,3,Falafel Sandwich,143,20,1,0,0
+2024-04-17,3,Falafel Sandwich,135,20,1,0,0
+2024-04-18,3,Falafel Sandwich,88,20,0,0,0
+2024-04-19,3,Falafel Sandwich,120,20,0,0,0
+2024-04-20,3,Falafel Sandwich,136,20,0,0,0
+2024-04-21,3,Falafel Sandwich,112,20,0,0,0
+2024-04-22,3,Falafel Sandwich,81,20,0,0,0
+2024-04-23,3,Falafel Sandwich,114,20,0,0,0
+2024-04-24,3,Falafel Sandwich,103,20,0,0,0
+2024-04-25,3,Falafel Sandwich,93,20,0,0,0
+2024-04-26,3,Falafel Sandwich,134,20,0,0,0
+2024-04-27,3,Falafel Sandwich,194,20,1,0,0
+2024-04-28,3,Falafel Sandwich,83,20,0,0,0
+2024-04-29,3,Falafel Sandwich,94,20,0,0,0
+2024-04-30,3,Falafel Sandwich,96,20,0,0,0
+2024-05-01,3,Falafel Sandwich,77,20,0,0,0
+2024-05-02,3,Falafel Sandwich,147,20,1,0,0
+2024-05-03,3,Falafel Sandwich,119,20,0,0,0
+2024-05-04,3,Falafel Sandwich,120,20,0,0,0
+2024-05-05,3,Falafel Sandwich,94,20,0,0,0
+2024-05-06,3,Falafel Sandwich,100,20,0,0,0
+2024-05-07,3,Falafel Sandwich,99,20,0,0,0
+2024-05-08,3,Falafel Sandwich,96,20,0,0,0
+2024-05-09,3,Falafel Sandwich,99,20,0,0,0
+2024-05-10,3,Falafel Sandwich,117,20,0,0,0
+2024-05-11,3,Falafel Sandwich,130,20,0,0,0
+2024-05-12,3,Falafel Sandwich,101,20,0,0,0
+2024-05-13,3,Falafel Sandwich,88,20,0,0,0
+2024-05-14,3,Falafel Sandwich,95,20,0,0,0
+2024-05-15,3,Falafel Sandwich,101,20,0,0,0
+2024-05-16,3,Falafel Sandwich,93,20,0,0,0
+2024-05-17,3,Falafel Sandwich,108,20,0,0,0
+2024-05-18,3,Falafel Sandwich,148,20,0,0,0
+2024-05-19,3,Falafel Sandwich,107,20,0,0,0
+2024-05-20,3,Falafel Sandwich,94,20,0,0,0
+2024-05-21,3,Falafel Sandwich,156,20,1,0,0
+2024-05-22,3,Falafel Sandwich,141,20,1,0,0
+2024-05-23,3,Falafel Sandwich,91,20,0,0,0
+2024-05-24,3,Falafel Sandwich,115,20,0,0,0
+2024-05-25,3,Falafel Sandwich,109,20,0,0,0
+2024-05-26,3,Falafel Sandwich,91,20,0,0,0
+2024-05-27,3,Falafel Sandwich,116,20,1,0,0
+2024-05-28,3,Falafel Sandwich,84,20,0,0,0
+2024-05-29,3,Falafel Sandwich,96,20,0,0,0
+2024-05-30,3,Falafel Sandwich,77,20,0,0,0
+2024-05-31,3,Falafel Sandwich,101,20,0,0,0
+2024-06-01,3,Falafel Sandwich,126,20,0,0,0
+2024-06-02,3,Falafel Sandwich,98,20,0,0,0
+2024-06-03,3,Falafel Sandwich,96,20,0,0,0
+2024-06-04,3,Falafel Sandwich,74,20,0,0,0
+2024-06-05,3,Falafel Sandwich,84,20,0,0,0
+2024-06-06,3,Falafel Sandwich,85,20,0,0,0
+2024-06-07,3,Falafel Sandwich,100,20,0,0,0
+2024-06-08,3,Falafel Sandwich,173,20,1,0,0
+2024-06-09,3,Falafel Sandwich,130,20,1,0,0
+2024-06-10,3,Falafel Sandwich,89,20,0,0,0
+2024-06-11,3,Falafel Sandwich,74,20,0,0,0
+2024-06-12,3,Falafel Sandwich,112,20,0,0,0
+2024-06-13,3,Falafel Sandwich,81,20,0,0,0
+2024-06-14,3,Falafel Sandwich,135,20,0,0,0
+2024-06-15,3,Falafel Sandwich,142,20,0,0,0
+2024-06-16,3,Falafel Sandwich,128,20,0,1,0
+2024-06-17,3,Falafel Sandwich,94,20,0,0,0
+2024-06-18,3,Falafel Sandwich,75,20,0,0,0
+2024-06-19,3,Falafel Sandwich,85,20,0,0,0
+2024-06-20,3,Falafel Sandwich,131,20,1,0,0
+2024-06-21,3,Falafel Sandwich,168,20,1,0,0
+2024-06-22,3,Falafel Sandwich,130,20,0,0,0
+2024-06-23,3,Falafel Sandwich,83,20,0,0,0
+2024-06-24,3,Falafel Sandwich,98,20,0,0,0
+2024-06-25,3,Falafel Sandwich,78,20,0,0,0
+2024-06-26,3,Falafel Sandwich,92,20,0,0,0
+2024-06-27,3,Falafel Sandwich,82,20,0,0,0
+2024-06-28,3,Falafel Sandwich,132,20,1,0,0
+2024-06-29,3,Falafel Sandwich,128,20,0,0,0
+2024-06-30,3,Falafel Sandwich,84,20,1,0,0
+2024-07-01,3,Falafel Sandwich,79,20,0,0,0
+2024-07-02,3,Falafel Sandwich,76,20,0,0,0
+2024-07-03,3,Falafel Sandwich,99,20,0,0,0
+2024-07-04,3,Falafel Sandwich,95,20,0,0,0
+2024-07-05,3,Falafel Sandwich,101,20,0,0,0
+2024-07-06,3,Falafel Sandwich,99,20,0,0,0
+2024-07-07,3,Falafel Sandwich,81,20,0,0,0
+2024-07-08,3,Falafel Sandwich,74,20,0,0,0
+2024-07-09,3,Falafel Sandwich,100,20,0,0,0
+2024-07-10,3,Falafel Sandwich,68,20,0,0,0
+2024-07-11,3,Falafel Sandwich,145,20,1,0,0
+2024-07-12,3,Falafel Sandwich,120,20,0,0,0
+2024-07-13,3,Falafel Sandwich,122,20,0,0,0
+2024-07-14,3,Falafel Sandwich,120,20,1,0,0
+2024-07-15,3,Falafel Sandwich,68,20,0,0,0
+2024-07-16,3,Falafel Sandwich,92,20,0,0,0
+2024-07-17,3,Falafel Sandwich,84,20,0,0,0
+2024-07-18,3,Falafel Sandwich,74,20,0,0,0
+2024-07-19,3,Falafel Sandwich,127,20,0,0,0
+2024-07-20,3,Falafel Sandwich,126,20,0,0,0
+2024-07-21,3,Falafel Sandwich,94,20,0,0,0
+2024-07-22,3,Falafel Sandwich,92,20,0,0,0
+2024-07-23,3,Falafel Sandwich,116,20,0,1,0
+2024-07-24,3,Falafel Sandwich,88,20,0,0,0
+2024-07-25,3,Falafel Sandwich,93,20,0,0,0
+2024-07-26,3,Falafel Sandwich,124,20,0,0,0
+2024-07-27,3,Falafel Sandwich,79,20,0,0,0
+2024-07-28,3,Falafel Sandwich,81,20,0,0,0
+2024-07-29,3,Falafel Sandwich,75,20,0,0,0
+2024-07-30,3,Falafel Sandwich,134,20,1,0,0
+2024-07-31,3,Falafel Sandwich,81,20,0,0,0
+2024-08-01,3,Falafel Sandwich,86,20,0,0,0
+2024-08-02,3,Falafel Sandwich,112,20,0,0,0
+2024-08-03,3,Falafel Sandwich,127,20,0,0,0
+2024-08-04,3,Falafel Sandwich,138,20,1,0,0
+2024-08-05,3,Falafel Sandwich,81,20,0,0,0
+2024-08-06,3,Falafel Sandwich,83,20,0,0,0
+2024-08-07,3,Falafel Sandwich,94,20,0,0,0
+2024-08-08,3,Falafel Sandwich,69,20,0,0,0
+2024-08-09,3,Falafel Sandwich,95,20,0,0,0
+2024-08-10,3,Falafel Sandwich,99,20,0,0,0
+2024-08-11,3,Falafel Sandwich,87,20,0,0,0
+2024-08-12,3,Falafel Sandwich,80,20,0,0,0
+2024-08-13,3,Falafel Sandwich,73,20,0,0,0
+2024-08-14,3,Falafel Sandwich,91,20,0,0,0
+2024-08-15,3,Falafel Sandwich,65,20,0,0,0
+2024-08-16,3,Falafel Sandwich,98,20,0,0,0
+2024-08-17,3,Falafel Sandwich,105,20,0,0,0
+2024-08-18,3,Falafel Sandwich,96,20,0,0,0
+2024-08-19,3,Falafel Sandwich,73,20,0,0,0
+2024-08-20,3,Falafel Sandwich,117,20,1,0,0
+2024-08-21,3,Falafel Sandwich,77,20,0,0,0
+2024-08-22,3,Falafel Sandwich,67,20,0,0,0
+2024-08-23,3,Falafel Sandwich,112,20,0,0,0
+2024-08-24,3,Falafel Sandwich,102,20,0,0,0
+2024-08-25,3,Falafel Sandwich,73,20,0,0,0
+2024-08-26,3,Falafel Sandwich,66,20,0,0,0
+2024-08-27,3,Falafel Sandwich,79,20,0,0,0
+2024-08-28,3,Falafel Sandwich,92,20,0,0,0
+2024-08-29,3,Falafel Sandwich,72,20,0,0,0
+2024-08-30,3,Falafel Sandwich,91,20,0,0,0
+2024-08-31,3,Falafel Sandwich,84,20,0,0,0
+2024-09-01,3,Falafel Sandwich,61,20,0,0,0
+2024-09-02,3,Falafel Sandwich,76,20,0,0,0
+2024-09-03,3,Falafel Sandwich,78,20,0,0,0
+2024-09-04,3,Falafel Sandwich,113,20,1,0,0
+2024-09-05,3,Falafel Sandwich,107,20,1,0,0
+2024-09-06,3,Falafel Sandwich,106,20,0,0,0
+2024-09-07,3,Falafel Sandwich,123,20,0,0,0
+2024-09-08,3,Falafel Sandwich,88,20,0,0,0
+2024-09-09,3,Falafel Sandwich,123,20,1,0,0
+2024-09-10,3,Falafel Sandwich,86,20,0,0,0
+2024-09-11,3,Falafel Sandwich,83,20,0,0,0
+2024-09-12,3,Falafel Sandwich,63,20,0,0,0
+2024-09-13,3,Falafel Sandwich,101,20,0,0,0
+2024-09-14,3,Falafel Sandwich,107,20,0,0,0
+2024-09-15,3,Falafel Sandwich,69,20,0,0,0
+2024-09-16,3,Falafel Sandwich,129,20,1,0,0
+2024-09-17,3,Falafel Sandwich,74,20,0,0,0
+2024-09-18,3,Falafel Sandwich,62,20,0,0,0
+2024-09-19,3,Falafel Sandwich,73,20,0,0,0
+2024-09-20,3,Falafel Sandwich,109,20,0,0,0
+2024-09-21,3,Falafel Sandwich,93,20,0,0,0
+2024-09-22,3,Falafel Sandwich,75,20,0,0,0
+2024-09-23,3,Falafel Sandwich,62,20,0,0,0
+2024-09-24,3,Falafel Sandwich,72,20,0,0,0
+2024-09-25,3,Falafel Sandwich,77,20,0,0,0
+2024-09-26,3,Falafel Sandwich,76,20,0,0,0
+2024-09-27,3,Falafel Sandwich,113,20,0,0,0
+2024-09-28,3,Falafel Sandwich,91,20,0,0,0
+2024-09-29,3,Falafel Sandwich,80,20,0,0,0
+2024-09-30,3,Falafel Sandwich,115,20,1,0,0
+2024-10-01,3,Falafel Sandwich,70,20,0,0,0
+2024-10-02,3,Falafel Sandwich,69,20,0,0,0
+2024-10-03,3,Falafel Sandwich,129,20,1,0,0
+2024-10-04,3,Falafel Sandwich,100,20,0,0,0
+2024-10-05,3,Falafel Sandwich,109,20,0,0,0
+2024-10-06,3,Falafel Sandwich,81,20,0,0,0
+2024-10-07,3,Falafel Sandwich,64,20,0,0,0
+2024-10-08,3,Falafel Sandwich,79,20,0,0,0
+2024-10-09,3,Falafel Sandwich,78,20,0,0,0
+2024-10-10,3,Falafel Sandwich,130,20,1,0,0
+2024-10-11,3,Falafel Sandwich,106,20,0,0,0
+2024-10-12,3,Falafel Sandwich,114,20,0,0,0
+2024-10-13,3,Falafel Sandwich,85,20,0,0,0
+2024-10-14,3,Falafel Sandwich,75,20,0,0,0
+2024-10-15,3,Falafel Sandwich,97,20,0,0,0
+2024-10-16,3,Falafel Sandwich,71,20,0,0,0
+2024-10-17,3,Falafel Sandwich,63,20,0,0,0
+2024-10-18,3,Falafel Sandwich,79,20,0,0,0
+2024-10-19,3,Falafel Sandwich,99,20,0,0,0
+2024-10-20,3,Falafel Sandwich,86,20,1,0,0
+2024-10-21,3,Falafel Sandwich,72,20,0,0,0
+2024-10-22,3,Falafel Sandwich,78,20,0,0,0
+2024-10-23,3,Falafel Sandwich,81,20,0,0,0
+2024-10-24,3,Falafel Sandwich,75,20,0,0,0
+2024-10-25,3,Falafel Sandwich,97,20,0,0,0
+2024-10-26,3,Falafel Sandwich,100,20,0,0,0
+2024-10-27,3,Falafel Sandwich,118,20,1,0,0
+2024-10-28,3,Falafel Sandwich,69,20,0,0,0
+2024-10-29,3,Falafel Sandwich,73,20,0,0,0
+2024-10-30,3,Falafel Sandwich,82,20,0,0,0
+2024-10-31,3,Falafel Sandwich,80,20,0,0,0
+2024-11-01,3,Falafel Sandwich,86,20,0,0,0
+2024-11-02,3,Falafel Sandwich,121,20,0,0,0
+2024-11-03,3,Falafel Sandwich,75,20,0,0,0
+2024-11-04,3,Falafel Sandwich,69,20,0,0,0
+2024-11-05,3,Falafel Sandwich,67,20,0,0,0
+2024-11-06,3,Falafel Sandwich,91,20,0,0,0
+2024-11-07,3,Falafel Sandwich,60,20,0,0,0
+2024-11-08,3,Falafel Sandwich,114,20,0,0,0
+2024-11-09,3,Falafel Sandwich,120,20,0,0,0
+2024-11-10,3,Falafel Sandwich,77,20,0,0,0
+2024-11-11,3,Falafel Sandwich,97,20,0,0,0
+2024-11-12,3,Falafel Sandwich,72,20,0,0,0
+2024-11-13,3,Falafel Sandwich,87,20,0,0,0
+2024-11-14,3,Falafel Sandwich,83,20,0,0,0
+2024-11-15,3,Falafel Sandwich,134,20,0,0,0
+2024-11-16,3,Falafel Sandwich,107,20,0,0,0
+2024-11-17,3,Falafel Sandwich,87,20,0,0,0
+2024-11-18,3,Falafel Sandwich,84,20,0,0,0
+2024-11-19,3,Falafel Sandwich,68,20,0,0,0
+2024-11-20,3,Falafel Sandwich,82,20,0,0,0
+2024-11-21,3,Falafel Sandwich,77,20,0,0,0
+2024-11-22,3,Falafel Sandwich,114,20,0,0,0
+2024-11-23,3,Falafel Sandwich,119,20,0,0,0
+2024-11-24,3,Falafel Sandwich,97,20,0,0,0
+2024-11-25,3,Falafel Sandwich,61,20,0,0,0
+2024-11-26,3,Falafel Sandwich,84,20,0,0,0
+2024-11-27,3,Falafel Sandwich,71,20,0,0,0
+2024-11-28,3,Falafel Sandwich,90,20,0,0,0
+2024-11-29,3,Falafel Sandwich,145,20,0,0,0
+2024-11-30,3,Falafel Sandwich,111,20,0,0,0
+2024-12-01,3,Falafel Sandwich,77,20,0,0,0
+2024-12-02,3,Falafel Sandwich,81,20,0,0,0
+2024-12-03,3,Falafel Sandwich,73,20,0,0,0
+2024-12-04,3,Falafel Sandwich,59,20,0,0,0
+2024-12-05,3,Falafel Sandwich,125,20,1,0,0
+2024-12-06,3,Falafel Sandwich,117,20,0,0,0
+2024-12-07,3,Falafel Sandwich,107,20,0,0,0
+2024-12-08,3,Falafel Sandwich,76,20,0,0,0
+2024-12-09,3,Falafel Sandwich,135,20,1,0,0
+2024-12-10,3,Falafel Sandwich,101,20,0,0,0
+2024-12-11,3,Falafel Sandwich,89,20,0,0,0
+2024-12-12,3,Falafel Sandwich,66,20,0,0,0
+2024-12-13,3,Falafel Sandwich,117,20,0,0,0
+2024-12-14,3,Falafel Sandwich,125,20,0,0,0
+2024-12-15,3,Falafel Sandwich,86,20,0,0,0
+2024-12-16,3,Falafel Sandwich,87,20,0,0,0
+2024-12-17,3,Falafel Sandwich,82,20,0,0,0
+2024-12-18,3,Falafel Sandwich,87,20,0,0,0
+2024-12-19,3,Falafel Sandwich,100,20,0,0,0
+2024-12-20,3,Falafel Sandwich,125,20,0,0,0
+2024-12-21,3,Falafel Sandwich,160,20,1,0,0
+2024-12-22,3,Falafel Sandwich,88,20,0,0,0
+2024-12-23,3,Falafel Sandwich,106,20,0,0,0
+2024-12-24,3,Falafel Sandwich,80,20,0,0,0
+2024-12-25,3,Falafel Sandwich,84,20,0,0,0
+2024-12-26,3,Falafel Sandwich,90,20,0,0,0
+2024-12-27,3,Falafel Sandwich,116,20,0,0,0
+2024-12-28,3,Falafel Sandwich,145,20,0,0,0
+2024-12-29,3,Falafel Sandwich,145,20,1,0,0
+2024-12-30,3,Falafel Sandwich,91,20,0,0,0
+2024-12-31,3,Falafel Sandwich,164,20,1,0,0
+2025-01-01,3,Falafel Sandwich,97,20,0,0,0
+2025-01-02,3,Falafel Sandwich,156,20,1,0,0
+2025-01-03,3,Falafel Sandwich,149,20,0,0,0
+2025-01-04,3,Falafel Sandwich,134,20,0,0,0
+2025-01-05,3,Falafel Sandwich,82,20,0,0,0
+2025-01-06,3,Falafel Sandwich,96,20,0,0,0
+2025-01-07,3,Falafel Sandwich,131,20,0,1,0
+2025-01-08,3,Falafel Sandwich,102,20,0,0,0
+2025-01-09,3,Falafel Sandwich,100,20,0,0,0
+2025-01-10,3,Falafel Sandwich,133,20,0,0,0
+2025-01-11,3,Falafel Sandwich,143,20,0,0,0
+2025-01-12,3,Falafel Sandwich,100,20,0,0,0
+2025-01-13,3,Falafel Sandwich,96,20,0,0,0
+2025-01-14,3,Falafel Sandwich,83,20,0,0,0
+2025-01-15,3,Falafel Sandwich,90,20,0,0,0
+2025-01-16,3,Falafel Sandwich,86,20,0,0,0
+2025-01-17,3,Falafel Sandwich,146,20,0,0,0
+2025-01-18,3,Falafel Sandwich,131,20,0,0,0
+2025-01-19,3,Falafel Sandwich,101,20,0,0,0
+2025-01-20,3,Falafel Sandwich,93,20,0,0,0
+2025-01-21,3,Falafel Sandwich,113,20,0,0,0
+2025-01-22,3,Falafel Sandwich,107,20,0,0,0
+2025-01-23,3,Falafel Sandwich,101,20,0,0,0
+2025-01-24,3,Falafel Sandwich,134,20,0,0,0
+2025-01-25,3,Falafel Sandwich,122,20,0,0,0
+2025-01-26,3,Falafel Sandwich,93,20,0,0,0
+2025-01-27,3,Falafel Sandwich,82,20,0,0,0
+2025-01-28,3,Falafel Sandwich,109,20,0,0,0
+2025-01-29,3,Falafel Sandwich,110,20,0,0,0
+2025-01-30,3,Falafel Sandwich,111,20,0,0,0
+2025-01-31,3,Falafel Sandwich,122,20,0,0,0
+2025-02-01,3,Falafel Sandwich,162,20,0,0,0
+2025-02-02,3,Falafel Sandwich,138,20,1,0,0
+2025-02-03,3,Falafel Sandwich,109,20,0,0,0
+2025-02-04,3,Falafel Sandwich,123,20,1,0,0
+2025-02-05,3,Falafel Sandwich,118,20,0,0,0
+2025-02-06,3,Falafel Sandwich,112,20,0,0,0
+2025-02-07,3,Falafel Sandwich,135,20,0,0,0
+2025-02-08,3,Falafel Sandwich,132,20,0,0,0
+2025-02-09,3,Falafel Sandwich,112,20,0,0,0
+2025-02-10,3,Falafel Sandwich,166,20,1,0,0
+2025-02-11,3,Falafel Sandwich,94,20,0,0,0
+2025-02-12,3,Falafel Sandwich,104,20,0,0,0
+2025-02-13,3,Falafel Sandwich,99,20,0,0,0
+2025-02-14,3,Falafel Sandwich,228,20,1,0,0
+2025-02-15,3,Falafel Sandwich,132,20,0,0,0
+2025-02-16,3,Falafel Sandwich,90,20,0,0,0
+2025-02-17,3,Falafel Sandwich,160,20,1,0,0
+2025-02-18,3,Falafel Sandwich,123,20,0,0,0
+2025-02-19,3,Falafel Sandwich,160,20,1,0,0
+2025-02-20,3,Falafel Sandwich,120,20,0,0,0
+2025-02-21,3,Falafel Sandwich,179,20,0,0,0
+2025-02-22,3,Falafel Sandwich,173,20,0,0,0
+2025-02-23,3,Falafel Sandwich,130,20,0,0,0
+2025-02-24,3,Falafel Sandwich,130,20,0,0,0
+2025-02-25,3,Falafel Sandwich,101,20,0,0,0
+2025-02-26,3,Falafel Sandwich,117,20,0,0,0
+2025-02-27,3,Falafel Sandwich,110,20,0,0,0
+2025-02-28,3,Falafel Sandwich,120,20,0,0,0
+2025-03-01,3,Falafel Sandwich,237,20,0,0,1
+2025-03-02,3,Falafel Sandwich,196,20,0,0,1
+2025-03-03,3,Falafel Sandwich,185,20,0,0,1
+2025-03-04,3,Falafel Sandwich,172,20,0,0,1
+2025-03-05,3,Falafel Sandwich,160,20,0,0,1
+2025-03-06,3,Falafel Sandwich,186,20,0,0,1
+2025-03-07,3,Falafel Sandwich,231,20,0,0,1
+2025-03-08,3,Falafel Sandwich,267,20,0,0,1
+2025-03-09,3,Falafel Sandwich,198,20,0,0,1
+2025-03-10,3,Falafel Sandwich,184,20,0,0,1
+2025-03-11,3,Falafel Sandwich,154,20,0,0,1
+2025-03-12,3,Falafel Sandwich,167,20,0,0,1
+2025-03-13,3,Falafel Sandwich,214,20,0,0,1
+2025-03-14,3,Falafel Sandwich,252,20,0,0,1
+2025-03-15,3,Falafel Sandwich,276,20,0,0,1
+2025-03-16,3,Falafel Sandwich,156,20,0,0,1
+2025-03-17,3,Falafel Sandwich,241,20,0,0,1
+2025-03-18,3,Falafel Sandwich,142,20,0,0,1
+2025-03-19,3,Falafel Sandwich,188,20,0,0,1
+2025-03-20,3,Falafel Sandwich,140,20,0,0,1
+2025-03-21,3,Falafel Sandwich,380,20,1,0,1
+2025-03-22,3,Falafel Sandwich,303,20,1,0,1
+2025-03-23,3,Falafel Sandwich,174,20,0,0,1
+2025-03-24,3,Falafel Sandwich,185,20,0,0,1
+2025-03-25,3,Falafel Sandwich,195,20,0,0,1
+2025-03-26,3,Falafel Sandwich,174,20,0,0,1
+2025-03-27,3,Falafel Sandwich,182,20,0,0,1
+2025-03-28,3,Falafel Sandwich,249,20,0,0,1
+2025-03-29,3,Falafel Sandwich,243,20,0,0,1
+2025-03-30,3,Falafel Sandwich,261,20,0,1,1
+2025-03-31,3,Falafel Sandwich,147,20,1,0,0
+2025-04-01,3,Falafel Sandwich,116,20,0,0,0
+2025-04-02,3,Falafel Sandwich,116,20,0,0,0
+2025-04-03,3,Falafel Sandwich,103,20,0,0,0
+2025-04-04,3,Falafel Sandwich,147,20,0,0,0
+2025-04-05,3,Falafel Sandwich,119,20,0,0,0
+2025-04-06,3,Falafel Sandwich,109,20,0,0,0
+2025-04-07,3,Falafel Sandwich,89,20,0,0,0
+2025-04-08,3,Falafel Sandwich,105,20,0,0,0
+2025-04-09,3,Falafel Sandwich,98,20,0,0,0
+2025-04-10,3,Falafel Sandwich,101,20,0,0,0
+2025-04-11,3,Falafel Sandwich,176,20,0,0,0
+2025-04-12,3,Falafel Sandwich,182,20,1,0,0
+2025-04-13,3,Falafel Sandwich,107,20,0,0,0
+2025-04-14,3,Falafel Sandwich,116,20,0,0,0
+2025-04-15,3,Falafel Sandwich,86,20,0,0,0
+2025-04-16,3,Falafel Sandwich,110,20,0,0,0
+2025-04-17,3,Falafel Sandwich,115,20,0,0,0
+2025-04-18,3,Falafel Sandwich,131,20,0,0,0
+2025-04-19,3,Falafel Sandwich,125,20,0,0,0
+2025-04-20,3,Falafel Sandwich,122,20,0,0,0
+2025-04-21,3,Falafel Sandwich,86,20,0,0,0
+2025-04-22,3,Falafel Sandwich,106,20,0,0,0
+2025-04-23,3,Falafel Sandwich,134,20,1,0,0
+2025-04-24,3,Falafel Sandwich,80,20,0,0,0
+2025-04-25,3,Falafel Sandwich,171,20,0,0,0
+2025-04-26,3,Falafel Sandwich,162,20,0,0,0
+2025-04-27,3,Falafel Sandwich,127,20,0,0,0
+2025-04-28,3,Falafel Sandwich,113,20,0,0,0
+2025-04-29,3,Falafel Sandwich,95,20,0,0,0
+2025-04-30,3,Falafel Sandwich,104,20,0,0,0
+2025-05-01,3,Falafel Sandwich,67,20,0,0,0
+2025-05-02,3,Falafel Sandwich,123,20,0,0,0
+2025-05-03,3,Falafel Sandwich,145,20,0,0,0
+2025-05-04,3,Falafel Sandwich,125,20,0,0,0
+2025-05-05,3,Falafel Sandwich,104,20,0,0,0
+2025-05-06,3,Falafel Sandwich,115,20,0,0,0
+2025-05-07,3,Falafel Sandwich,114,20,0,0,0
+2025-05-08,3,Falafel Sandwich,94,20,0,0,0
+2025-05-09,3,Falafel Sandwich,127,20,0,0,0
+2025-05-10,3,Falafel Sandwich,160,20,0,0,0
+2025-05-11,3,Falafel Sandwich,98,20,0,0,0
+2025-05-12,3,Falafel Sandwich,115,20,0,0,0
+2025-05-13,3,Falafel Sandwich,98,20,0,0,0
+2025-05-14,3,Falafel Sandwich,100,20,0,0,0
+2025-05-15,3,Falafel Sandwich,114,20,0,0,0
+2025-05-16,3,Falafel Sandwich,144,20,0,0,0
+2025-05-17,3,Falafel Sandwich,141,20,0,0,0
+2025-05-18,3,Falafel Sandwich,96,20,0,0,0
+2025-05-19,3,Falafel Sandwich,110,20,0,0,0
+2025-05-20,3,Falafel Sandwich,98,20,0,0,0
+2025-05-21,3,Falafel Sandwich,115,20,0,0,0
+2025-05-22,3,Falafel Sandwich,96,20,0,0,0
+2025-05-23,3,Falafel Sandwich,140,20,0,0,0
+2025-05-24,3,Falafel Sandwich,155,20,0,0,0
+2025-05-25,3,Falafel Sandwich,156,20,1,0,0
+2025-05-26,3,Falafel Sandwich,113,20,0,0,0
+2025-05-27,3,Falafel Sandwich,106,20,0,0,0
+2025-05-28,3,Falafel Sandwich,92,20,0,0,0
+2025-05-29,3,Falafel Sandwich,118,20,0,0,0
+2025-05-30,3,Falafel Sandwich,202,20,1,0,0
+2025-05-31,3,Falafel Sandwich,133,20,0,0,0
+2025-06-01,3,Falafel Sandwich,97,20,0,0,0
+2025-06-02,3,Falafel Sandwich,127,20,0,0,0
+2025-06-03,3,Falafel Sandwich,104,20,0,0,0
+2025-06-04,3,Falafel Sandwich,131,20,0,0,0
+2025-06-05,3,Falafel Sandwich,88,20,0,0,0
+2025-06-06,3,Falafel Sandwich,163,20,0,0,0
+2025-06-07,3,Falafel Sandwich,136,20,0,0,0
+2025-06-08,3,Falafel Sandwich,137,20,1,0,0
+2025-06-09,3,Falafel Sandwich,91,20,0,0,0
+2025-06-10,3,Falafel Sandwich,105,20,0,0,0
+2025-06-11,3,Falafel Sandwich,116,20,0,0,0
+2025-06-12,3,Falafel Sandwich,147,20,1,0,0
+2025-06-13,3,Falafel Sandwich,132,20,0,0,0
+2025-06-14,3,Falafel Sandwich,114,20,0,0,0
+2025-06-15,3,Falafel Sandwich,140,20,1,0,0
+2025-06-16,3,Falafel Sandwich,107,20,0,0,0
+2025-06-17,3,Falafel Sandwich,92,20,0,0,0
+2025-06-18,3,Falafel Sandwich,118,20,0,0,0
+2025-06-19,3,Falafel Sandwich,97,20,0,0,0
+2025-06-20,3,Falafel Sandwich,144,20,0,0,0
+2025-06-21,3,Falafel Sandwich,131,20,0,0,0
+2025-06-22,3,Falafel Sandwich,112,20,0,0,0
+2025-06-23,3,Falafel Sandwich,104,20,0,0,0
+2024-01-01,4,Grilled Fish,41,150,1,0,0
+2024-01-02,4,Grilled Fish,25,150,0,0,0
+2024-01-03,4,Grilled Fish,27,150,0,0,0
+2024-01-04,4,Grilled Fish,26,150,0,0,0
+2024-01-05,4,Grilled Fish,29,150,0,0,0
+2024-01-06,4,Grilled Fish,39,150,0,0,0
+2024-01-07,4,Grilled Fish,40,150,0,1,0
+2024-01-08,4,Grilled Fish,27,150,0,0,0
+2024-01-09,4,Grilled Fish,29,150,0,0,0
+2024-01-10,4,Grilled Fish,29,150,0,0,0
+2024-01-11,4,Grilled Fish,22,150,0,0,0
+2024-01-12,4,Grilled Fish,41,150,1,0,0
+2024-01-13,4,Grilled Fish,32,150,0,0,0
+2024-01-14,4,Grilled Fish,22,150,0,0,0
+2024-01-15,4,Grilled Fish,25,150,0,0,0
+2024-01-16,4,Grilled Fish,23,150,0,0,0
+2024-01-17,4,Grilled Fish,32,150,1,0,0
+2024-01-18,4,Grilled Fish,27,150,0,0,0
+2024-01-19,4,Grilled Fish,29,150,0,0,0
+2024-01-20,4,Grilled Fish,36,150,0,0,0
+2024-01-21,4,Grilled Fish,29,150,0,0,0
+2024-01-22,4,Grilled Fish,29,150,0,0,0
+2024-01-23,4,Grilled Fish,28,150,0,0,0
+2024-01-24,4,Grilled Fish,41,150,1,0,0
+2024-01-25,4,Grilled Fish,40,150,1,0,0
+2024-01-26,4,Grilled Fish,31,150,0,0,0
+2024-01-27,4,Grilled Fish,35,150,0,0,0
+2024-01-28,4,Grilled Fish,29,150,0,0,0
+2024-01-29,4,Grilled Fish,25,150,0,0,0
+2024-01-30,4,Grilled Fish,26,150,0,0,0
+2024-01-31,4,Grilled Fish,28,150,0,0,0
+2024-02-01,4,Grilled Fish,33,150,0,0,0
+2024-02-02,4,Grilled Fish,40,150,0,0,0
+2024-02-03,4,Grilled Fish,30,150,0,0,0
+2024-02-04,4,Grilled Fish,28,150,0,0,0
+2024-02-05,4,Grilled Fish,24,150,0,0,0
+2024-02-06,4,Grilled Fish,30,150,0,0,0
+2024-02-07,4,Grilled Fish,32,150,0,0,0
+2024-02-08,4,Grilled Fish,34,150,0,0,0
+2024-02-09,4,Grilled Fish,41,150,0,0,0
+2024-02-10,4,Grilled Fish,40,150,0,0,0
+2024-02-11,4,Grilled Fish,30,150,0,0,0
+2024-02-12,4,Grilled Fish,25,150,0,0,0
+2024-02-13,4,Grilled Fish,28,150,0,0,0
+2024-02-14,4,Grilled Fish,29,150,0,0,0
+2024-02-15,4,Grilled Fish,26,150,0,0,0
+2024-02-16,4,Grilled Fish,56,150,1,0,0
+2024-02-17,4,Grilled Fish,48,150,0,0,0
+2024-02-18,4,Grilled Fish,22,150,0,0,0
+2024-02-19,4,Grilled Fish,30,150,0,0,0
+2024-02-20,4,Grilled Fish,28,150,0,0,0
+2024-02-21,4,Grilled Fish,30,150,0,0,0
+2024-02-22,4,Grilled Fish,41,150,1,0,0
+2024-02-23,4,Grilled Fish,37,150,0,0,0
+2024-02-24,4,Grilled Fish,32,150,0,0,0
+2024-02-25,4,Grilled Fish,31,150,0,0,0
+2024-02-26,4,Grilled Fish,30,150,0,0,0
+2024-02-27,4,Grilled Fish,30,150,0,0,0
+2024-02-28,4,Grilled Fish,33,150,0,0,0
+2024-02-29,4,Grilled Fish,27,150,0,0,0
+2024-03-01,4,Grilled Fish,39,150,0,0,0
+2024-03-02,4,Grilled Fish,35,150,0,0,0
+2024-03-03,4,Grilled Fish,27,150,0,0,0
+2024-03-04,4,Grilled Fish,25,150,0,0,0
+2024-03-05,4,Grilled Fish,26,150,0,0,0
+2024-03-06,4,Grilled Fish,21,150,0,0,0
+2024-03-07,4,Grilled Fish,30,150,0,0,0
+2024-03-08,4,Grilled Fish,68,150,1,0,0
+2024-03-09,4,Grilled Fish,34,150,0,0,0
+2024-03-10,4,Grilled Fish,28,150,0,0,0
+2024-03-11,4,Grilled Fish,57,150,0,0,1
+2024-03-12,4,Grilled Fish,70,150,1,0,1
+2024-03-13,4,Grilled Fish,49,150,0,0,1
+2024-03-14,4,Grilled Fish,42,150,0,0,1
+2024-03-15,4,Grilled Fish,62,150,0,0,1
+2024-03-16,4,Grilled Fish,59,150,0,0,1
+2024-03-17,4,Grilled Fish,50,150,0,0,1
+2024-03-18,4,Grilled Fish,50,150,0,0,1
+2024-03-19,4,Grilled Fish,45,150,0,0,1
+2024-03-20,4,Grilled Fish,46,150,0,0,1
+2024-03-21,4,Grilled Fish,54,150,0,0,1
+2024-03-22,4,Grilled Fish,104,150,1,0,1
+2024-03-23,4,Grilled Fish,61,150,0,0,1
+2024-03-24,4,Grilled Fish,46,150,0,0,1
+2024-03-25,4,Grilled Fish,57,150,1,0,1
+2024-03-26,4,Grilled Fish,46,150,0,0,1
+2024-03-27,4,Grilled Fish,48,150,0,0,1
+2024-03-28,4,Grilled Fish,39,150,0,0,1
+2024-03-29,4,Grilled Fish,67,150,0,0,1
+2024-03-30,4,Grilled Fish,63,150,0,0,1
+2024-03-31,4,Grilled Fish,56,150,0,0,1
+2024-04-01,4,Grilled Fish,56,150,0,0,1
+2024-04-02,4,Grilled Fish,59,150,0,0,1
+2024-04-03,4,Grilled Fish,50,150,0,0,1
+2024-04-04,4,Grilled Fish,46,150,0,0,1
+2024-04-05,4,Grilled Fish,67,150,0,0,1
+2024-04-06,4,Grilled Fish,63,150,0,0,1
+2024-04-07,4,Grilled Fish,55,150,0,0,1
+2024-04-08,4,Grilled Fish,52,150,0,0,1
+2024-04-09,4,Grilled Fish,45,150,0,0,1
+2024-04-10,4,Grilled Fish,49,150,0,1,0
+2024-04-11,4,Grilled Fish,24,150,0,0,0
+2024-04-12,4,Grilled Fish,67,150,1,0,0
+2024-04-13,4,Grilled Fish,37,150,0,0,0
+2024-04-14,4,Grilled Fish,35,150,0,0,0
+2024-04-15,4,Grilled Fish,28,150,0,0,0
+2024-04-16,4,Grilled Fish,30,150,0,0,0
+2024-04-17,4,Grilled Fish,29,150,0,0,0
+2024-04-18,4,Grilled Fish,32,150,0,0,0
+2024-04-19,4,Grilled Fish,35,150,0,0,0
+2024-04-20,4,Grilled Fish,30,150,0,0,0
+2024-04-21,4,Grilled Fish,35,150,0,0,0
+2024-04-22,4,Grilled Fish,35,150,0,0,0
+2024-04-23,4,Grilled Fish,28,150,0,0,0
+2024-04-24,4,Grilled Fish,27,150,0,0,0
+2024-04-25,4,Grilled Fish,41,150,1,0,0
+2024-04-26,4,Grilled Fish,35,150,0,0,0
+2024-04-27,4,Grilled Fish,42,150,0,0,0
+2024-04-28,4,Grilled Fish,40,150,1,0,0
+2024-04-29,4,Grilled Fish,28,150,0,0,0
+2024-04-30,4,Grilled Fish,28,150,0,0,0
+2024-05-01,4,Grilled Fish,41,150,1,0,0
+2024-05-02,4,Grilled Fish,29,150,0,0,0
+2024-05-03,4,Grilled Fish,40,150,0,0,0
+2024-05-04,4,Grilled Fish,52,150,1,0,0
+2024-05-05,4,Grilled Fish,47,150,1,0,0
+2024-05-06,4,Grilled Fish,31,150,0,0,0
+2024-05-07,4,Grilled Fish,29,150,0,0,0
+2024-05-08,4,Grilled Fish,26,150,0,0,0
+2024-05-09,4,Grilled Fish,33,150,0,0,0
+2024-05-10,4,Grilled Fish,37,150,0,0,0
+2024-05-11,4,Grilled Fish,40,150,0,0,0
+2024-05-12,4,Grilled Fish,27,150,0,0,0
+2024-05-13,4,Grilled Fish,32,150,0,0,0
+2024-05-14,4,Grilled Fish,22,150,0,0,0
+2024-05-15,4,Grilled Fish,27,150,0,0,0
+2024-05-16,4,Grilled Fish,32,150,0,0,0
+2024-05-17,4,Grilled Fish,50,150,1,0,0
+2024-05-18,4,Grilled Fish,30,150,0,0,0
+2024-05-19,4,Grilled Fish,27,150,0,0,0
+2024-05-20,4,Grilled Fish,30,150,0,0,0
+2024-05-21,4,Grilled Fish,25,150,0,0,0
+2024-05-22,4,Grilled Fish,29,150,0,0,0
+2024-05-23,4,Grilled Fish,29,150,0,0,0
+2024-05-24,4,Grilled Fish,47,150,0,0,0
+2024-05-25,4,Grilled Fish,49,150,1,0,0
+2024-05-26,4,Grilled Fish,48,150,1,0,0
+2024-05-27,4,Grilled Fish,26,150,0,0,0
+2024-05-28,4,Grilled Fish,31,150,0,0,0
+2024-05-29,4,Grilled Fish,28,150,0,0,0
+2024-05-30,4,Grilled Fish,27,150,0,0,0
+2024-05-31,4,Grilled Fish,32,150,0,0,0
+2024-06-01,4,Grilled Fish,41,150,0,0,0
+2024-06-02,4,Grilled Fish,32,150,0,0,0
+2024-06-03,4,Grilled Fish,30,150,0,0,0
+2024-06-04,4,Grilled Fish,26,150,0,0,0
+2024-06-05,4,Grilled Fish,27,150,0,0,0
+2024-06-06,4,Grilled Fish,28,150,0,0,0
+2024-06-07,4,Grilled Fish,41,150,0,0,0
+2024-06-08,4,Grilled Fish,44,150,0,0,0
+2024-06-09,4,Grilled Fish,27,150,0,0,0
+2024-06-10,4,Grilled Fish,22,150,0,0,0
+2024-06-11,4,Grilled Fish,22,150,0,0,0
+2024-06-12,4,Grilled Fish,26,150,0,0,0
+2024-06-13,4,Grilled Fish,31,150,0,0,0
+2024-06-14,4,Grilled Fish,40,150,0,0,0
+2024-06-15,4,Grilled Fish,41,150,0,0,0
+2024-06-16,4,Grilled Fish,38,150,0,1,0
+2024-06-17,4,Grilled Fish,26,150,0,0,0
+2024-06-18,4,Grilled Fish,31,150,0,0,0
+2024-06-19,4,Grilled Fish,33,150,0,0,0
+2024-06-20,4,Grilled Fish,31,150,0,0,0
+2024-06-21,4,Grilled Fish,42,150,0,0,0
+2024-06-22,4,Grilled Fish,34,150,0,0,0
+2024-06-23,4,Grilled Fish,30,150,0,0,0
+2024-06-24,4,Grilled Fish,23,150,0,0,0
+2024-06-25,4,Grilled Fish,31,150,0,0,0
+2024-06-26,4,Grilled Fish,40,150,1,0,0
+2024-06-27,4,Grilled Fish,26,150,0,0,0
+2024-06-28,4,Grilled Fish,28,150,0,0,0
+2024-06-29,4,Grilled Fish,35,150,0,0,0
+2024-06-30,4,Grilled Fish,27,150,0,0,0
+2024-07-01,4,Grilled Fish,27,150,0,0,0
+2024-07-02,4,Grilled Fish,26,150,0,0,0
+2024-07-03,4,Grilled Fish,25,150,0,0,0
+2024-07-04,4,Grilled Fish,24,150,0,0,0
+2024-07-05,4,Grilled Fish,43,150,0,0,0
+2024-07-06,4,Grilled Fish,45,150,0,0,0
+2024-07-07,4,Grilled Fish,38,150,1,0,0
+2024-07-08,4,Grilled Fish,24,150,0,0,0
+2024-07-09,4,Grilled Fish,23,150,0,0,0
+2024-07-10,4,Grilled Fish,26,150,0,0,0
+2024-07-11,4,Grilled Fish,33,150,0,0,0
+2024-07-12,4,Grilled Fish,37,150,0,0,0
+2024-07-13,4,Grilled Fish,41,150,0,0,0
+2024-07-14,4,Grilled Fish,30,150,0,0,0
+2024-07-15,4,Grilled Fish,28,150,0,0,0
+2024-07-16,4,Grilled Fish,23,150,0,0,0
+2024-07-17,4,Grilled Fish,30,150,0,0,0
+2024-07-18,4,Grilled Fish,22,150,0,0,0
+2024-07-19,4,Grilled Fish,32,150,0,0,0
+2024-07-20,4,Grilled Fish,36,150,0,0,0
+2024-07-21,4,Grilled Fish,25,150,0,0,0
+2024-07-22,4,Grilled Fish,38,150,1,0,0
+2024-07-23,4,Grilled Fish,33,150,0,1,0
+2024-07-24,4,Grilled Fish,33,150,1,0,0
+2024-07-25,4,Grilled Fish,28,150,0,0,0
+2024-07-26,4,Grilled Fish,46,150,0,0,0
+2024-07-27,4,Grilled Fish,41,150,0,0,0
+2024-07-28,4,Grilled Fish,21,150,0,0,0
+2024-07-29,4,Grilled Fish,25,150,0,0,0
+2024-07-30,4,Grilled Fish,24,150,0,0,0
+2024-07-31,4,Grilled Fish,25,150,0,0,0
+2024-08-01,4,Grilled Fish,26,150,0,0,0
+2024-08-02,4,Grilled Fish,32,150,0,0,0
+2024-08-03,4,Grilled Fish,38,150,0,0,0
+2024-08-04,4,Grilled Fish,29,150,0,0,0
+2024-08-05,4,Grilled Fish,29,150,0,0,0
+2024-08-06,4,Grilled Fish,22,150,0,0,0
+2024-08-07,4,Grilled Fish,26,150,0,0,0
+2024-08-08,4,Grilled Fish,28,150,0,0,0
+2024-08-09,4,Grilled Fish,37,150,0,0,0
+2024-08-10,4,Grilled Fish,37,150,0,0,0
+2024-08-11,4,Grilled Fish,29,150,0,0,0
+2024-08-12,4,Grilled Fish,33,150,1,0,0
+2024-08-13,4,Grilled Fish,20,150,0,0,0
+2024-08-14,4,Grilled Fish,24,150,0,0,0
+2024-08-15,4,Grilled Fish,24,150,0,0,0
+2024-08-16,4,Grilled Fish,44,150,0,0,0
+2024-08-17,4,Grilled Fish,31,150,0,0,0
+2024-08-18,4,Grilled Fish,28,150,0,0,0
+2024-08-19,4,Grilled Fish,31,150,0,0,0
+2024-08-20,4,Grilled Fish,30,150,0,0,0
+2024-08-21,4,Grilled Fish,24,150,0,0,0
+2024-08-22,4,Grilled Fish,27,150,0,0,0
+2024-08-23,4,Grilled Fish,34,150,0,0,0
+2024-08-24,4,Grilled Fish,30,150,0,0,0
+2024-08-25,4,Grilled Fish,28,150,0,0,0
+2024-08-26,4,Grilled Fish,26,150,0,0,0
+2024-08-27,4,Grilled Fish,22,150,0,0,0
+2024-08-28,4,Grilled Fish,23,150,0,0,0
+2024-08-29,4,Grilled Fish,24,150,0,0,0
+2024-08-30,4,Grilled Fish,38,150,0,0,0
+2024-08-31,4,Grilled Fish,28,150,0,0,0
+2024-09-01,4,Grilled Fish,18,150,0,0,0
+2024-09-02,4,Grilled Fish,21,150,0,0,0
+2024-09-03,4,Grilled Fish,25,150,0,0,0
+2024-09-04,4,Grilled Fish,21,150,0,0,0
+2024-09-05,4,Grilled Fish,24,150,0,0,0
+2024-09-06,4,Grilled Fish,31,150,0,0,0
+2024-09-07,4,Grilled Fish,24,150,0,0,0
+2024-09-08,4,Grilled Fish,22,150,0,0,0
+2024-09-09,4,Grilled Fish,23,150,0,0,0
+2024-09-10,4,Grilled Fish,27,150,0,0,0
+2024-09-11,4,Grilled Fish,30,150,0,0,0
+2024-09-12,4,Grilled Fish,30,150,1,0,0
+2024-09-13,4,Grilled Fish,33,150,0,0,0
+2024-09-14,4,Grilled Fish,34,150,0,0,0
+2024-09-15,4,Grilled Fish,31,150,0,0,0
+2024-09-16,4,Grilled Fish,22,150,0,0,0
+2024-09-17,4,Grilled Fish,22,150,0,0,0
+2024-09-18,4,Grilled Fish,23,150,0,0,0
+2024-09-19,4,Grilled Fish,22,150,0,0,0
+2024-09-20,4,Grilled Fish,49,150,1,0,0
+2024-09-21,4,Grilled Fish,36,150,0,0,0
+2024-09-22,4,Grilled Fish,25,150,0,0,0
+2024-09-23,4,Grilled Fish,24,150,0,0,0
+2024-09-24,4,Grilled Fish,39,150,1,0,0
+2024-09-25,4,Grilled Fish,23,150,0,0,0
+2024-09-26,4,Grilled Fish,26,150,0,0,0
+2024-09-27,4,Grilled Fish,31,150,0,0,0
+2024-09-28,4,Grilled Fish,28,150,0,0,0
+2024-09-29,4,Grilled Fish,27,150,0,0,0
+2024-09-30,4,Grilled Fish,25,150,0,0,0
+2024-10-01,4,Grilled Fish,27,150,0,0,0
+2024-10-02,4,Grilled Fish,25,150,0,0,0
+2024-10-03,4,Grilled Fish,26,150,0,0,0
+2024-10-04,4,Grilled Fish,41,150,1,0,0
+2024-10-05,4,Grilled Fish,43,150,0,0,0
+2024-10-06,4,Grilled Fish,26,150,0,0,0
+2024-10-07,4,Grilled Fish,28,150,0,0,0
+2024-10-08,4,Grilled Fish,24,150,0,0,0
+2024-10-09,4,Grilled Fish,31,150,1,0,0
+2024-10-10,4,Grilled Fish,27,150,0,0,0
+2024-10-11,4,Grilled Fish,28,150,0,0,0
+2024-10-12,4,Grilled Fish,54,150,1,0,0
+2024-10-13,4,Grilled Fish,23,150,0,0,0
+2024-10-14,4,Grilled Fish,27,150,0,0,0
+2024-10-15,4,Grilled Fish,25,150,0,0,0
+2024-10-16,4,Grilled Fish,28,150,0,0,0
+2024-10-17,4,Grilled Fish,28,150,0,0,0
+2024-10-18,4,Grilled Fish,34,150,0,0,0
+2024-10-19,4,Grilled Fish,27,150,0,0,0
+2024-10-20,4,Grilled Fish,29,150,0,0,0
+2024-10-21,4,Grilled Fish,20,150,0,0,0
+2024-10-22,4,Grilled Fish,26,150,0,0,0
+2024-10-23,4,Grilled Fish,29,150,0,0,0
+2024-10-24,4,Grilled Fish,26,150,0,0,0
+2024-10-25,4,Grilled Fish,31,150,0,0,0
+2024-10-26,4,Grilled Fish,34,150,0,0,0
+2024-10-27,4,Grilled Fish,23,150,0,0,0
+2024-10-28,4,Grilled Fish,23,150,0,0,0
+2024-10-29,4,Grilled Fish,36,150,1,0,0
+2024-10-30,4,Grilled Fish,17,150,0,0,0
+2024-10-31,4,Grilled Fish,24,150,0,0,0
+2024-11-01,4,Grilled Fish,34,150,0,0,0
+2024-11-02,4,Grilled Fish,48,150,1,0,0
+2024-11-03,4,Grilled Fish,23,150,0,0,0
+2024-11-04,4,Grilled Fish,27,150,0,0,0
+2024-11-05,4,Grilled Fish,35,150,1,0,0
+2024-11-06,4,Grilled Fish,31,150,0,0,0
+2024-11-07,4,Grilled Fish,38,150,1,0,0
+2024-11-08,4,Grilled Fish,32,150,0,0,0
+2024-11-09,4,Grilled Fish,52,150,1,0,0
+2024-11-10,4,Grilled Fish,20,150,0,0,0
+2024-11-11,4,Grilled Fish,26,150,0,0,0
+2024-11-12,4,Grilled Fish,26,150,0,0,0
+2024-11-13,4,Grilled Fish,26,150,0,0,0
+2024-11-14,4,Grilled Fish,23,150,0,0,0
+2024-11-15,4,Grilled Fish,49,150,1,0,0
+2024-11-16,4,Grilled Fish,30,150,0,0,0
+2024-11-17,4,Grilled Fish,31,150,0,0,0
+2024-11-18,4,Grilled Fish,26,150,0,0,0
+2024-11-19,4,Grilled Fish,27,150,0,0,0
+2024-11-20,4,Grilled Fish,22,150,0,0,0
+2024-11-21,4,Grilled Fish,24,150,0,0,0
+2024-11-22,4,Grilled Fish,38,150,0,0,0
+2024-11-23,4,Grilled Fish,40,150,0,0,0
+2024-11-24,4,Grilled Fish,23,150,0,0,0
+2024-11-25,4,Grilled Fish,22,150,0,0,0
+2024-11-26,4,Grilled Fish,28,150,0,0,0
+2024-11-27,4,Grilled Fish,25,150,0,0,0
+2024-11-28,4,Grilled Fish,22,150,0,0,0
+2024-11-29,4,Grilled Fish,29,150,0,0,0
+2024-11-30,4,Grilled Fish,33,150,0,0,0
+2024-12-01,4,Grilled Fish,30,150,0,0,0
+2024-12-02,4,Grilled Fish,31,150,0,0,0
+2024-12-03,4,Grilled Fish,28,150,0,0,0
+2024-12-04,4,Grilled Fish,27,150,0,0,0
+2024-12-05,4,Grilled Fish,26,150,0,0,0
+2024-12-06,4,Grilled Fish,27,150,0,0,0
+2024-12-07,4,Grilled Fish,42,150,0,0,0
+2024-12-08,4,Grilled Fish,29,150,0,0,0
+2024-12-09,4,Grilled Fish,25,150,0,0,0
+2024-12-10,4,Grilled Fish,32,150,0,0,0
+2024-12-11,4,Grilled Fish,24,150,0,0,0
+2024-12-12,4,Grilled Fish,31,150,0,0,0
+2024-12-13,4,Grilled Fish,30,150,0,0,0
+2024-12-14,4,Grilled Fish,49,150,0,0,0
+2024-12-15,4,Grilled Fish,23,150,0,0,0
+2024-12-16,4,Grilled Fish,32,150,0,0,0
+2024-12-17,4,Grilled Fish,26,150,0,0,0
+2024-12-18,4,Grilled Fish,30,150,0,0,0
+2024-12-19,4,Grilled Fish,34,150,0,0,0
+2024-12-20,4,Grilled Fish,37,150,0,0,0
+2024-12-21,4,Grilled Fish,50,150,0,0,0
+2024-12-22,4,Grilled Fish,35,150,0,0,0
+2024-12-23,4,Grilled Fish,23,150,0,0,0
+2024-12-24,4,Grilled Fish,29,150,0,0,0
+2024-12-25,4,Grilled Fish,28,150,0,0,0
+2024-12-26,4,Grilled Fish,29,150,0,0,0
+2024-12-27,4,Grilled Fish,37,150,0,0,0
+2024-12-28,4,Grilled Fish,35,150,0,0,0
+2024-12-29,4,Grilled Fish,29,150,0,0,0
+2024-12-30,4,Grilled Fish,31,150,0,0,0
+2024-12-31,4,Grilled Fish,20,150,0,0,0
+2025-01-01,4,Grilled Fish,33,150,0,0,0
+2025-01-02,4,Grilled Fish,30,150,0,0,0
+2025-01-03,4,Grilled Fish,47,150,0,0,0
+2025-01-04,4,Grilled Fish,38,150,0,0,0
+2025-01-05,4,Grilled Fish,28,150,0,0,0
+2025-01-06,4,Grilled Fish,27,150,0,0,0
+2025-01-07,4,Grilled Fish,48,150,0,1,0
+2025-01-08,4,Grilled Fish,23,150,0,0,0
+2025-01-09,4,Grilled Fish,27,150,0,0,0
+2025-01-10,4,Grilled Fish,42,150,0,0,0
+2025-01-11,4,Grilled Fish,33,150,0,0,0
+2025-01-12,4,Grilled Fish,31,150,0,0,0
+2025-01-13,4,Grilled Fish,35,150,0,0,0
+2025-01-14,4,Grilled Fish,35,150,0,0,0
+2025-01-15,4,Grilled Fish,30,150,0,0,0
+2025-01-16,4,Grilled Fish,34,150,0,0,0
+2025-01-17,4,Grilled Fish,44,150,0,0,0
+2025-01-18,4,Grilled Fish,43,150,0,0,0
+2025-01-19,4,Grilled Fish,33,150,0,0,0
+2025-01-20,4,Grilled Fish,41,150,1,0,0
+2025-01-21,4,Grilled Fish,30,150,0,0,0
+2025-01-22,4,Grilled Fish,33,150,0,0,0
+2025-01-23,4,Grilled Fish,31,150,0,0,0
+2025-01-24,4,Grilled Fish,48,150,0,0,0
+2025-01-25,4,Grilled Fish,46,150,0,0,0
+2025-01-26,4,Grilled Fish,34,150,0,0,0
+2025-01-27,4,Grilled Fish,34,150,0,0,0
+2025-01-28,4,Grilled Fish,32,150,0,0,0
+2025-01-29,4,Grilled Fish,35,150,0,0,0
+2025-01-30,4,Grilled Fish,36,150,0,0,0
+2025-01-31,4,Grilled Fish,45,150,0,0,0
+2025-02-01,4,Grilled Fish,39,150,0,0,0
+2025-02-02,4,Grilled Fish,32,150,0,0,0
+2025-02-03,4,Grilled Fish,26,150,0,0,0
+2025-02-04,4,Grilled Fish,37,150,0,0,0
+2025-02-05,4,Grilled Fish,35,150,0,0,0
+2025-02-06,4,Grilled Fish,29,150,0,0,0
+2025-02-07,4,Grilled Fish,40,150,0,0,0
+2025-02-08,4,Grilled Fish,51,150,0,0,0
+2025-02-09,4,Grilled Fish,30,150,0,0,0
+2025-02-10,4,Grilled Fish,27,150,0,0,0
+2025-02-11,4,Grilled Fish,39,150,1,0,0
+2025-02-12,4,Grilled Fish,32,150,0,0,0
+2025-02-13,4,Grilled Fish,31,150,0,0,0
+2025-02-14,4,Grilled Fish,42,150,0,0,0
+2025-02-15,4,Grilled Fish,48,150,0,0,0
+2025-02-16,4,Grilled Fish,31,150,0,0,0
+2025-02-17,4,Grilled Fish,35,150,0,0,0
+2025-02-18,4,Grilled Fish,29,150,0,0,0
+2025-02-19,4,Grilled Fish,38,150,0,0,0
+2025-02-20,4,Grilled Fish,29,150,0,0,0
+2025-02-21,4,Grilled Fish,45,150,0,0,0
+2025-02-22,4,Grilled Fish,44,150,0,0,0
+2025-02-23,4,Grilled Fish,35,150,0,0,0
+2025-02-24,4,Grilled Fish,37,150,0,0,0
+2025-02-25,4,Grilled Fish,32,150,0,0,0
+2025-02-26,4,Grilled Fish,37,150,0,0,0
+2025-02-27,4,Grilled Fish,38,150,0,0,0
+2025-02-28,4,Grilled Fish,44,150,0,0,0
+2025-03-01,4,Grilled Fish,89,150,0,0,1
+2025-03-02,4,Grilled Fish,56,150,0,0,1
+2025-03-03,4,Grilled Fish,52,150,0,0,1
+2025-03-04,4,Grilled Fish,55,150,0,0,1
+2025-03-05,4,Grilled Fish,66,150,0,0,1
+2025-03-06,4,Grilled Fish,57,150,0,0,1
+2025-03-07,4,Grilled Fish,77,150,0,0,1
+2025-03-08,4,Grilled Fish,78,150,0,0,1
+2025-03-09,4,Grilled Fish,61,150,0,0,1
+2025-03-10,4,Grilled Fish,57,150,0,0,1
+2025-03-11,4,Grilled Fish,59,150,0,0,1
+2025-03-12,4,Grilled Fish,55,150,0,0,1
+2025-03-13,4,Grilled Fish,56,150,0,0,1
+2025-03-14,4,Grilled Fish,83,150,0,0,1
+2025-03-15,4,Grilled Fish,68,150,0,0,1
+2025-03-16,4,Grilled Fish,55,150,0,0,1
+2025-03-17,4,Grilled Fish,53,150,0,0,1
+2025-03-18,4,Grilled Fish,46,150,0,0,1
+2025-03-19,4,Grilled Fish,47,150,0,0,1
+2025-03-20,4,Grilled Fish,55,150,0,0,1
+2025-03-21,4,Grilled Fish,84,150,0,0,1
+2025-03-22,4,Grilled Fish,77,150,0,0,1
+2025-03-23,4,Grilled Fish,52,150,0,0,1
+2025-03-24,4,Grilled Fish,65,150,0,0,1
+2025-03-25,4,Grilled Fish,53,150,0,0,1
+2025-03-26,4,Grilled Fish,49,150,0,0,1
+2025-03-27,4,Grilled Fish,68,150,0,0,1
+2025-03-28,4,Grilled Fish,76,150,0,0,1
+2025-03-29,4,Grilled Fish,90,150,0,0,1
+2025-03-30,4,Grilled Fish,83,150,0,1,1
+2025-03-31,4,Grilled Fish,35,150,0,0,0
+2025-04-01,4,Grilled Fish,29,150,0,0,0
+2025-04-02,4,Grilled Fish,46,150,1,0,0
+2025-04-03,4,Grilled Fish,37,150,0,0,0
+2025-04-04,4,Grilled Fish,51,150,0,0,0
+2025-04-05,4,Grilled Fish,48,150,0,0,0
+2025-04-06,4,Grilled Fish,34,150,0,0,0
+2025-04-07,4,Grilled Fish,35,150,0,0,0
+2025-04-08,4,Grilled Fish,31,150,0,0,0
+2025-04-09,4,Grilled Fish,41,150,0,0,0
+2025-04-10,4,Grilled Fish,38,150,0,0,0
+2025-04-11,4,Grilled Fish,65,150,1,0,0
+2025-04-12,4,Grilled Fish,45,150,0,0,0
+2025-04-13,4,Grilled Fish,43,150,0,0,0
+2025-04-14,4,Grilled Fish,32,150,0,0,0
+2025-04-15,4,Grilled Fish,34,150,0,0,0
+2025-04-16,4,Grilled Fish,41,150,0,0,0
+2025-04-17,4,Grilled Fish,36,150,0,0,0
+2025-04-18,4,Grilled Fish,38,150,0,0,0
+2025-04-19,4,Grilled Fish,49,150,0,0,0
+2025-04-20,4,Grilled Fish,32,150,0,0,0
+2025-04-21,4,Grilled Fish,40,150,1,0,0
+2025-04-22,4,Grilled Fish,33,150,0,0,0
+2025-04-23,4,Grilled Fish,30,150,0,0,0
+2025-04-24,4,Grilled Fish,31,150,0,0,0
+2025-04-25,4,Grilled Fish,68,150,1,0,0
+2025-04-26,4,Grilled Fish,39,150,0,0,0
+2025-04-27,4,Grilled Fish,39,150,0,0,0
+2025-04-28,4,Grilled Fish,33,150,0,0,0
+2025-04-29,4,Grilled Fish,32,150,0,0,0
+2025-04-30,4,Grilled Fish,33,150,0,0,0
+2025-05-01,4,Grilled Fish,42,150,1,0,0
+2025-05-02,4,Grilled Fish,41,150,0,0,0
+2025-05-03,4,Grilled Fish,45,150,0,0,0
+2025-05-04,4,Grilled Fish,36,150,0,0,0
+2025-05-05,4,Grilled Fish,37,150,0,0,0
+2025-05-06,4,Grilled Fish,33,150,0,0,0
+2025-05-07,4,Grilled Fish,47,150,1,0,0
+2025-05-08,4,Grilled Fish,35,150,0,0,0
+2025-05-09,4,Grilled Fish,77,150,1,0,0
+2025-05-10,4,Grilled Fish,47,150,0,0,0
+2025-05-11,4,Grilled Fish,32,150,0,0,0
+2025-05-12,4,Grilled Fish,31,150,0,0,0
+2025-05-13,4,Grilled Fish,38,150,0,0,0
+2025-05-14,4,Grilled Fish,25,150,0,0,0
+2025-05-15,4,Grilled Fish,32,150,0,0,0
+2025-05-16,4,Grilled Fish,41,150,0,0,0
+2025-05-17,4,Grilled Fish,50,150,0,0,0
+2025-05-18,4,Grilled Fish,39,150,0,0,0
+2025-05-19,4,Grilled Fish,33,150,0,0,0
+2025-05-20,4,Grilled Fish,31,150,0,0,0
+2025-05-21,4,Grilled Fish,47,150,1,0,0
+2025-05-22,4,Grilled Fish,50,150,1,0,0
+2025-05-23,4,Grilled Fish,49,150,0,0,0
+2025-05-24,4,Grilled Fish,45,150,0,0,0
+2025-05-25,4,Grilled Fish,39,150,0,0,0
+2025-05-26,4,Grilled Fish,31,150,0,0,0
+2025-05-27,4,Grilled Fish,32,150,0,0,0
+2025-05-28,4,Grilled Fish,32,150,0,0,0
+2025-05-29,4,Grilled Fish,35,150,0,0,0
+2025-05-30,4,Grilled Fish,50,150,0,0,0
+2025-05-31,4,Grilled Fish,54,150,1,0,0
+2025-06-01,4,Grilled Fish,29,150,0,0,0
+2025-06-02,4,Grilled Fish,34,150,0,0,0
+2025-06-03,4,Grilled Fish,29,150,0,0,0
+2025-06-04,4,Grilled Fish,32,150,0,0,0
+2025-06-05,4,Grilled Fish,32,150,0,0,0
+2025-06-06,4,Grilled Fish,51,150,0,0,0
+2025-06-07,4,Grilled Fish,53,150,0,0,0
+2025-06-08,4,Grilled Fish,31,150,0,0,0
+2025-06-09,4,Grilled Fish,35,150,0,0,0
+2025-06-10,4,Grilled Fish,31,150,0,0,0
+2025-06-11,4,Grilled Fish,36,150,0,0,0
+2025-06-12,4,Grilled Fish,40,150,1,0,0
+2025-06-13,4,Grilled Fish,70,150,1,0,0
+2025-06-14,4,Grilled Fish,41,150,0,0,0
+2025-06-15,4,Grilled Fish,27,150,0,0,0
+2025-06-16,4,Grilled Fish,30,150,0,0,0
+2025-06-17,4,Grilled Fish,31,150,0,0,0
+2025-06-18,4,Grilled Fish,39,150,1,0,0
+2025-06-19,4,Grilled Fish,32,150,0,0,0
+2025-06-20,4,Grilled Fish,47,150,0,0,0
+2025-06-21,4,Grilled Fish,39,150,0,0,0
+2025-06-22,4,Grilled Fish,38,150,0,0,0
+2025-06-23,4,Grilled Fish,41,150,0,0,0
+2024-01-01,5,Vegetable Salad,34,30,0,0,0
+2024-01-02,5,Vegetable Salad,38,30,0,0,0
+2024-01-03,5,Vegetable Salad,37,30,0,0,0
+2024-01-04,5,Vegetable Salad,35,30,0,0,0
+2024-01-05,5,Vegetable Salad,46,30,0,0,0
+2024-01-06,5,Vegetable Salad,38,30,0,0,0
+2024-01-07,5,Vegetable Salad,53,30,0,1,0
+2024-01-08,5,Vegetable Salad,39,30,0,0,0
+2024-01-09,5,Vegetable Salad,33,30,0,0,0
+2024-01-10,5,Vegetable Salad,23,30,0,0,0
+2024-01-11,5,Vegetable Salad,43,30,0,0,0
+2024-01-12,5,Vegetable Salad,51,30,0,0,0
+2024-01-13,5,Vegetable Salad,56,30,0,0,0
+2024-01-14,5,Vegetable Salad,35,30,0,0,0
+2024-01-15,5,Vegetable Salad,37,30,0,0,0
+2024-01-16,5,Vegetable Salad,39,30,0,0,0
+2024-01-17,5,Vegetable Salad,35,30,0,0,0
+2024-01-18,5,Vegetable Salad,58,30,1,0,0
+2024-01-19,5,Vegetable Salad,47,30,0,0,0
+2024-01-20,5,Vegetable Salad,62,30,0,0,0
+2024-01-21,5,Vegetable Salad,32,30,0,0,0
+2024-01-22,5,Vegetable Salad,39,30,0,0,0
+2024-01-23,5,Vegetable Salad,34,30,0,0,0
+2024-01-24,5,Vegetable Salad,33,30,0,0,0
+2024-01-25,5,Vegetable Salad,34,30,0,0,0
+2024-01-26,5,Vegetable Salad,35,30,0,0,0
+2024-01-27,5,Vegetable Salad,45,30,0,0,0
+2024-01-28,5,Vegetable Salad,42,30,0,0,0
+2024-01-29,5,Vegetable Salad,41,30,0,0,0
+2024-01-30,5,Vegetable Salad,33,30,0,0,0
+2024-01-31,5,Vegetable Salad,40,30,0,0,0
+2024-02-01,5,Vegetable Salad,35,30,0,0,0
+2024-02-02,5,Vegetable Salad,40,30,0,0,0
+2024-02-03,5,Vegetable Salad,57,30,0,0,0
+2024-02-04,5,Vegetable Salad,60,30,1,0,0
+2024-02-05,5,Vegetable Salad,36,30,0,0,0
+2024-02-06,5,Vegetable Salad,44,30,0,0,0
+2024-02-07,5,Vegetable Salad,38,30,0,0,0
+2024-02-08,5,Vegetable Salad,39,30,0,0,0
+2024-02-09,5,Vegetable Salad,52,30,0,0,0
+2024-02-10,5,Vegetable Salad,45,30,0,0,0
+2024-02-11,5,Vegetable Salad,38,30,0,0,0
+2024-02-12,5,Vegetable Salad,34,30,0,0,0
+2024-02-13,5,Vegetable Salad,42,30,0,0,0
+2024-02-14,5,Vegetable Salad,59,30,1,0,0
+2024-02-15,5,Vegetable Salad,31,30,0,0,0
+2024-02-16,5,Vegetable Salad,57,30,0,0,0
+2024-02-17,5,Vegetable Salad,53,30,0,0,0
+2024-02-18,5,Vegetable Salad,32,30,0,0,0
+2024-02-19,5,Vegetable Salad,57,30,1,0,0
+2024-02-20,5,Vegetable Salad,38,30,0,0,0
+2024-02-21,5,Vegetable Salad,37,30,0,0,0
+2024-02-22,5,Vegetable Salad,35,30,0,0,0
+2024-02-23,5,Vegetable Salad,56,30,0,0,0
+2024-02-24,5,Vegetable Salad,55,30,0,0,0
+2024-02-25,5,Vegetable Salad,41,30,0,0,0
+2024-02-26,5,Vegetable Salad,46,30,0,0,0
+2024-02-27,5,Vegetable Salad,48,30,0,0,0
+2024-02-28,5,Vegetable Salad,30,30,0,0,0
+2024-02-29,5,Vegetable Salad,42,30,0,0,0
+2024-03-01,5,Vegetable Salad,51,30,0,0,0
+2024-03-02,5,Vegetable Salad,58,30,0,0,0
+2024-03-03,5,Vegetable Salad,37,30,0,0,0
+2024-03-04,5,Vegetable Salad,50,30,0,0,0
+2024-03-05,5,Vegetable Salad,44,30,0,0,0
+2024-03-06,5,Vegetable Salad,40,30,0,0,0
+2024-03-07,5,Vegetable Salad,47,30,0,0,0
+2024-03-08,5,Vegetable Salad,70,30,1,0,0
+2024-03-09,5,Vegetable Salad,59,30,0,0,0
+2024-03-10,5,Vegetable Salad,56,30,1,0,0
+2024-03-11,5,Vegetable Salad,65,30,0,0,1
+2024-03-12,5,Vegetable Salad,79,30,0,0,1
+2024-03-13,5,Vegetable Salad,85,30,0,0,1
+2024-03-14,5,Vegetable Salad,69,30,0,0,1
+2024-03-15,5,Vegetable Salad,81,30,0,0,1
+2024-03-16,5,Vegetable Salad,88,30,0,0,1
+2024-03-17,5,Vegetable Salad,61,30,0,0,1
+2024-03-18,5,Vegetable Salad,62,30,0,0,1
+2024-03-19,5,Vegetable Salad,67,30,0,0,1
+2024-03-20,5,Vegetable Salad,61,30,0,0,1
+2024-03-21,5,Vegetable Salad,106,30,1,0,1
+2024-03-22,5,Vegetable Salad,88,30,0,0,1
+2024-03-23,5,Vegetable Salad,89,30,0,0,1
+2024-03-24,5,Vegetable Salad,62,30,0,0,1
+2024-03-25,5,Vegetable Salad,57,30,0,0,1
+2024-03-26,5,Vegetable Salad,58,30,0,0,1
+2024-03-27,5,Vegetable Salad,69,30,0,0,1
+2024-03-28,5,Vegetable Salad,64,30,0,0,1
+2024-03-29,5,Vegetable Salad,94,30,0,0,1
+2024-03-30,5,Vegetable Salad,102,30,0,0,1
+2024-03-31,5,Vegetable Salad,61,30,0,0,1
+2024-04-01,5,Vegetable Salad,84,30,0,0,1
+2024-04-02,5,Vegetable Salad,59,30,0,0,1
+2024-04-03,5,Vegetable Salad,58,30,0,0,1
+2024-04-04,5,Vegetable Salad,104,30,1,0,1
+2024-04-05,5,Vegetable Salad,90,30,0,0,1
+2024-04-06,5,Vegetable Salad,82,30,0,0,1
+2024-04-07,5,Vegetable Salad,57,30,0,0,1
+2024-04-08,5,Vegetable Salad,60,30,0,0,1
+2024-04-09,5,Vegetable Salad,95,30,1,0,1
+2024-04-10,5,Vegetable Salad,73,30,0,1,0
+2024-04-11,5,Vegetable Salad,47,30,1,0,0
+2024-04-12,5,Vegetable Salad,58,30,0,0,0
+2024-04-13,5,Vegetable Salad,62,30,0,0,0
+2024-04-14,5,Vegetable Salad,40,30,0,0,0
+2024-04-15,5,Vegetable Salad,49,30,0,0,0
+2024-04-16,5,Vegetable Salad,43,30,0,0,0
+2024-04-17,5,Vegetable Salad,46,30,0,0,0
+2024-04-18,5,Vegetable Salad,46,30,0,0,0
+2024-04-19,5,Vegetable Salad,64,30,0,0,0
+2024-04-20,5,Vegetable Salad,56,30,0,0,0
+2024-04-21,5,Vegetable Salad,50,30,0,0,0
+2024-04-22,5,Vegetable Salad,42,30,0,0,0
+2024-04-23,5,Vegetable Salad,41,30,0,0,0
+2024-04-24,5,Vegetable Salad,40,30,0,0,0
+2024-04-25,5,Vegetable Salad,40,30,0,0,0
+2024-04-26,5,Vegetable Salad,54,30,0,0,0
+2024-04-27,5,Vegetable Salad,80,30,1,0,0
+2024-04-28,5,Vegetable Salad,42,30,0,0,0
+2024-04-29,5,Vegetable Salad,42,30,0,0,0
+2024-04-30,5,Vegetable Salad,41,30,0,0,0
+2024-05-01,5,Vegetable Salad,46,30,0,0,0
+2024-05-02,5,Vegetable Salad,43,30,0,0,0
+2024-05-03,5,Vegetable Salad,59,30,0,0,0
+2024-05-04,5,Vegetable Salad,50,30,0,0,0
+2024-05-05,5,Vegetable Salad,36,30,0,0,0
+2024-05-06,5,Vegetable Salad,45,30,0,0,0
+2024-05-07,5,Vegetable Salad,64,30,1,0,0
+2024-05-08,5,Vegetable Salad,37,30,0,0,0
+2024-05-09,5,Vegetable Salad,36,30,0,0,0
+2024-05-10,5,Vegetable Salad,64,30,0,0,0
+2024-05-11,5,Vegetable Salad,53,30,0,0,0
+2024-05-12,5,Vegetable Salad,38,30,0,0,0
+2024-05-13,5,Vegetable Salad,36,30,0,0,0
+2024-05-14,5,Vegetable Salad,36,30,0,0,0
+2024-05-15,5,Vegetable Salad,52,30,0,0,0
+2024-05-16,5,Vegetable Salad,40,30,0,0,0
+2024-05-17,5,Vegetable Salad,53,30,0,0,0
+2024-05-18,5,Vegetable Salad,48,30,0,0,0
+2024-05-19,5,Vegetable Salad,46,30,1,0,0
+2024-05-20,5,Vegetable Salad,49,30,0,0,0
+2024-05-21,5,Vegetable Salad,46,30,0,0,0
+2024-05-22,5,Vegetable Salad,42,30,0,0,0
+2024-05-23,5,Vegetable Salad,39,30,1,0,0
+2024-05-24,5,Vegetable Salad,53,30,0,0,0
+2024-05-25,5,Vegetable Salad,56,30,0,0,0
+2024-05-26,5,Vegetable Salad,41,30,0,0,0
+2024-05-27,5,Vegetable Salad,27,30,0,0,0
+2024-05-28,5,Vegetable Salad,47,30,0,0,0
+2024-05-29,5,Vegetable Salad,42,30,0,0,0
+2024-05-30,5,Vegetable Salad,29,30,0,0,0
+2024-05-31,5,Vegetable Salad,51,30,0,0,0
+2024-06-01,5,Vegetable Salad,49,30,0,0,0
+2024-06-02,5,Vegetable Salad,40,30,0,0,0
+2024-06-03,5,Vegetable Salad,39,30,0,0,0
+2024-06-04,5,Vegetable Salad,42,30,0,0,0
+2024-06-05,5,Vegetable Salad,31,30,0,0,0
+2024-06-06,5,Vegetable Salad,40,30,0,0,0
+2024-06-07,5,Vegetable Salad,48,30,0,0,0
+2024-06-08,5,Vegetable Salad,50,30,0,0,0
+2024-06-09,5,Vegetable Salad,39,30,0,0,0
+2024-06-10,5,Vegetable Salad,47,30,0,0,0
+2024-06-11,5,Vegetable Salad,42,30,0,0,0
+2024-06-12,5,Vegetable Salad,39,30,0,0,0
+2024-06-13,5,Vegetable Salad,33,30,0,0,0
+2024-06-14,5,Vegetable Salad,53,30,0,0,0
+2024-06-15,5,Vegetable Salad,47,30,0,0,0
+2024-06-16,5,Vegetable Salad,66,30,0,1,0
+2024-06-17,5,Vegetable Salad,54,30,1,0,0
+2024-06-18,5,Vegetable Salad,34,30,0,0,0
+2024-06-19,5,Vegetable Salad,38,30,0,0,0
+2024-06-20,5,Vegetable Salad,43,30,0,0,0
+2024-06-21,5,Vegetable Salad,58,30,0,0,0
+2024-06-22,5,Vegetable Salad,51,30,0,0,0
+2024-06-23,5,Vegetable Salad,42,30,0,0,0
+2024-06-24,5,Vegetable Salad,39,30,0,0,0
+2024-06-25,5,Vegetable Salad,30,30,0,0,0
+2024-06-26,5,Vegetable Salad,37,30,0,0,0
+2024-06-27,5,Vegetable Salad,31,30,0,0,0
+2024-06-28,5,Vegetable Salad,55,30,0,0,0
+2024-06-29,5,Vegetable Salad,47,30,0,0,0
+2024-06-30,5,Vegetable Salad,39,30,0,0,0
+2024-07-01,5,Vegetable Salad,30,30,0,0,0
+2024-07-02,5,Vegetable Salad,38,30,0,0,0
+2024-07-03,5,Vegetable Salad,37,30,0,0,0
+2024-07-04,5,Vegetable Salad,40,30,0,0,0
+2024-07-05,5,Vegetable Salad,49,30,0,0,0
+2024-07-06,5,Vegetable Salad,51,30,0,0,0
+2024-07-07,5,Vegetable Salad,42,30,0,0,0
+2024-07-08,5,Vegetable Salad,41,30,0,0,0
+2024-07-09,5,Vegetable Salad,46,30,0,0,0
+2024-07-10,5,Vegetable Salad,47,30,0,0,0
+2024-07-11,5,Vegetable Salad,48,30,0,0,0
+2024-07-12,5,Vegetable Salad,50,30,0,0,0
+2024-07-13,5,Vegetable Salad,51,30,0,0,0
+2024-07-14,5,Vegetable Salad,46,30,0,0,0
+2024-07-15,5,Vegetable Salad,43,30,0,0,0
+2024-07-16,5,Vegetable Salad,34,30,0,0,0
+2024-07-17,5,Vegetable Salad,33,30,0,0,0
+2024-07-18,5,Vegetable Salad,28,30,0,0,0
+2024-07-19,5,Vegetable Salad,51,30,0,0,0
+2024-07-20,5,Vegetable Salad,57,30,0,0,0
+2024-07-21,5,Vegetable Salad,33,30,0,0,0
+2024-07-22,5,Vegetable Salad,33,30,0,0,0
+2024-07-23,5,Vegetable Salad,35,30,0,1,0
+2024-07-24,5,Vegetable Salad,39,30,0,0,0
+2024-07-25,5,Vegetable Salad,41,30,0,0,0
+2024-07-26,5,Vegetable Salad,50,30,0,0,0
+2024-07-27,5,Vegetable Salad,44,30,0,0,0
+2024-07-28,5,Vegetable Salad,35,30,0,0,0
+2024-07-29,5,Vegetable Salad,34,30,0,0,0
+2024-07-30,5,Vegetable Salad,38,30,0,0,0
+2024-07-31,5,Vegetable Salad,32,30,0,0,0
+2024-08-01,5,Vegetable Salad,30,30,0,0,0
+2024-08-02,5,Vegetable Salad,37,30,0,0,0
+2024-08-03,5,Vegetable Salad,44,30,0,0,0
+2024-08-04,5,Vegetable Salad,39,30,0,0,0
+2024-08-05,5,Vegetable Salad,44,30,1,0,0
+2024-08-06,5,Vegetable Salad,40,30,1,0,0
+2024-08-07,5,Vegetable Salad,30,30,0,0,0
+2024-08-08,5,Vegetable Salad,31,30,0,0,0
+2024-08-09,5,Vegetable Salad,44,30,0,0,0
+2024-08-10,5,Vegetable Salad,40,30,0,0,0
+2024-08-11,5,Vegetable Salad,26,30,0,0,0
+2024-08-12,5,Vegetable Salad,38,30,0,0,0
+2024-08-13,5,Vegetable Salad,30,30,0,0,0
+2024-08-14,5,Vegetable Salad,36,30,0,0,0
+2024-08-15,5,Vegetable Salad,45,30,1,0,0
+2024-08-16,5,Vegetable Salad,42,30,0,0,0
+2024-08-17,5,Vegetable Salad,50,30,0,0,0
+2024-08-18,5,Vegetable Salad,47,30,1,0,0
+2024-08-19,5,Vegetable Salad,39,30,0,0,0
+2024-08-20,5,Vegetable Salad,32,30,0,0,0
+2024-08-21,5,Vegetable Salad,30,30,0,0,0
+2024-08-22,5,Vegetable Salad,33,30,0,0,0
+2024-08-23,5,Vegetable Salad,42,30,0,0,0
+2024-08-24,5,Vegetable Salad,55,30,0,0,0
+2024-08-25,5,Vegetable Salad,31,30,0,0,0
+2024-08-26,5,Vegetable Salad,35,30,0,0,0
+2024-08-27,5,Vegetable Salad,34,30,0,0,0
+2024-08-28,5,Vegetable Salad,29,30,0,0,0
+2024-08-29,5,Vegetable Salad,30,30,0,0,0
+2024-08-30,5,Vegetable Salad,46,30,0,0,0
+2024-08-31,5,Vegetable Salad,46,30,0,0,0
+2024-09-01,5,Vegetable Salad,32,30,0,0,0
+2024-09-02,5,Vegetable Salad,33,30,0,0,0
+2024-09-03,5,Vegetable Salad,38,30,1,0,0
+2024-09-04,5,Vegetable Salad,30,30,0,0,0
+2024-09-05,5,Vegetable Salad,38,30,0,0,0
+2024-09-06,5,Vegetable Salad,42,30,0,0,0
+2024-09-07,5,Vegetable Salad,51,30,0,0,0
+2024-09-08,5,Vegetable Salad,38,30,0,0,0
+2024-09-09,5,Vegetable Salad,38,30,0,0,0
+2024-09-10,5,Vegetable Salad,40,30,0,0,0
+2024-09-11,5,Vegetable Salad,35,30,0,0,0
+2024-09-12,5,Vegetable Salad,40,30,0,0,0
+2024-09-13,5,Vegetable Salad,50,30,0,0,0
+2024-09-14,5,Vegetable Salad,35,30,0,0,0
+2024-09-15,5,Vegetable Salad,35,30,0,0,0
+2024-09-16,5,Vegetable Salad,60,30,1,0,0
+2024-09-17,5,Vegetable Salad,26,30,0,0,0
+2024-09-18,5,Vegetable Salad,33,30,0,0,0
+2024-09-19,5,Vegetable Salad,29,30,0,0,0
+2024-09-20,5,Vegetable Salad,41,30,0,0,0
+2024-09-21,5,Vegetable Salad,42,30,0,0,0
+2024-09-22,5,Vegetable Salad,35,30,0,0,0
+2024-09-23,5,Vegetable Salad,32,30,0,0,0
+2024-09-24,5,Vegetable Salad,35,30,0,0,0
+2024-09-25,5,Vegetable Salad,41,30,0,0,0
+2024-09-26,5,Vegetable Salad,37,30,0,0,0
+2024-09-27,5,Vegetable Salad,46,30,0,0,0
+2024-09-28,5,Vegetable Salad,43,30,0,0,0
+2024-09-29,5,Vegetable Salad,35,30,0,0,0
+2024-09-30,5,Vegetable Salad,26,30,0,0,0
+2024-10-01,5,Vegetable Salad,32,30,0,0,0
+2024-10-02,5,Vegetable Salad,35,30,0,0,0
+2024-10-03,5,Vegetable Salad,34,30,0,0,0
+2024-10-04,5,Vegetable Salad,51,30,0,0,0
+2024-10-05,5,Vegetable Salad,50,30,0,0,0
+2024-10-06,5,Vegetable Salad,35,30,0,0,0
+2024-10-07,5,Vegetable Salad,32,30,0,0,0
+2024-10-08,5,Vegetable Salad,31,30,0,0,0
+2024-10-09,5,Vegetable Salad,38,30,0,0,0
+2024-10-10,5,Vegetable Salad,35,30,0,0,0
+2024-10-11,5,Vegetable Salad,41,30,0,0,0
+2024-10-12,5,Vegetable Salad,51,30,0,0,0
+2024-10-13,5,Vegetable Salad,35,30,0,0,0
+2024-10-14,5,Vegetable Salad,46,30,1,0,0
+2024-10-15,5,Vegetable Salad,37,30,0,0,0
+2024-10-16,5,Vegetable Salad,36,30,0,0,0
+2024-10-17,5,Vegetable Salad,39,30,0,0,0
+2024-10-18,5,Vegetable Salad,53,30,0,0,0
+2024-10-19,5,Vegetable Salad,43,30,0,0,0
+2024-10-20,5,Vegetable Salad,34,30,0,0,0
+2024-10-21,5,Vegetable Salad,33,30,0,0,0
+2024-10-22,5,Vegetable Salad,59,30,1,0,0
+2024-10-23,5,Vegetable Salad,37,30,0,0,0
+2024-10-24,5,Vegetable Salad,34,30,0,0,0
+2024-10-25,5,Vegetable Salad,42,30,0,0,0
+2024-10-26,5,Vegetable Salad,47,30,0,0,0
+2024-10-27,5,Vegetable Salad,25,30,0,0,0
+2024-10-28,5,Vegetable Salad,33,30,0,0,0
+2024-10-29,5,Vegetable Salad,30,30,0,0,0
+2024-10-30,5,Vegetable Salad,39,30,0,0,0
+2024-10-31,5,Vegetable Salad,33,30,0,0,0
+2024-11-01,5,Vegetable Salad,48,30,0,0,0
+2024-11-02,5,Vegetable Salad,46,30,0,0,0
+2024-11-03,5,Vegetable Salad,39,30,0,0,0
+2024-11-04,5,Vegetable Salad,55,30,1,0,0
+2024-11-05,5,Vegetable Salad,37,30,0,0,0
+2024-11-06,5,Vegetable Salad,36,30,0,0,0
+2024-11-07,5,Vegetable Salad,29,30,0,0,0
+2024-11-08,5,Vegetable Salad,46,30,0,0,0
+2024-11-09,5,Vegetable Salad,55,30,0,0,0
+2024-11-10,5,Vegetable Salad,36,30,0,0,0
+2024-11-11,5,Vegetable Salad,34,30,0,0,0
+2024-11-12,5,Vegetable Salad,34,30,0,0,0
+2024-11-13,5,Vegetable Salad,47,30,1,0,0
+2024-11-14,5,Vegetable Salad,36,30,0,0,0
+2024-11-15,5,Vegetable Salad,45,30,0,0,0
+2024-11-16,5,Vegetable Salad,55,30,0,0,0
+2024-11-17,5,Vegetable Salad,29,30,0,0,0
+2024-11-18,5,Vegetable Salad,55,30,1,0,0
+2024-11-19,5,Vegetable Salad,42,30,0,0,0
+2024-11-20,5,Vegetable Salad,32,30,0,0,0
+2024-11-21,5,Vegetable Salad,39,30,0,0,0
+2024-11-22,5,Vegetable Salad,52,30,0,0,0
+2024-11-23,5,Vegetable Salad,45,30,0,0,0
+2024-11-24,5,Vegetable Salad,32,30,0,0,0
+2024-11-25,5,Vegetable Salad,39,30,0,0,0
+2024-11-26,5,Vegetable Salad,45,30,0,0,0
+2024-11-27,5,Vegetable Salad,43,30,0,0,0
+2024-11-28,5,Vegetable Salad,40,30,0,0,0
+2024-11-29,5,Vegetable Salad,53,30,0,0,0
+2024-11-30,5,Vegetable Salad,52,30,0,0,0
+2024-12-01,5,Vegetable Salad,52,30,1,0,0
+2024-12-02,5,Vegetable Salad,40,30,0,0,0
+2024-12-03,5,Vegetable Salad,34,30,0,0,0
+2024-12-04,5,Vegetable Salad,42,30,0,0,0
+2024-12-05,5,Vegetable Salad,38,30,0,0,0
+2024-12-06,5,Vegetable Salad,51,30,0,0,0
+2024-12-07,5,Vegetable Salad,61,30,0,0,0
+2024-12-08,5,Vegetable Salad,33,30,0,0,0
+2024-12-09,5,Vegetable Salad,41,30,0,0,0
+2024-12-10,5,Vegetable Salad,45,30,0,0,0
+2024-12-11,5,Vegetable Salad,41,30,0,0,0
+2024-12-12,5,Vegetable Salad,40,30,0,0,0
+2024-12-13,5,Vegetable Salad,52,30,0,0,0
+2024-12-14,5,Vegetable Salad,58,30,0,0,0
+2024-12-15,5,Vegetable Salad,30,30,0,0,0
+2024-12-16,5,Vegetable Salad,41,30,0,0,0
+2024-12-17,5,Vegetable Salad,38,30,0,0,0
+2024-12-18,5,Vegetable Salad,39,30,0,0,0
+2024-12-19,5,Vegetable Salad,42,30,0,0,0
+2024-12-20,5,Vegetable Salad,48,30,0,0,0
+2024-12-21,5,Vegetable Salad,50,30,0,0,0
+2024-12-22,5,Vegetable Salad,46,30,0,0,0
+2024-12-23,5,Vegetable Salad,38,30,0,0,0
+2024-12-24,5,Vegetable Salad,35,30,0,0,0
+2024-12-25,5,Vegetable Salad,43,30,0,0,0
+2024-12-26,5,Vegetable Salad,47,30,0,0,0
+2024-12-27,5,Vegetable Salad,46,30,0,0,0
+2024-12-28,5,Vegetable Salad,62,30,0,0,0
+2024-12-29,5,Vegetable Salad,48,30,0,0,0
+2024-12-30,5,Vegetable Salad,64,30,1,0,0
+2024-12-31,5,Vegetable Salad,40,30,0,0,0
+2025-01-01,5,Vegetable Salad,46,30,0,0,0
+2025-01-02,5,Vegetable Salad,47,30,0,0,0
+2025-01-03,5,Vegetable Salad,48,30,0,0,0
+2025-01-04,5,Vegetable Salad,61,30,0,0,0
+2025-01-05,5,Vegetable Salad,42,30,0,0,0
+2025-01-06,5,Vegetable Salad,42,30,0,0,0
+2025-01-07,5,Vegetable Salad,50,30,0,1,0
+2025-01-08,5,Vegetable Salad,32,30,0,0,0
+2025-01-09,5,Vegetable Salad,43,30,0,0,0
+2025-01-10,5,Vegetable Salad,56,30,0,0,0
+2025-01-11,5,Vegetable Salad,56,30,0,0,0
+2025-01-12,5,Vegetable Salad,41,30,0,0,0
+2025-01-13,5,Vegetable Salad,38,30,0,0,0
+2025-01-14,5,Vegetable Salad,47,30,0,0,0
+2025-01-15,5,Vegetable Salad,70,30,1,0,0
+2025-01-16,5,Vegetable Salad,36,30,0,0,0
+2025-01-17,5,Vegetable Salad,63,30,0,0,0
+2025-01-18,5,Vegetable Salad,50,30,0,0,0
+2025-01-19,5,Vegetable Salad,42,30,0,0,0
+2025-01-20,5,Vegetable Salad,46,30,0,0,0
+2025-01-21,5,Vegetable Salad,40,30,0,0,0
+2025-01-22,5,Vegetable Salad,39,30,0,0,0
+2025-01-23,5,Vegetable Salad,44,30,0,0,0
+2025-01-24,5,Vegetable Salad,65,30,0,0,0
+2025-01-25,5,Vegetable Salad,56,30,0,0,0
+2025-01-26,5,Vegetable Salad,40,30,0,0,0
+2025-01-27,5,Vegetable Salad,42,30,0,0,0
+2025-01-28,5,Vegetable Salad,50,30,0,0,0
+2025-01-29,5,Vegetable Salad,45,30,0,0,0
+2025-01-30,5,Vegetable Salad,45,30,0,0,0
+2025-01-31,5,Vegetable Salad,58,30,0,0,0
+2025-02-01,5,Vegetable Salad,83,30,1,0,0
+2025-02-02,5,Vegetable Salad,49,30,0,0,0
+2025-02-03,5,Vegetable Salad,46,30,0,0,0
+2025-02-04,5,Vegetable Salad,55,30,0,0,0
+2025-02-05,5,Vegetable Salad,43,30,0,0,0
+2025-02-06,5,Vegetable Salad,53,30,0,0,0
+2025-02-07,5,Vegetable Salad,72,30,1,0,0
+2025-02-08,5,Vegetable Salad,62,30,0,0,0
+2025-02-09,5,Vegetable Salad,46,30,0,0,0
+2025-02-10,5,Vegetable Salad,53,30,0,0,0
+2025-02-11,5,Vegetable Salad,44,30,0,0,0
+2025-02-12,5,Vegetable Salad,55,30,0,0,0
+2025-02-13,5,Vegetable Salad,38,30,0,0,0
+2025-02-14,5,Vegetable Salad,57,30,0,0,0
+2025-02-15,5,Vegetable Salad,57,30,0,0,0
+2025-02-16,5,Vegetable Salad,39,30,0,0,0
+2025-02-17,5,Vegetable Salad,46,30,0,0,0
+2025-02-18,5,Vegetable Salad,45,30,0,0,0
+2025-02-19,5,Vegetable Salad,52,30,0,0,0
+2025-02-20,5,Vegetable Salad,40,30,0,0,0
+2025-02-21,5,Vegetable Salad,80,30,0,0,0
+2025-02-22,5,Vegetable Salad,106,30,1,0,0
+2025-02-23,5,Vegetable Salad,44,30,0,0,0
+2025-02-24,5,Vegetable Salad,51,30,0,0,0
+2025-02-25,5,Vegetable Salad,44,30,0,0,0
+2025-02-26,5,Vegetable Salad,51,30,0,0,0
+2025-02-27,5,Vegetable Salad,40,30,0,0,0
+2025-02-28,5,Vegetable Salad,68,30,0,0,0
+2025-03-01,5,Vegetable Salad,97,30,0,0,1
+2025-03-02,5,Vegetable Salad,63,30,0,0,1
+2025-03-03,5,Vegetable Salad,75,30,0,0,1
+2025-03-04,5,Vegetable Salad,76,30,0,0,1
+2025-03-05,5,Vegetable Salad,78,30,0,0,1
+2025-03-06,5,Vegetable Salad,92,30,0,0,1
+2025-03-07,5,Vegetable Salad,98,30,0,0,1
+2025-03-08,5,Vegetable Salad,101,30,0,0,1
+2025-03-09,5,Vegetable Salad,64,30,0,0,1
+2025-03-10,5,Vegetable Salad,80,30,0,0,1
+2025-03-11,5,Vegetable Salad,75,30,0,0,1
+2025-03-12,5,Vegetable Salad,67,30,0,0,1
+2025-03-13,5,Vegetable Salad,78,30,0,0,1
+2025-03-14,5,Vegetable Salad,93,30,0,0,1
+2025-03-15,5,Vegetable Salad,130,30,0,0,1
+2025-03-16,5,Vegetable Salad,74,30,0,0,1
+2025-03-17,5,Vegetable Salad,66,30,0,0,1
+2025-03-18,5,Vegetable Salad,82,30,0,0,1
+2025-03-19,5,Vegetable Salad,53,30,0,0,1
+2025-03-20,5,Vegetable Salad,66,30,0,0,1
+2025-03-21,5,Vegetable Salad,117,30,0,0,1
+2025-03-22,5,Vegetable Salad,89,30,0,0,1
+2025-03-23,5,Vegetable Salad,84,30,0,0,1
+2025-03-24,5,Vegetable Salad,87,30,0,0,1
+2025-03-25,5,Vegetable Salad,92,30,0,0,1
+2025-03-26,5,Vegetable Salad,94,30,1,0,1
+2025-03-27,5,Vegetable Salad,70,30,0,0,1
+2025-03-28,5,Vegetable Salad,116,30,0,0,1
+2025-03-29,5,Vegetable Salad,119,30,0,0,1
+2025-03-30,5,Vegetable Salad,108,30,0,1,1
+2025-03-31,5,Vegetable Salad,39,30,0,0,0
+2025-04-01,5,Vegetable Salad,58,30,1,0,0
+2025-04-02,5,Vegetable Salad,58,30,1,0,0
+2025-04-03,5,Vegetable Salad,47,30,0,0,0
+2025-04-04,5,Vegetable Salad,68,30,0,0,0
+2025-04-05,5,Vegetable Salad,62,30,0,0,0
+2025-04-06,5,Vegetable Salad,50,30,0,0,0
+2025-04-07,5,Vegetable Salad,56,30,0,0,0
+2025-04-08,5,Vegetable Salad,45,30,0,0,0
+2025-04-09,5,Vegetable Salad,48,30,0,0,0
+2025-04-10,5,Vegetable Salad,52,30,0,0,0
+2025-04-11,5,Vegetable Salad,70,30,0,0,0
+2025-04-12,5,Vegetable Salad,70,30,0,0,0
+2025-04-13,5,Vegetable Salad,46,30,0,0,0
+2025-04-14,5,Vegetable Salad,53,30,0,0,0
+2025-04-15,5,Vegetable Salad,69,30,1,0,0
+2025-04-16,5,Vegetable Salad,42,30,0,0,0
+2025-04-17,5,Vegetable Salad,49,30,0,0,0
+2025-04-18,5,Vegetable Salad,64,30,0,0,0
+2025-04-19,5,Vegetable Salad,50,30,0,0,0
+2025-04-20,5,Vegetable Salad,61,30,0,0,0
+2025-04-21,5,Vegetable Salad,69,30,1,0,0
+2025-04-22,5,Vegetable Salad,60,30,0,0,0
+2025-04-23,5,Vegetable Salad,51,30,0,0,0
+2025-04-24,5,Vegetable Salad,43,30,0,0,0
+2025-04-25,5,Vegetable Salad,57,30,0,0,0
+2025-04-26,5,Vegetable Salad,69,30,0,0,0
+2025-04-27,5,Vegetable Salad,50,30,0,0,0
+2025-04-28,5,Vegetable Salad,45,30,0,0,0
+2025-04-29,5,Vegetable Salad,31,30,0,0,0
+2025-04-30,5,Vegetable Salad,49,30,0,0,0
+2025-05-01,5,Vegetable Salad,60,30,0,0,0
+2025-05-02,5,Vegetable Salad,81,30,0,0,0
+2025-05-03,5,Vegetable Salad,70,30,0,0,0
+2025-05-04,5,Vegetable Salad,46,30,0,0,0
+2025-05-05,5,Vegetable Salad,50,30,0,0,0
+2025-05-06,5,Vegetable Salad,44,30,0,0,0
+2025-05-07,5,Vegetable Salad,52,30,0,0,0
+2025-05-08,5,Vegetable Salad,41,30,0,0,0
+2025-05-09,5,Vegetable Salad,67,30,0,0,0
+2025-05-10,5,Vegetable Salad,73,30,0,0,0
+2025-05-11,5,Vegetable Salad,51,30,0,0,0
+2025-05-12,5,Vegetable Salad,43,30,0,0,0
+2025-05-13,5,Vegetable Salad,56,30,0,0,0
+2025-05-14,5,Vegetable Salad,48,30,0,0,0
+2025-05-15,5,Vegetable Salad,48,30,0,0,0
+2025-05-16,5,Vegetable Salad,69,30,0,0,0
+2025-05-17,5,Vegetable Salad,39,30,0,0,0
+2025-05-18,5,Vegetable Salad,43,30,0,0,0
+2025-05-19,5,Vegetable Salad,46,30,0,0,0
+2025-05-20,5,Vegetable Salad,54,30,0,0,0
+2025-05-21,5,Vegetable Salad,39,30,0,0,0
+2025-05-22,5,Vegetable Salad,50,30,0,0,0
+2025-05-23,5,Vegetable Salad,58,30,0,0,0
+2025-05-24,5,Vegetable Salad,61,30,0,0,0
+2025-05-25,5,Vegetable Salad,42,30,0,0,0
+2025-05-26,5,Vegetable Salad,44,30,0,0,0
+2025-05-27,5,Vegetable Salad,47,30,0,0,0
+2025-05-28,5,Vegetable Salad,46,30,0,0,0
+2025-05-29,5,Vegetable Salad,43,30,0,0,0
+2025-05-30,5,Vegetable Salad,48,30,0,0,0
+2025-05-31,5,Vegetable Salad,57,30,0,0,0
+2025-06-01,5,Vegetable Salad,42,30,0,0,0
+2025-06-02,5,Vegetable Salad,50,30,0,0,0
+2025-06-03,5,Vegetable Salad,58,30,1,0,0
+2025-06-04,5,Vegetable Salad,43,30,0,0,0
+2025-06-05,5,Vegetable Salad,53,30,0,0,0
+2025-06-06,5,Vegetable Salad,60,30,0,0,0
+2025-06-07,5,Vegetable Salad,65,30,0,0,0
+2025-06-08,5,Vegetable Salad,41,30,0,0,0
+2025-06-09,5,Vegetable Salad,52,30,0,0,0
+2025-06-10,5,Vegetable Salad,46,30,0,0,0
+2025-06-11,5,Vegetable Salad,39,30,0,0,0
+2025-06-12,5,Vegetable Salad,49,30,0,0,0
+2025-06-13,5,Vegetable Salad,60,30,0,0,0
+2025-06-14,5,Vegetable Salad,69,30,0,0,0
+2025-06-15,5,Vegetable Salad,52,30,0,0,0
+2025-06-16,5,Vegetable Salad,43,30,0,0,0
+2025-06-17,5,Vegetable Salad,46,30,0,0,0
+2025-06-18,5,Vegetable Salad,64,30,1,0,0
+2025-06-19,5,Vegetable Salad,53,30,0,0,0
+2025-06-20,5,Vegetable Salad,55,30,0,0,0
+2025-06-21,5,Vegetable Salad,50,30,0,0,0
+2025-06-22,5,Vegetable Salad,44,30,0,0,0
+2025-06-23,5,Vegetable Salad,40,30,0,0,0
+2024-01-01,6,Pasta Alfredo,29,65,0,0,0
+2024-01-02,6,Pasta Alfredo,35,65,0,0,0
+2024-01-03,6,Pasta Alfredo,31,65,0,0,0
+2024-01-04,6,Pasta Alfredo,32,65,0,0,0
+2024-01-05,6,Pasta Alfredo,52,65,0,0,0
+2024-01-06,6,Pasta Alfredo,40,65,0,0,0
+2024-01-07,6,Pasta Alfredo,42,65,0,1,0
+2024-01-08,6,Pasta Alfredo,43,65,1,0,0
+2024-01-09,6,Pasta Alfredo,28,65,0,0,0
+2024-01-10,6,Pasta Alfredo,32,65,0,0,0
+2024-01-11,6,Pasta Alfredo,27,65,0,0,0
+2024-01-12,6,Pasta Alfredo,38,65,0,0,0
+2024-01-13,6,Pasta Alfredo,29,65,0,0,0
+2024-01-14,6,Pasta Alfredo,30,65,0,0,0
+2024-01-15,6,Pasta Alfredo,41,65,1,0,0
+2024-01-16,6,Pasta Alfredo,32,65,0,0,0
+2024-01-17,6,Pasta Alfredo,41,65,0,0,0
+2024-01-18,6,Pasta Alfredo,36,65,0,0,0
+2024-01-19,6,Pasta Alfredo,47,65,0,0,0
+2024-01-20,6,Pasta Alfredo,34,65,0,0,0
+2024-01-21,6,Pasta Alfredo,34,65,0,0,0
+2024-01-22,6,Pasta Alfredo,34,65,0,0,0
+2024-01-23,6,Pasta Alfredo,34,65,0,0,0
+2024-01-24,6,Pasta Alfredo,29,65,0,0,0
+2024-01-25,6,Pasta Alfredo,33,65,0,0,0
+2024-01-26,6,Pasta Alfredo,46,65,0,0,0
+2024-01-27,6,Pasta Alfredo,41,65,0,0,0
+2024-01-28,6,Pasta Alfredo,48,65,1,0,0
+2024-01-29,6,Pasta Alfredo,35,65,0,0,0
+2024-01-30,6,Pasta Alfredo,32,65,0,0,0
+2024-01-31,6,Pasta Alfredo,29,65,0,0,0
+2024-02-01,6,Pasta Alfredo,37,65,1,0,0
+2024-02-02,6,Pasta Alfredo,43,65,0,0,0
+2024-02-03,6,Pasta Alfredo,39,65,0,0,0
+2024-02-04,6,Pasta Alfredo,31,65,0,0,0
+2024-02-05,6,Pasta Alfredo,35,65,0,0,0
+2024-02-06,6,Pasta Alfredo,35,65,0,0,0
+2024-02-07,6,Pasta Alfredo,31,65,0,0,0
+2024-02-08,6,Pasta Alfredo,30,65,0,0,0
+2024-02-09,6,Pasta Alfredo,44,65,0,0,0
+2024-02-10,6,Pasta Alfredo,52,65,0,0,0
+2024-02-11,6,Pasta Alfredo,26,65,0,0,0
+2024-02-12,6,Pasta Alfredo,32,65,0,0,0
+2024-02-13,6,Pasta Alfredo,29,65,0,0,0
+2024-02-14,6,Pasta Alfredo,37,65,0,0,0
+2024-02-15,6,Pasta Alfredo,35,65,0,0,0
+2024-02-16,6,Pasta Alfredo,46,65,0,0,0
+2024-02-17,6,Pasta Alfredo,41,65,0,0,0
+2024-02-18,6,Pasta Alfredo,29,65,0,0,0
+2024-02-19,6,Pasta Alfredo,36,65,0,0,0
+2024-02-20,6,Pasta Alfredo,34,65,0,0,0
+2024-02-21,6,Pasta Alfredo,31,65,0,0,0
+2024-02-22,6,Pasta Alfredo,34,65,0,0,0
+2024-02-23,6,Pasta Alfredo,45,65,0,0,0
+2024-02-24,6,Pasta Alfredo,52,65,0,0,0
+2024-02-25,6,Pasta Alfredo,36,65,0,0,0
+2024-02-26,6,Pasta Alfredo,34,65,0,0,0
+2024-02-27,6,Pasta Alfredo,35,65,0,0,0
+2024-02-28,6,Pasta Alfredo,36,65,0,0,0
+2024-02-29,6,Pasta Alfredo,35,65,0,0,0
+2024-03-01,6,Pasta Alfredo,39,65,0,0,0
+2024-03-02,6,Pasta Alfredo,54,65,0,0,0
+2024-03-03,6,Pasta Alfredo,62,65,1,0,0
+2024-03-04,6,Pasta Alfredo,40,65,0,0,0
+2024-03-05,6,Pasta Alfredo,39,65,0,0,0
+2024-03-06,6,Pasta Alfredo,33,65,0,0,0
+2024-03-07,6,Pasta Alfredo,42,65,0,0,0
+2024-03-08,6,Pasta Alfredo,50,65,0,0,0
+2024-03-09,6,Pasta Alfredo,54,65,0,0,0
+2024-03-10,6,Pasta Alfredo,36,65,0,0,0
+2024-03-11,6,Pasta Alfredo,49,65,0,0,1
+2024-03-12,6,Pasta Alfredo,56,65,0,0,1
+2024-03-13,6,Pasta Alfredo,62,65,0,0,1
+2024-03-14,6,Pasta Alfredo,54,65,0,0,1
+2024-03-15,6,Pasta Alfredo,79,65,0,0,1
+2024-03-16,6,Pasta Alfredo,73,65,0,0,1
+2024-03-17,6,Pasta Alfredo,52,65,0,0,1
+2024-03-18,6,Pasta Alfredo,38,65,0,0,1
+2024-03-19,6,Pasta Alfredo,43,65,0,0,1
+2024-03-20,6,Pasta Alfredo,51,65,0,0,1
+2024-03-21,6,Pasta Alfredo,54,65,0,0,1
+2024-03-22,6,Pasta Alfredo,88,65,0,0,1
+2024-03-23,6,Pasta Alfredo,69,65,0,0,1
+2024-03-24,6,Pasta Alfredo,51,65,0,0,1
+2024-03-25,6,Pasta Alfredo,70,65,0,0,1
+2024-03-26,6,Pasta Alfredo,90,65,1,0,1
+2024-03-27,6,Pasta Alfredo,78,65,0,0,1
+2024-03-28,6,Pasta Alfredo,62,65,0,0,1
+2024-03-29,6,Pasta Alfredo,69,65,0,0,1
+2024-03-30,6,Pasta Alfredo,77,65,1,0,1
+2024-03-31,6,Pasta Alfredo,84,65,1,0,1
+2024-04-01,6,Pasta Alfredo,70,65,0,0,1
+2024-04-02,6,Pasta Alfredo,53,65,0,0,1
+2024-04-03,6,Pasta Alfredo,61,65,0,0,1
+2024-04-04,6,Pasta Alfredo,51,65,0,0,1
+2024-04-05,6,Pasta Alfredo,70,65,0,0,1
+2024-04-06,6,Pasta Alfredo,75,65,0,0,1
+2024-04-07,6,Pasta Alfredo,93,65,1,0,1
+2024-04-08,6,Pasta Alfredo,58,65,0,0,1
+2024-04-09,6,Pasta Alfredo,60,65,0,0,1
+2024-04-10,6,Pasta Alfredo,71,65,1,1,0
+2024-04-11,6,Pasta Alfredo,36,65,0,0,0
+2024-04-12,6,Pasta Alfredo,49,65,0,0,0
+2024-04-13,6,Pasta Alfredo,52,65,0,0,0
+2024-04-14,6,Pasta Alfredo,34,65,0,0,0
+2024-04-15,6,Pasta Alfredo,37,65,0,0,0
+2024-04-16,6,Pasta Alfredo,25,65,0,0,0
+2024-04-17,6,Pasta Alfredo,29,65,0,0,0
+2024-04-18,6,Pasta Alfredo,36,65,0,0,0
+2024-04-19,6,Pasta Alfredo,41,65,0,0,0
+2024-04-20,6,Pasta Alfredo,52,65,0,0,0
+2024-04-21,6,Pasta Alfredo,35,65,0,0,0
+2024-04-22,6,Pasta Alfredo,37,65,0,0,0
+2024-04-23,6,Pasta Alfredo,40,65,0,0,0
+2024-04-24,6,Pasta Alfredo,49,65,1,0,0
+2024-04-25,6,Pasta Alfredo,29,65,0,0,0
+2024-04-26,6,Pasta Alfredo,43,65,0,0,0
+2024-04-27,6,Pasta Alfredo,54,65,0,0,0
+2024-04-28,6,Pasta Alfredo,42,65,0,0,0
+2024-04-29,6,Pasta Alfredo,34,65,0,0,0
+2024-04-30,6,Pasta Alfredo,36,65,0,0,0
+2024-05-01,6,Pasta Alfredo,28,65,0,0,0
+2024-05-02,6,Pasta Alfredo,38,65,0,0,0
+2024-05-03,6,Pasta Alfredo,53,65,0,0,0
+2024-05-04,6,Pasta Alfredo,46,65,0,0,0
+2024-05-05,6,Pasta Alfredo,39,65,0,0,0
+2024-05-06,6,Pasta Alfredo,40,65,0,0,0
+2024-05-07,6,Pasta Alfredo,34,65,0,0,0
+2024-05-08,6,Pasta Alfredo,27,65,0,0,0
+2024-05-09,6,Pasta Alfredo,30,65,0,0,0
+2024-05-10,6,Pasta Alfredo,50,65,0,0,0
+2024-05-11,6,Pasta Alfredo,48,65,0,0,0
+2024-05-12,6,Pasta Alfredo,47,65,1,0,0
+2024-05-13,6,Pasta Alfredo,29,65,0,0,0
+2024-05-14,6,Pasta Alfredo,32,65,0,0,0
+2024-05-15,6,Pasta Alfredo,39,65,0,0,0
+2024-05-16,6,Pasta Alfredo,42,65,0,0,0
+2024-05-17,6,Pasta Alfredo,48,65,0,0,0
+2024-05-18,6,Pasta Alfredo,38,65,0,0,0
+2024-05-19,6,Pasta Alfredo,51,65,1,0,0
+2024-05-20,6,Pasta Alfredo,36,65,0,0,0
+2024-05-21,6,Pasta Alfredo,33,65,0,0,0
+2024-05-22,6,Pasta Alfredo,32,65,0,0,0
+2024-05-23,6,Pasta Alfredo,35,65,0,0,0
+2024-05-24,6,Pasta Alfredo,51,65,0,0,0
+2024-05-25,6,Pasta Alfredo,46,65,0,0,0
+2024-05-26,6,Pasta Alfredo,33,65,0,0,0
+2024-05-27,6,Pasta Alfredo,34,65,0,0,0
+2024-05-28,6,Pasta Alfredo,36,65,0,0,0
+2024-05-29,6,Pasta Alfredo,35,65,0,0,0
+2024-05-30,6,Pasta Alfredo,35,65,0,0,0
+2024-05-31,6,Pasta Alfredo,60,65,1,0,0
+2024-06-01,6,Pasta Alfredo,51,65,0,0,0
+2024-06-02,6,Pasta Alfredo,39,65,0,0,0
+2024-06-03,6,Pasta Alfredo,35,65,0,0,0
+2024-06-04,6,Pasta Alfredo,38,65,0,0,0
+2024-06-05,6,Pasta Alfredo,35,65,0,0,0
+2024-06-06,6,Pasta Alfredo,30,65,0,0,0
+2024-06-07,6,Pasta Alfredo,50,65,0,0,0
+2024-06-08,6,Pasta Alfredo,46,65,0,0,0
+2024-06-09,6,Pasta Alfredo,37,65,0,0,0
+2024-06-10,6,Pasta Alfredo,40,65,0,0,0
+2024-06-11,6,Pasta Alfredo,33,65,0,0,0
+2024-06-12,6,Pasta Alfredo,42,65,1,0,0
+2024-06-13,6,Pasta Alfredo,31,65,0,0,0
+2024-06-14,6,Pasta Alfredo,49,65,0,0,0
+2024-06-15,6,Pasta Alfredo,49,65,0,0,0
+2024-06-16,6,Pasta Alfredo,54,65,0,1,0
+2024-06-17,6,Pasta Alfredo,32,65,0,0,0
+2024-06-18,6,Pasta Alfredo,34,65,0,0,0
+2024-06-19,6,Pasta Alfredo,34,65,0,0,0
+2024-06-20,6,Pasta Alfredo,39,65,0,0,0
+2024-06-21,6,Pasta Alfredo,43,65,0,0,0
+2024-06-22,6,Pasta Alfredo,42,65,0,0,0
+2024-06-23,6,Pasta Alfredo,31,65,0,0,0
+2024-06-24,6,Pasta Alfredo,37,65,0,0,0
+2024-06-25,6,Pasta Alfredo,36,65,0,0,0
+2024-06-26,6,Pasta Alfredo,28,65,0,0,0
+2024-06-27,6,Pasta Alfredo,28,65,0,0,0
+2024-06-28,6,Pasta Alfredo,46,65,0,0,0
+2024-06-29,6,Pasta Alfredo,44,65,0,0,0
+2024-06-30,6,Pasta Alfredo,26,65,0,0,0
+2024-07-01,6,Pasta Alfredo,28,65,0,0,0
+2024-07-02,6,Pasta Alfredo,33,65,0,0,0
+2024-07-03,6,Pasta Alfredo,42,65,0,0,0
+2024-07-04,6,Pasta Alfredo,49,65,1,0,0
+2024-07-05,6,Pasta Alfredo,39,65,0,0,0
+2024-07-06,6,Pasta Alfredo,71,65,1,0,0
+2024-07-07,6,Pasta Alfredo,28,65,0,0,0
+2024-07-08,6,Pasta Alfredo,30,65,0,0,0
+2024-07-09,6,Pasta Alfredo,37,65,0,0,0
+2024-07-10,6,Pasta Alfredo,28,65,0,0,0
+2024-07-11,6,Pasta Alfredo,38,65,0,0,0
+2024-07-12,6,Pasta Alfredo,46,65,1,0,0
+2024-07-13,6,Pasta Alfredo,63,65,1,0,0
+2024-07-14,6,Pasta Alfredo,33,65,0,0,0
+2024-07-15,6,Pasta Alfredo,35,65,0,0,0
+2024-07-16,6,Pasta Alfredo,32,65,0,0,0
+2024-07-17,6,Pasta Alfredo,32,65,0,0,0
+2024-07-18,6,Pasta Alfredo,29,65,0,0,0
+2024-07-19,6,Pasta Alfredo,41,65,0,0,0
+2024-07-20,6,Pasta Alfredo,49,65,0,0,0
+2024-07-21,6,Pasta Alfredo,33,65,0,0,0
+2024-07-22,6,Pasta Alfredo,33,65,0,0,0
+2024-07-23,6,Pasta Alfredo,48,65,0,1,0
+2024-07-24,6,Pasta Alfredo,30,65,0,0,0
+2024-07-25,6,Pasta Alfredo,25,65,0,0,0
+2024-07-26,6,Pasta Alfredo,48,65,0,0,0
+2024-07-27,6,Pasta Alfredo,45,65,0,0,0
+2024-07-28,6,Pasta Alfredo,31,65,0,0,0
+2024-07-29,6,Pasta Alfredo,28,65,0,0,0
+2024-07-30,6,Pasta Alfredo,47,65,1,0,0
+2024-07-31,6,Pasta Alfredo,27,65,0,0,0
+2024-08-01,6,Pasta Alfredo,33,65,0,0,0
+2024-08-02,6,Pasta Alfredo,38,65,0,0,0
+2024-08-03,6,Pasta Alfredo,43,65,0,0,0
+2024-08-04,6,Pasta Alfredo,35,65,0,0,0
+2024-08-05,6,Pasta Alfredo,31,65,0,0,0
+2024-08-06,6,Pasta Alfredo,32,65,0,0,0
+2024-08-07,6,Pasta Alfredo,37,65,0,0,0
+2024-08-08,6,Pasta Alfredo,32,65,0,0,0
+2024-08-09,6,Pasta Alfredo,36,65,0,0,0
+2024-08-10,6,Pasta Alfredo,44,65,0,0,0
+2024-08-11,6,Pasta Alfredo,29,65,0,0,0
+2024-08-12,6,Pasta Alfredo,36,65,0,0,0
+2024-08-13,6,Pasta Alfredo,29,65,0,0,0
+2024-08-14,6,Pasta Alfredo,29,65,0,0,0
+2024-08-15,6,Pasta Alfredo,32,65,0,0,0
+2024-08-16,6,Pasta Alfredo,42,65,0,0,0
+2024-08-17,6,Pasta Alfredo,43,65,0,0,0
+2024-08-18,6,Pasta Alfredo,28,65,0,0,0
+2024-08-19,6,Pasta Alfredo,32,65,0,0,0
+2024-08-20,6,Pasta Alfredo,24,65,0,0,0
+2024-08-21,6,Pasta Alfredo,28,65,0,0,0
+2024-08-22,6,Pasta Alfredo,32,65,0,0,0
+2024-08-23,6,Pasta Alfredo,31,65,0,0,0
+2024-08-24,6,Pasta Alfredo,42,65,0,0,0
+2024-08-25,6,Pasta Alfredo,30,65,0,0,0
+2024-08-26,6,Pasta Alfredo,27,65,0,0,0
+2024-08-27,6,Pasta Alfredo,31,65,0,0,0
+2024-08-28,6,Pasta Alfredo,27,65,0,0,0
+2024-08-29,6,Pasta Alfredo,44,65,1,0,0
+2024-08-30,6,Pasta Alfredo,41,65,0,0,0
+2024-08-31,6,Pasta Alfredo,44,65,0,0,0
+2024-09-01,6,Pasta Alfredo,36,65,0,0,0
+2024-09-02,6,Pasta Alfredo,30,65,0,0,0
+2024-09-03,6,Pasta Alfredo,33,65,0,0,0
+2024-09-04,6,Pasta Alfredo,35,65,1,0,0
+2024-09-05,6,Pasta Alfredo,31,65,0,0,0
+2024-09-06,6,Pasta Alfredo,41,65,1,0,0
+2024-09-07,6,Pasta Alfredo,42,65,0,0,0
+2024-09-08,6,Pasta Alfredo,25,65,0,0,0
+2024-09-09,6,Pasta Alfredo,32,65,0,0,0
+2024-09-10,6,Pasta Alfredo,33,65,0,0,0
+2024-09-11,6,Pasta Alfredo,31,65,0,0,0
+2024-09-12,6,Pasta Alfredo,23,65,0,0,0
+2024-09-13,6,Pasta Alfredo,37,65,0,0,0
+2024-09-14,6,Pasta Alfredo,30,65,0,0,0
+2024-09-15,6,Pasta Alfredo,36,65,0,0,0
+2024-09-16,6,Pasta Alfredo,31,65,0,0,0
+2024-09-17,6,Pasta Alfredo,31,65,0,0,0
+2024-09-18,6,Pasta Alfredo,25,65,0,0,0
+2024-09-19,6,Pasta Alfredo,26,65,0,0,0
+2024-09-20,6,Pasta Alfredo,38,65,0,0,0
+2024-09-21,6,Pasta Alfredo,43,65,0,0,0
+2024-09-22,6,Pasta Alfredo,37,65,1,0,0
+2024-09-23,6,Pasta Alfredo,35,65,0,0,0
+2024-09-24,6,Pasta Alfredo,24,65,0,0,0
+2024-09-25,6,Pasta Alfredo,28,65,0,0,0
+2024-09-26,6,Pasta Alfredo,33,65,0,0,0
+2024-09-27,6,Pasta Alfredo,34,65,0,0,0
+2024-09-28,6,Pasta Alfredo,37,65,0,0,0
+2024-09-29,6,Pasta Alfredo,29,65,0,0,0
+2024-09-30,6,Pasta Alfredo,25,65,0,0,0
+2024-10-01,6,Pasta Alfredo,23,65,0,0,0
+2024-10-02,6,Pasta Alfredo,26,65,0,0,0
+2024-10-03,6,Pasta Alfredo,33,65,0,0,0
+2024-10-04,6,Pasta Alfredo,38,65,0,0,0
+2024-10-05,6,Pasta Alfredo,34,65,0,0,0
+2024-10-06,6,Pasta Alfredo,25,65,0,0,0
+2024-10-07,6,Pasta Alfredo,32,65,0,0,0
+2024-10-08,6,Pasta Alfredo,27,65,0,0,0
+2024-10-09,6,Pasta Alfredo,30,65,0,0,0
+2024-10-10,6,Pasta Alfredo,28,65,0,0,0
+2024-10-11,6,Pasta Alfredo,41,65,0,0,0
+2024-10-12,6,Pasta Alfredo,43,65,0,0,0
+2024-10-13,6,Pasta Alfredo,32,65,0,0,0
+2024-10-14,6,Pasta Alfredo,26,65,0,0,0
+2024-10-15,6,Pasta Alfredo,29,65,0,0,0
+2024-10-16,6,Pasta Alfredo,27,65,0,0,0
+2024-10-17,6,Pasta Alfredo,33,65,0,0,0
+2024-10-18,6,Pasta Alfredo,35,65,0,0,0
+2024-10-19,6,Pasta Alfredo,41,65,0,0,0
+2024-10-20,6,Pasta Alfredo,30,65,0,0,0
+2024-10-21,6,Pasta Alfredo,26,65,0,0,0
+2024-10-22,6,Pasta Alfredo,24,65,0,0,0
+2024-10-23,6,Pasta Alfredo,27,65,0,0,0
+2024-10-24,6,Pasta Alfredo,28,65,0,0,0
+2024-10-25,6,Pasta Alfredo,54,65,1,0,0
+2024-10-26,6,Pasta Alfredo,38,65,0,0,0
+2024-10-27,6,Pasta Alfredo,32,65,0,0,0
+2024-10-28,6,Pasta Alfredo,32,65,0,0,0
+2024-10-29,6,Pasta Alfredo,33,65,0,0,0
+2024-10-30,6,Pasta Alfredo,38,65,1,0,0
+2024-10-31,6,Pasta Alfredo,41,65,1,0,0
+2024-11-01,6,Pasta Alfredo,47,65,0,0,0
+2024-11-02,6,Pasta Alfredo,40,65,0,0,0
+2024-11-03,6,Pasta Alfredo,37,65,0,0,0
+2024-11-04,6,Pasta Alfredo,28,65,0,0,0
+2024-11-05,6,Pasta Alfredo,32,65,0,0,0
+2024-11-06,6,Pasta Alfredo,33,65,0,0,0
+2024-11-07,6,Pasta Alfredo,30,65,0,0,0
+2024-11-08,6,Pasta Alfredo,39,65,0,0,0
+2024-11-09,6,Pasta Alfredo,36,65,0,0,0
+2024-11-10,6,Pasta Alfredo,29,65,0,0,0
+2024-11-11,6,Pasta Alfredo,26,65,0,0,0
+2024-11-12,6,Pasta Alfredo,35,65,0,0,0
+2024-11-13,6,Pasta Alfredo,25,65,0,0,0
+2024-11-14,6,Pasta Alfredo,28,65,0,0,0
+2024-11-15,6,Pasta Alfredo,43,65,0,0,0
+2024-11-16,6,Pasta Alfredo,42,65,0,0,0
+2024-11-17,6,Pasta Alfredo,28,65,0,0,0
+2024-11-18,6,Pasta Alfredo,32,65,0,0,0
+2024-11-19,6,Pasta Alfredo,26,65,0,0,0
+2024-11-20,6,Pasta Alfredo,32,65,0,0,0
+2024-11-21,6,Pasta Alfredo,29,65,0,0,0
+2024-11-22,6,Pasta Alfredo,36,65,0,0,0
+2024-11-23,6,Pasta Alfredo,41,65,0,0,0
+2024-11-24,6,Pasta Alfredo,35,65,0,0,0
+2024-11-25,6,Pasta Alfredo,29,65,0,0,0
+2024-11-26,6,Pasta Alfredo,34,65,0,0,0
+2024-11-27,6,Pasta Alfredo,32,65,0,0,0
+2024-11-28,6,Pasta Alfredo,28,65,0,0,0
+2024-11-29,6,Pasta Alfredo,41,65,0,0,0
+2024-11-30,6,Pasta Alfredo,42,65,0,0,0
+2024-12-01,6,Pasta Alfredo,23,65,0,0,0
+2024-12-02,6,Pasta Alfredo,27,65,0,0,0
+2024-12-03,6,Pasta Alfredo,31,65,0,0,0
+2024-12-04,6,Pasta Alfredo,38,65,1,0,0
+2024-12-05,6,Pasta Alfredo,50,65,1,0,0
+2024-12-06,6,Pasta Alfredo,46,65,0,0,0
+2024-12-07,6,Pasta Alfredo,46,65,0,0,0
+2024-12-08,6,Pasta Alfredo,30,65,0,0,0
+2024-12-09,6,Pasta Alfredo,29,65,0,0,0
+2024-12-10,6,Pasta Alfredo,34,65,0,0,0
+2024-12-11,6,Pasta Alfredo,36,65,0,0,0
+2024-12-12,6,Pasta Alfredo,41,65,0,0,0
+2024-12-13,6,Pasta Alfredo,71,65,1,0,0
+2024-12-14,6,Pasta Alfredo,52,65,0,0,0
+2024-12-15,6,Pasta Alfredo,37,65,0,0,0
+2024-12-16,6,Pasta Alfredo,33,65,0,0,0
+2024-12-17,6,Pasta Alfredo,30,65,0,0,0
+2024-12-18,6,Pasta Alfredo,26,65,0,0,0
+2024-12-19,6,Pasta Alfredo,33,65,0,0,0
+2024-12-20,6,Pasta Alfredo,51,65,0,0,0
+2024-12-21,6,Pasta Alfredo,43,65,0,0,0
+2024-12-22,6,Pasta Alfredo,34,65,0,0,0
+2024-12-23,6,Pasta Alfredo,32,65,0,0,0
+2024-12-24,6,Pasta Alfredo,36,65,0,0,0
+2024-12-25,6,Pasta Alfredo,47,65,1,0,0
+2024-12-26,6,Pasta Alfredo,24,65,0,0,0
+2024-12-27,6,Pasta Alfredo,55,65,1,0,0
+2024-12-28,6,Pasta Alfredo,50,65,0,0,0
+2024-12-29,6,Pasta Alfredo,26,65,0,0,0
+2024-12-30,6,Pasta Alfredo,35,65,0,0,0
+2024-12-31,6,Pasta Alfredo,38,65,0,0,0
+2025-01-01,6,Pasta Alfredo,29,65,0,0,0
+2025-01-02,6,Pasta Alfredo,39,65,0,0,0
+2025-01-03,6,Pasta Alfredo,56,65,0,0,0
+2025-01-04,6,Pasta Alfredo,41,65,0,0,0
+2025-01-05,6,Pasta Alfredo,33,65,0,0,0
+2025-01-06,6,Pasta Alfredo,36,65,0,0,0
+2025-01-07,6,Pasta Alfredo,64,65,0,1,0
+2025-01-08,6,Pasta Alfredo,34,65,0,0,0
+2025-01-09,6,Pasta Alfredo,39,65,0,0,0
+2025-01-10,6,Pasta Alfredo,49,65,0,0,0
+2025-01-11,6,Pasta Alfredo,45,65,0,0,0
+2025-01-12,6,Pasta Alfredo,29,65,0,0,0
+2025-01-13,6,Pasta Alfredo,33,65,0,0,0
+2025-01-14,6,Pasta Alfredo,33,65,0,0,0
+2025-01-15,6,Pasta Alfredo,45,65,0,0,0
+2025-01-16,6,Pasta Alfredo,41,65,0,0,0
+2025-01-17,6,Pasta Alfredo,47,65,0,0,0
+2025-01-18,6,Pasta Alfredo,51,65,0,0,0
+2025-01-19,6,Pasta Alfredo,34,65,0,0,0
+2025-01-20,6,Pasta Alfredo,43,65,0,0,0
+2025-01-21,6,Pasta Alfredo,34,65,0,0,0
+2025-01-22,6,Pasta Alfredo,34,65,0,0,0
+2025-01-23,6,Pasta Alfredo,38,65,0,0,0
+2025-01-24,6,Pasta Alfredo,42,65,0,0,0
+2025-01-25,6,Pasta Alfredo,49,65,0,0,0
+2025-01-26,6,Pasta Alfredo,35,65,0,0,0
+2025-01-27,6,Pasta Alfredo,40,65,0,0,0
+2025-01-28,6,Pasta Alfredo,44,65,0,0,0
+2025-01-29,6,Pasta Alfredo,53,65,1,0,0
+2025-01-30,6,Pasta Alfredo,39,65,0,0,0
+2025-01-31,6,Pasta Alfredo,56,65,0,0,0
+2025-02-01,6,Pasta Alfredo,42,65,0,0,0
+2025-02-02,6,Pasta Alfredo,36,65,0,0,0
+2025-02-03,6,Pasta Alfredo,42,65,0,0,0
+2025-02-04,6,Pasta Alfredo,44,65,0,0,0
+2025-02-05,6,Pasta Alfredo,42,65,0,0,0
+2025-02-06,6,Pasta Alfredo,46,65,0,0,0
+2025-02-07,6,Pasta Alfredo,67,65,1,0,0
+2025-02-08,6,Pasta Alfredo,59,65,0,0,0
+2025-02-09,6,Pasta Alfredo,39,65,0,0,0
+2025-02-10,6,Pasta Alfredo,30,65,0,0,0
+2025-02-11,6,Pasta Alfredo,25,65,0,0,0
+2025-02-12,6,Pasta Alfredo,41,65,0,0,0
+2025-02-13,6,Pasta Alfredo,38,65,0,0,0
+2025-02-14,6,Pasta Alfredo,66,65,0,0,0
+2025-02-15,6,Pasta Alfredo,55,65,0,0,0
+2025-02-16,6,Pasta Alfredo,38,65,0,0,0
+2025-02-17,6,Pasta Alfredo,40,65,0,0,0
+2025-02-18,6,Pasta Alfredo,37,65,0,0,0
+2025-02-19,6,Pasta Alfredo,34,65,0,0,0
+2025-02-20,6,Pasta Alfredo,40,65,0,0,0
+2025-02-21,6,Pasta Alfredo,49,65,0,0,0
+2025-02-22,6,Pasta Alfredo,60,65,0,0,0
+2025-02-23,6,Pasta Alfredo,50,65,0,0,0
+2025-02-24,6,Pasta Alfredo,38,65,0,0,0
+2025-02-25,6,Pasta Alfredo,48,65,0,0,0
+2025-02-26,6,Pasta Alfredo,33,65,0,0,0
+2025-02-27,6,Pasta Alfredo,45,65,0,0,0
+2025-02-28,6,Pasta Alfredo,56,65,0,0,0
+2025-03-01,6,Pasta Alfredo,93,65,0,0,1
+2025-03-02,6,Pasta Alfredo,74,65,0,0,1
+2025-03-03,6,Pasta Alfredo,95,65,1,0,1
+2025-03-04,6,Pasta Alfredo,54,65,0,0,1
+2025-03-05,6,Pasta Alfredo,99,65,1,0,1
+2025-03-06,6,Pasta Alfredo,97,65,1,0,1
+2025-03-07,6,Pasta Alfredo,85,65,0,0,1
+2025-03-08,6,Pasta Alfredo,87,65,0,0,1
+2025-03-09,6,Pasta Alfredo,72,65,0,0,1
+2025-03-10,6,Pasta Alfredo,67,65,0,0,1
+2025-03-11,6,Pasta Alfredo,62,65,0,0,1
+2025-03-12,6,Pasta Alfredo,67,65,0,0,1
+2025-03-13,6,Pasta Alfredo,58,65,0,0,1
+2025-03-14,6,Pasta Alfredo,81,65,0,0,1
+2025-03-15,6,Pasta Alfredo,89,65,0,0,1
+2025-03-16,6,Pasta Alfredo,65,65,0,0,1
+2025-03-17,6,Pasta Alfredo,68,65,0,0,1
+2025-03-18,6,Pasta Alfredo,66,65,0,0,1
+2025-03-19,6,Pasta Alfredo,56,65,0,0,1
+2025-03-20,6,Pasta Alfredo,78,65,0,0,1
+2025-03-21,6,Pasta Alfredo,102,65,0,0,1
+2025-03-22,6,Pasta Alfredo,94,65,0,0,1
+2025-03-23,6,Pasta Alfredo,63,65,0,0,1
+2025-03-24,6,Pasta Alfredo,74,65,0,0,1
+2025-03-25,6,Pasta Alfredo,73,65,0,0,1
+2025-03-26,6,Pasta Alfredo,77,65,0,0,1
+2025-03-27,6,Pasta Alfredo,71,65,0,0,1
+2025-03-28,6,Pasta Alfredo,87,65,0,0,1
+2025-03-29,6,Pasta Alfredo,96,65,0,0,1
+2025-03-30,6,Pasta Alfredo,77,65,0,1,1
+2025-03-31,6,Pasta Alfredo,40,65,0,0,0
+2025-04-01,6,Pasta Alfredo,51,65,0,0,0
+2025-04-02,6,Pasta Alfredo,36,65,0,0,0
+2025-04-03,6,Pasta Alfredo,33,65,0,0,0
+2025-04-04,6,Pasta Alfredo,54,65,0,0,0
+2025-04-05,6,Pasta Alfredo,55,65,0,0,0
+2025-04-06,6,Pasta Alfredo,46,65,0,0,0
+2025-04-07,6,Pasta Alfredo,43,65,0,0,0
+2025-04-08,6,Pasta Alfredo,42,65,0,0,0
+2025-04-09,6,Pasta Alfredo,34,65,0,0,0
+2025-04-10,6,Pasta Alfredo,42,65,0,0,0
+2025-04-11,6,Pasta Alfredo,52,65,0,0,0
+2025-04-12,6,Pasta Alfredo,61,65,0,0,0
+2025-04-13,6,Pasta Alfredo,42,65,0,0,0
+2025-04-14,6,Pasta Alfredo,30,65,0,0,0
+2025-04-15,6,Pasta Alfredo,48,65,0,0,0
+2025-04-16,6,Pasta Alfredo,24,65,0,0,0
+2025-04-17,6,Pasta Alfredo,36,65,0,0,0
+2025-04-18,6,Pasta Alfredo,57,65,0,0,0
+2025-04-19,6,Pasta Alfredo,55,65,0,0,0
+2025-04-20,6,Pasta Alfredo,44,65,0,0,0
+2025-04-21,6,Pasta Alfredo,39,65,0,0,0
+2025-04-22,6,Pasta Alfredo,38,65,0,0,0
+2025-04-23,6,Pasta Alfredo,41,65,0,0,0
+2025-04-24,6,Pasta Alfredo,49,65,0,0,0
+2025-04-25,6,Pasta Alfredo,48,65,0,0,0
+2025-04-26,6,Pasta Alfredo,57,65,0,0,0
+2025-04-27,6,Pasta Alfredo,43,65,0,0,0
+2025-04-28,6,Pasta Alfredo,42,65,0,0,0
+2025-04-29,6,Pasta Alfredo,39,65,0,0,0
+2025-04-30,6,Pasta Alfredo,40,65,0,0,0
+2025-05-01,6,Pasta Alfredo,41,65,0,0,0
+2025-05-02,6,Pasta Alfredo,56,65,0,0,0
+2025-05-03,6,Pasta Alfredo,59,65,1,0,0
+2025-05-04,6,Pasta Alfredo,44,65,0,0,0
+2025-05-05,6,Pasta Alfredo,43,65,0,0,0
+2025-05-06,6,Pasta Alfredo,46,65,0,0,0
+2025-05-07,6,Pasta Alfredo,32,65,0,0,0
+2025-05-08,6,Pasta Alfredo,60,65,1,0,0
+2025-05-09,6,Pasta Alfredo,55,65,0,0,0
+2025-05-10,6,Pasta Alfredo,57,65,0,0,0
+2025-05-11,6,Pasta Alfredo,40,65,0,0,0
+2025-05-12,6,Pasta Alfredo,43,65,0,0,0
+2025-05-13,6,Pasta Alfredo,38,65,0,0,0
+2025-05-14,6,Pasta Alfredo,58,65,1,0,0
+2025-05-15,6,Pasta Alfredo,33,65,0,0,0
+2025-05-16,6,Pasta Alfredo,53,65,0,0,0
+2025-05-17,6,Pasta Alfredo,53,65,0,0,0
+2025-05-18,6,Pasta Alfredo,29,65,0,0,0
+2025-05-19,6,Pasta Alfredo,41,65,0,0,0
+2025-05-20,6,Pasta Alfredo,59,65,1,0,0
+2025-05-21,6,Pasta Alfredo,39,65,0,0,0
+2025-05-22,6,Pasta Alfredo,44,65,0,0,0
+2025-05-23,6,Pasta Alfredo,63,65,0,0,0
+2025-05-24,6,Pasta Alfredo,94,65,1,0,0
+2025-05-25,6,Pasta Alfredo,34,65,0,0,0
+2025-05-26,6,Pasta Alfredo,43,65,0,0,0
+2025-05-27,6,Pasta Alfredo,41,65,0,0,0
+2025-05-28,6,Pasta Alfredo,40,65,0,0,0
+2025-05-29,6,Pasta Alfredo,34,65,0,0,0
+2025-05-30,6,Pasta Alfredo,54,65,0,0,0
+2025-05-31,6,Pasta Alfredo,39,65,0,0,0
+2025-06-01,6,Pasta Alfredo,39,65,0,0,0
+2025-06-02,6,Pasta Alfredo,32,65,0,0,0
+2025-06-03,6,Pasta Alfredo,37,65,0,0,0
+2025-06-04,6,Pasta Alfredo,62,65,1,0,0
+2025-06-05,6,Pasta Alfredo,51,65,1,0,0
+2025-06-06,6,Pasta Alfredo,41,65,0,0,0
+2025-06-07,6,Pasta Alfredo,55,65,0,0,0
+2025-06-08,6,Pasta Alfredo,50,65,1,0,0
+2025-06-09,6,Pasta Alfredo,49,65,0,0,0
+2025-06-10,6,Pasta Alfredo,32,65,0,0,0
+2025-06-11,6,Pasta Alfredo,53,65,0,0,0
+2025-06-12,6,Pasta Alfredo,51,65,1,0,0
+2025-06-13,6,Pasta Alfredo,49,65,0,0,0
+2025-06-14,6,Pasta Alfredo,44,65,0,0,0
+2025-06-15,6,Pasta Alfredo,41,65,0,0,0
+2025-06-16,6,Pasta Alfredo,29,65,0,0,0
+2025-06-17,6,Pasta Alfredo,40,65,0,0,0
+2025-06-18,6,Pasta Alfredo,60,65,1,0,0
+2025-06-19,6,Pasta Alfredo,33,65,0,0,0
+2025-06-20,6,Pasta Alfredo,62,65,0,0,0
+2025-06-21,6,Pasta Alfredo,47,65,0,0,0
+2025-06-22,6,Pasta Alfredo,37,65,0,0,0
+2025-06-23,6,Pasta Alfredo,31,65,0,0,0
+2024-01-01,7,Molokhia,39,55,0,0,0
+2024-01-02,7,Molokhia,59,55,1,0,0
+2024-01-03,7,Molokhia,34,55,0,0,0
+2024-01-04,7,Molokhia,41,55,0,0,0
+2024-01-05,7,Molokhia,57,55,0,0,0
+2024-01-06,7,Molokhia,59,55,0,0,0
+2024-01-07,7,Molokhia,61,55,0,1,0
+2024-01-08,7,Molokhia,47,55,0,0,0
+2024-01-09,7,Molokhia,35,55,0,0,0
+2024-01-10,7,Molokhia,43,55,0,0,0
+2024-01-11,7,Molokhia,37,55,0,0,0
+2024-01-12,7,Molokhia,58,55,0,0,0
+2024-01-13,7,Molokhia,56,55,0,0,0
+2024-01-14,7,Molokhia,37,55,0,0,0
+2024-01-15,7,Molokhia,41,55,0,0,0
+2024-01-16,7,Molokhia,38,55,0,0,0
+2024-01-17,7,Molokhia,51,55,0,0,0
+2024-01-18,7,Molokhia,45,55,0,0,0
+2024-01-19,7,Molokhia,70,55,0,0,0
+2024-01-20,7,Molokhia,71,55,1,0,0
+2024-01-21,7,Molokhia,33,55,0,0,0
+2024-01-22,7,Molokhia,62,55,1,0,0
+2024-01-23,7,Molokhia,44,55,0,0,0
+2024-01-24,7,Molokhia,46,55,0,0,0
+2024-01-25,7,Molokhia,65,55,1,0,0
+2024-01-26,7,Molokhia,70,55,0,0,0
+2024-01-27,7,Molokhia,63,55,0,0,0
+2024-01-28,7,Molokhia,37,55,0,0,0
+2024-01-29,7,Molokhia,36,55,0,0,0
+2024-01-30,7,Molokhia,53,55,0,0,0
+2024-01-31,7,Molokhia,43,55,0,0,0
+2024-02-01,7,Molokhia,51,55,0,0,0
+2024-02-02,7,Molokhia,53,55,0,0,0
+2024-02-03,7,Molokhia,64,55,0,0,0
+2024-02-04,7,Molokhia,39,55,0,0,0
+2024-02-05,7,Molokhia,31,55,0,0,0
+2024-02-06,7,Molokhia,50,55,0,0,0
+2024-02-07,7,Molokhia,38,55,0,0,0
+2024-02-08,7,Molokhia,37,55,0,0,0
+2024-02-09,7,Molokhia,59,55,0,0,0
+2024-02-10,7,Molokhia,83,55,1,0,0
+2024-02-11,7,Molokhia,46,55,0,0,0
+2024-02-12,7,Molokhia,47,55,0,0,0
+2024-02-13,7,Molokhia,56,55,1,0,0
+2024-02-14,7,Molokhia,38,55,0,0,0
+2024-02-15,7,Molokhia,52,55,0,0,0
+2024-02-16,7,Molokhia,67,55,0,0,0
+2024-02-17,7,Molokhia,52,55,0,0,0
+2024-02-18,7,Molokhia,36,55,0,0,0
+2024-02-19,7,Molokhia,43,55,0,0,0
+2024-02-20,7,Molokhia,38,55,0,0,0
+2024-02-21,7,Molokhia,43,55,0,0,0
+2024-02-22,7,Molokhia,50,55,0,0,0
+2024-02-23,7,Molokhia,60,55,0,0,0
+2024-02-24,7,Molokhia,70,55,0,0,0
+2024-02-25,7,Molokhia,44,55,0,0,0
+2024-02-26,7,Molokhia,52,55,0,0,0
+2024-02-27,7,Molokhia,61,55,1,0,0
+2024-02-28,7,Molokhia,32,55,0,0,0
+2024-02-29,7,Molokhia,48,55,0,0,0
+2024-03-01,7,Molokhia,48,55,0,0,0
+2024-03-02,7,Molokhia,58,55,0,0,0
+2024-03-03,7,Molokhia,32,55,0,0,0
+2024-03-04,7,Molokhia,46,55,0,0,0
+2024-03-05,7,Molokhia,47,55,0,0,0
+2024-03-06,7,Molokhia,49,55,0,0,0
+2024-03-07,7,Molokhia,38,55,0,0,0
+2024-03-08,7,Molokhia,55,55,0,0,0
+2024-03-09,7,Molokhia,60,55,0,0,0
+2024-03-10,7,Molokhia,50,55,0,0,0
+2024-03-11,7,Molokhia,77,55,0,0,1
+2024-03-12,7,Molokhia,66,55,0,0,1
+2024-03-13,7,Molokhia,85,55,0,0,1
+2024-03-14,7,Molokhia,61,55,0,0,1
+2024-03-15,7,Molokhia,105,55,0,0,1
+2024-03-16,7,Molokhia,91,55,0,0,1
+2024-03-17,7,Molokhia,83,55,0,0,1
+2024-03-18,7,Molokhia,98,55,1,0,1
+2024-03-19,7,Molokhia,102,55,0,0,1
+2024-03-20,7,Molokhia,79,55,0,0,1
+2024-03-21,7,Molokhia,89,55,0,0,1
+2024-03-22,7,Molokhia,125,55,0,0,1
+2024-03-23,7,Molokhia,99,55,0,0,1
+2024-03-24,7,Molokhia,74,55,0,0,1
+2024-03-25,7,Molokhia,88,55,0,0,1
+2024-03-26,7,Molokhia,76,55,0,0,1
+2024-03-27,7,Molokhia,66,55,0,0,1
+2024-03-28,7,Molokhia,61,55,0,0,1
+2024-03-29,7,Molokhia,105,55,0,0,1
+2024-03-30,7,Molokhia,95,55,0,0,1
+2024-03-31,7,Molokhia,83,55,0,0,1
+2024-04-01,7,Molokhia,72,55,0,0,1
+2024-04-02,7,Molokhia,93,55,0,0,1
+2024-04-03,7,Molokhia,68,55,0,0,1
+2024-04-04,7,Molokhia,64,55,0,0,1
+2024-04-05,7,Molokhia,101,55,0,0,1
+2024-04-06,7,Molokhia,111,55,0,0,1
+2024-04-07,7,Molokhia,84,55,0,0,1
+2024-04-08,7,Molokhia,77,55,0,0,1
+2024-04-09,7,Molokhia,94,55,0,0,1
+2024-04-10,7,Molokhia,71,55,0,1,0
+2024-04-11,7,Molokhia,46,55,0,0,0
+2024-04-12,7,Molokhia,67,55,0,0,0
+2024-04-13,7,Molokhia,56,55,0,0,0
+2024-04-14,7,Molokhia,54,55,0,0,0
+2024-04-15,7,Molokhia,55,55,0,0,0
+2024-04-16,7,Molokhia,68,55,1,0,0
+2024-04-17,7,Molokhia,42,55,0,0,0
+2024-04-18,7,Molokhia,49,55,0,0,0
+2024-04-19,7,Molokhia,110,55,1,0,0
+2024-04-20,7,Molokhia,69,55,0,0,0
+2024-04-21,7,Molokhia,52,55,0,0,0
+2024-04-22,7,Molokhia,53,55,0,0,0
+2024-04-23,7,Molokhia,41,55,0,0,0
+2024-04-24,7,Molokhia,46,55,0,0,0
+2024-04-25,7,Molokhia,52,55,0,0,0
+2024-04-26,7,Molokhia,53,55,0,0,0
+2024-04-27,7,Molokhia,74,55,0,0,0
+2024-04-28,7,Molokhia,40,55,0,0,0
+2024-04-29,7,Molokhia,45,55,0,0,0
+2024-04-30,7,Molokhia,54,55,0,0,0
+2024-05-01,7,Molokhia,47,55,0,0,0
+2024-05-02,7,Molokhia,49,55,0,0,0
+2024-05-03,7,Molokhia,80,55,0,0,0
+2024-05-04,7,Molokhia,71,55,0,0,0
+2024-05-05,7,Molokhia,47,55,0,0,0
+2024-05-06,7,Molokhia,38,55,0,0,0
+2024-05-07,7,Molokhia,53,55,0,0,0
+2024-05-08,7,Molokhia,47,55,0,0,0
+2024-05-09,7,Molokhia,46,55,0,0,0
+2024-05-10,7,Molokhia,89,55,1,0,0
+2024-05-11,7,Molokhia,61,55,0,0,0
+2024-05-12,7,Molokhia,43,55,0,0,0
+2024-05-13,7,Molokhia,44,55,0,0,0
+2024-05-14,7,Molokhia,44,55,0,0,0
+2024-05-15,7,Molokhia,41,55,0,0,0
+2024-05-16,7,Molokhia,71,55,1,0,0
+2024-05-17,7,Molokhia,69,55,0,0,0
+2024-05-18,7,Molokhia,61,55,0,0,0
+2024-05-19,7,Molokhia,58,55,0,0,0
+2024-05-20,7,Molokhia,76,55,1,0,0
+2024-05-21,7,Molokhia,50,55,0,0,0
+2024-05-22,7,Molokhia,52,55,0,0,0
+2024-05-23,7,Molokhia,39,55,0,0,0
+2024-05-24,7,Molokhia,72,55,0,0,0
+2024-05-25,7,Molokhia,58,55,0,0,0
+2024-05-26,7,Molokhia,56,55,0,0,0
+2024-05-27,7,Molokhia,62,55,0,0,0
+2024-05-28,7,Molokhia,59,55,0,0,0
+2024-05-29,7,Molokhia,50,55,0,0,0
+2024-05-30,7,Molokhia,50,55,0,0,0
+2024-05-31,7,Molokhia,68,55,0,0,0
+2024-06-01,7,Molokhia,60,55,0,0,0
+2024-06-02,7,Molokhia,49,55,0,0,0
+2024-06-03,7,Molokhia,41,55,0,0,0
+2024-06-04,7,Molokhia,55,55,0,0,0
+2024-06-05,7,Molokhia,50,55,0,0,0
+2024-06-06,7,Molokhia,53,55,0,0,0
+2024-06-07,7,Molokhia,87,55,1,0,0
+2024-06-08,7,Molokhia,58,55,0,0,0
+2024-06-09,7,Molokhia,38,55,0,0,0
+2024-06-10,7,Molokhia,42,55,0,0,0
+2024-06-11,7,Molokhia,62,55,1,0,0
+2024-06-12,7,Molokhia,49,55,0,0,0
+2024-06-13,7,Molokhia,47,55,0,0,0
+2024-06-14,7,Molokhia,63,55,0,0,0
+2024-06-15,7,Molokhia,66,55,0,0,0
+2024-06-16,7,Molokhia,66,55,0,1,0
+2024-06-17,7,Molokhia,49,55,0,0,0
+2024-06-18,7,Molokhia,46,55,0,0,0
+2024-06-19,7,Molokhia,45,55,0,0,0
+2024-06-20,7,Molokhia,41,55,0,0,0
+2024-06-21,7,Molokhia,57,55,0,0,0
+2024-06-22,7,Molokhia,46,55,0,0,0
+2024-06-23,7,Molokhia,40,55,0,0,0
+2024-06-24,7,Molokhia,50,55,0,0,0
+2024-06-25,7,Molokhia,40,55,0,0,0
+2024-06-26,7,Molokhia,46,55,0,0,0
+2024-06-27,7,Molokhia,39,55,0,0,0
+2024-06-28,7,Molokhia,65,55,0,0,0
+2024-06-29,7,Molokhia,62,55,0,0,0
+2024-06-30,7,Molokhia,37,55,0,0,0
+2024-07-01,7,Molokhia,48,55,0,0,0
+2024-07-02,7,Molokhia,50,55,0,0,0
+2024-07-03,7,Molokhia,39,55,0,0,0
+2024-07-04,7,Molokhia,42,55,0,0,0
+2024-07-05,7,Molokhia,51,55,0,0,0
+2024-07-06,7,Molokhia,64,55,0,0,0
+2024-07-07,7,Molokhia,43,55,0,0,0
+2024-07-08,7,Molokhia,43,55,0,0,0
+2024-07-09,7,Molokhia,32,55,0,0,0
+2024-07-10,7,Molokhia,42,55,0,0,0
+2024-07-11,7,Molokhia,69,55,1,0,0
+2024-07-12,7,Molokhia,72,55,0,0,0
+2024-07-13,7,Molokhia,66,55,0,0,0
+2024-07-14,7,Molokhia,65,55,1,0,0
+2024-07-15,7,Molokhia,40,55,0,0,0
+2024-07-16,7,Molokhia,39,55,0,0,0
+2024-07-17,7,Molokhia,54,55,1,0,0
+2024-07-18,7,Molokhia,40,55,0,0,0
+2024-07-19,7,Molokhia,53,55,0,0,0
+2024-07-20,7,Molokhia,85,55,1,0,0
+2024-07-21,7,Molokhia,34,55,0,0,0
+2024-07-22,7,Molokhia,40,55,0,0,0
+2024-07-23,7,Molokhia,48,55,0,1,0
+2024-07-24,7,Molokhia,46,55,0,0,0
+2024-07-25,7,Molokhia,39,55,0,0,0
+2024-07-26,7,Molokhia,67,55,0,0,0
+2024-07-27,7,Molokhia,60,55,0,0,0
+2024-07-28,7,Molokhia,32,55,0,0,0
+2024-07-29,7,Molokhia,34,55,0,0,0
+2024-07-30,7,Molokhia,39,55,0,0,0
+2024-07-31,7,Molokhia,52,55,0,0,0
+2024-08-01,7,Molokhia,36,55,0,0,0
+2024-08-02,7,Molokhia,56,55,0,0,0
+2024-08-03,7,Molokhia,62,55,0,0,0
+2024-08-04,7,Molokhia,66,55,1,0,0
+2024-08-05,7,Molokhia,40,55,0,0,0
+2024-08-06,7,Molokhia,35,55,0,0,0
+2024-08-07,7,Molokhia,56,55,1,0,0
+2024-08-08,7,Molokhia,45,55,0,0,0
+2024-08-09,7,Molokhia,58,55,0,0,0
+2024-08-10,7,Molokhia,42,55,0,0,0
+2024-08-11,7,Molokhia,32,55,0,0,0
+2024-08-12,7,Molokhia,33,55,0,0,0
+2024-08-13,7,Molokhia,45,55,0,0,0
+2024-08-14,7,Molokhia,34,55,0,0,0
+2024-08-15,7,Molokhia,46,55,1,0,0
+2024-08-16,7,Molokhia,54,55,0,0,0
+2024-08-17,7,Molokhia,60,55,0,0,0
+2024-08-18,7,Molokhia,47,55,0,0,0
+2024-08-19,7,Molokhia,47,55,1,0,0
+2024-08-20,7,Molokhia,69,55,1,0,0
+2024-08-21,7,Molokhia,30,55,0,0,0
+2024-08-22,7,Molokhia,37,55,0,0,0
+2024-08-23,7,Molokhia,56,55,0,0,0
+2024-08-24,7,Molokhia,46,55,0,0,0
+2024-08-25,7,Molokhia,38,55,0,0,0
+2024-08-26,7,Molokhia,37,55,0,0,0
+2024-08-27,7,Molokhia,25,55,0,0,0
+2024-08-28,7,Molokhia,31,55,0,0,0
+2024-08-29,7,Molokhia,39,55,0,0,0
+2024-08-30,7,Molokhia,48,55,0,0,0
+2024-08-31,7,Molokhia,47,55,0,0,0
+2024-09-01,7,Molokhia,51,55,1,0,0
+2024-09-02,7,Molokhia,45,55,0,0,0
+2024-09-03,7,Molokhia,43,55,0,0,0
+2024-09-04,7,Molokhia,39,55,1,0,0
+2024-09-05,7,Molokhia,59,55,1,0,0
+2024-09-06,7,Molokhia,45,55,0,0,0
+2024-09-07,7,Molokhia,63,55,0,0,0
+2024-09-08,7,Molokhia,34,55,0,0,0
+2024-09-09,7,Molokhia,41,55,0,0,0
+2024-09-10,7,Molokhia,36,55,0,0,0
+2024-09-11,7,Molokhia,40,55,0,0,0
+2024-09-12,7,Molokhia,37,55,0,0,0
+2024-09-13,7,Molokhia,44,55,0,0,0
+2024-09-14,7,Molokhia,47,55,0,0,0
+2024-09-15,7,Molokhia,30,55,0,0,0
+2024-09-16,7,Molokhia,43,55,0,0,0
+2024-09-17,7,Molokhia,42,55,0,0,0
+2024-09-18,7,Molokhia,40,55,0,0,0
+2024-09-19,7,Molokhia,40,55,0,0,0
+2024-09-20,7,Molokhia,46,55,0,0,0
+2024-09-21,7,Molokhia,53,55,0,0,0
+2024-09-22,7,Molokhia,49,55,1,0,0
+2024-09-23,7,Molokhia,48,55,0,0,0
+2024-09-24,7,Molokhia,40,55,0,0,0
+2024-09-25,7,Molokhia,35,55,0,0,0
+2024-09-26,7,Molokhia,36,55,0,0,0
+2024-09-27,7,Molokhia,51,55,0,0,0
+2024-09-28,7,Molokhia,49,55,0,0,0
+2024-09-29,7,Molokhia,34,55,0,0,0
+2024-09-30,7,Molokhia,40,55,0,0,0
+2024-10-01,7,Molokhia,42,55,0,0,0
+2024-10-02,7,Molokhia,42,55,0,0,0
+2024-10-03,7,Molokhia,41,55,0,0,0
+2024-10-04,7,Molokhia,45,55,0,0,0
+2024-10-05,7,Molokhia,56,55,0,0,0
+2024-10-06,7,Molokhia,41,55,0,0,0
+2024-10-07,7,Molokhia,41,55,0,0,0
+2024-10-08,7,Molokhia,43,55,0,0,0
+2024-10-09,7,Molokhia,35,55,0,0,0
+2024-10-10,7,Molokhia,37,55,0,0,0
+2024-10-11,7,Molokhia,58,55,0,0,0
+2024-10-12,7,Molokhia,52,55,0,0,0
+2024-10-13,7,Molokhia,36,55,0,0,0
+2024-10-14,7,Molokhia,40,55,0,0,0
+2024-10-15,7,Molokhia,45,55,0,0,0
+2024-10-16,7,Molokhia,36,55,0,0,0
+2024-10-17,7,Molokhia,49,55,0,0,0
+2024-10-18,7,Molokhia,48,55,0,0,0
+2024-10-19,7,Molokhia,52,55,0,0,0
+2024-10-20,7,Molokhia,46,55,0,0,0
+2024-10-21,7,Molokhia,39,55,0,0,0
+2024-10-22,7,Molokhia,44,55,0,0,0
+2024-10-23,7,Molokhia,32,55,0,0,0
+2024-10-24,7,Molokhia,37,55,0,0,0
+2024-10-25,7,Molokhia,54,55,0,0,0
+2024-10-26,7,Molokhia,43,55,0,0,0
+2024-10-27,7,Molokhia,33,55,0,0,0
+2024-10-28,7,Molokhia,43,55,0,0,0
+2024-10-29,7,Molokhia,38,55,0,0,0
+2024-10-30,7,Molokhia,37,55,0,0,0
+2024-10-31,7,Molokhia,38,55,0,0,0
+2024-11-01,7,Molokhia,65,55,0,0,0
+2024-11-02,7,Molokhia,60,55,0,0,0
+2024-11-03,7,Molokhia,43,55,0,0,0
+2024-11-04,7,Molokhia,39,55,0,0,0
+2024-11-05,7,Molokhia,32,55,0,0,0
+2024-11-06,7,Molokhia,40,55,0,0,0
+2024-11-07,7,Molokhia,39,55,0,0,0
+2024-11-08,7,Molokhia,43,55,0,0,0
+2024-11-09,7,Molokhia,67,55,0,0,0
+2024-11-10,7,Molokhia,45,55,0,0,0
+2024-11-11,7,Molokhia,43,55,0,0,0
+2024-11-12,7,Molokhia,32,55,0,0,0
+2024-11-13,7,Molokhia,47,55,0,0,0
+2024-11-14,7,Molokhia,39,55,0,0,0
+2024-11-15,7,Molokhia,52,55,0,0,0
+2024-11-16,7,Molokhia,58,55,0,0,0
+2024-11-17,7,Molokhia,42,55,0,0,0
+2024-11-18,7,Molokhia,72,55,1,0,0
+2024-11-19,7,Molokhia,35,55,0,0,0
+2024-11-20,7,Molokhia,40,55,0,0,0
+2024-11-21,7,Molokhia,35,55,0,0,0
+2024-11-22,7,Molokhia,48,55,0,0,0
+2024-11-23,7,Molokhia,59,55,0,0,0
+2024-11-24,7,Molokhia,42,55,0,0,0
+2024-11-25,7,Molokhia,50,55,0,0,0
+2024-11-26,7,Molokhia,37,55,0,0,0
+2024-11-27,7,Molokhia,51,55,0,0,0
+2024-11-28,7,Molokhia,39,55,0,0,0
+2024-11-29,7,Molokhia,54,55,0,0,0
+2024-11-30,7,Molokhia,52,55,0,0,0
+2024-12-01,7,Molokhia,44,55,0,0,0
+2024-12-02,7,Molokhia,47,55,0,0,0
+2024-12-03,7,Molokhia,39,55,0,0,0
+2024-12-04,7,Molokhia,51,55,0,0,0
+2024-12-05,7,Molokhia,53,55,1,0,0
+2024-12-06,7,Molokhia,59,55,0,0,0
+2024-12-07,7,Molokhia,63,55,0,0,0
+2024-12-08,7,Molokhia,49,55,0,0,0
+2024-12-09,7,Molokhia,51,55,0,0,0
+2024-12-10,7,Molokhia,43,55,0,0,0
+2024-12-11,7,Molokhia,47,55,0,0,0
+2024-12-12,7,Molokhia,47,55,0,0,0
+2024-12-13,7,Molokhia,54,55,0,0,0
+2024-12-14,7,Molokhia,58,55,0,0,0
+2024-12-15,7,Molokhia,39,55,0,0,0
+2024-12-16,7,Molokhia,42,55,0,0,0
+2024-12-17,7,Molokhia,44,55,0,0,0
+2024-12-18,7,Molokhia,48,55,0,0,0
+2024-12-19,7,Molokhia,42,55,0,0,0
+2024-12-20,7,Molokhia,68,55,0,0,0
+2024-12-21,7,Molokhia,51,55,0,0,0
+2024-12-22,7,Molokhia,43,55,0,0,0
+2024-12-23,7,Molokhia,42,55,0,0,0
+2024-12-24,7,Molokhia,51,55,0,0,0
+2024-12-25,7,Molokhia,44,55,0,0,0
+2024-12-26,7,Molokhia,43,55,0,0,0
+2024-12-27,7,Molokhia,53,55,0,0,0
+2024-12-28,7,Molokhia,67,55,0,0,0
+2024-12-29,7,Molokhia,52,55,1,0,0
+2024-12-30,7,Molokhia,50,55,0,0,0
+2024-12-31,7,Molokhia,46,55,0,0,0
+2025-01-01,7,Molokhia,44,55,0,0,0
+2025-01-02,7,Molokhia,63,55,1,0,0
+2025-01-03,7,Molokhia,61,55,0,0,0
+2025-01-04,7,Molokhia,61,55,0,0,0
+2025-01-05,7,Molokhia,50,55,1,0,0
+2025-01-06,7,Molokhia,53,55,0,0,0
+2025-01-07,7,Molokhia,62,55,0,1,0
+2025-01-08,7,Molokhia,42,55,0,0,0
+2025-01-09,7,Molokhia,46,55,0,0,0
+2025-01-10,7,Molokhia,71,55,0,0,0
+2025-01-11,7,Molokhia,67,55,0,0,0
+2025-01-12,7,Molokhia,43,55,0,0,0
+2025-01-13,7,Molokhia,57,55,0,0,0
+2025-01-14,7,Molokhia,47,55,0,0,0
+2025-01-15,7,Molokhia,60,55,0,0,0
+2025-01-16,7,Molokhia,52,55,0,0,0
+2025-01-17,7,Molokhia,70,55,0,0,0
+2025-01-18,7,Molokhia,60,55,0,0,0
+2025-01-19,7,Molokhia,55,55,1,0,0
+2025-01-20,7,Molokhia,44,55,0,0,0
+2025-01-21,7,Molokhia,54,55,0,0,0
+2025-01-22,7,Molokhia,51,55,0,0,0
+2025-01-23,7,Molokhia,42,55,0,0,0
+2025-01-24,7,Molokhia,82,55,0,0,0
+2025-01-25,7,Molokhia,68,55,0,0,0
+2025-01-26,7,Molokhia,52,55,0,0,0
+2025-01-27,7,Molokhia,54,55,0,0,0
+2025-01-28,7,Molokhia,65,55,1,0,0
+2025-01-29,7,Molokhia,59,55,0,0,0
+2025-01-30,7,Molokhia,41,55,0,0,0
+2025-01-31,7,Molokhia,74,55,0,0,0
+2025-02-01,7,Molokhia,90,55,0,0,0
+2025-02-02,7,Molokhia,40,55,0,0,0
+2025-02-03,7,Molokhia,60,55,1,0,0
+2025-02-04,7,Molokhia,57,55,0,0,0
+2025-02-05,7,Molokhia,41,55,0,0,0
+2025-02-06,7,Molokhia,55,55,0,0,0
+2025-02-07,7,Molokhia,70,55,0,0,0
+2025-02-08,7,Molokhia,105,55,1,0,0
+2025-02-09,7,Molokhia,48,55,0,0,0
+2025-02-10,7,Molokhia,51,55,0,0,0
+2025-02-11,7,Molokhia,53,55,0,0,0
+2025-02-12,7,Molokhia,58,55,0,0,0
+2025-02-13,7,Molokhia,46,55,0,0,0
+2025-02-14,7,Molokhia,93,55,1,0,0
+2025-02-15,7,Molokhia,67,55,0,0,0
+2025-02-16,7,Molokhia,32,55,0,0,0
+2025-02-17,7,Molokhia,61,55,0,0,0
+2025-02-18,7,Molokhia,60,55,1,0,0
+2025-02-19,7,Molokhia,63,55,0,0,0
+2025-02-20,7,Molokhia,57,55,0,0,0
+2025-02-21,7,Molokhia,76,55,0,0,0
+2025-02-22,7,Molokhia,64,55,0,0,0
+2025-02-23,7,Molokhia,58,55,0,0,0
+2025-02-24,7,Molokhia,74,55,1,0,0
+2025-02-25,7,Molokhia,54,55,0,0,0
+2025-02-26,7,Molokhia,65,55,0,0,0
+2025-02-27,7,Molokhia,52,55,0,0,0
+2025-02-28,7,Molokhia,85,55,0,0,0
+2025-03-01,7,Molokhia,112,55,0,0,1
+2025-03-02,7,Molokhia,56,55,0,0,1
+2025-03-03,7,Molokhia,75,55,0,0,1
+2025-03-04,7,Molokhia,73,55,0,0,1
+2025-03-05,7,Molokhia,89,55,0,0,1
+2025-03-06,7,Molokhia,95,55,0,0,1
+2025-03-07,7,Molokhia,177,55,1,0,1
+2025-03-08,7,Molokhia,133,55,0,0,1
+2025-03-09,7,Molokhia,129,55,1,0,1
+2025-03-10,7,Molokhia,73,55,0,0,1
+2025-03-11,7,Molokhia,90,55,0,0,1
+2025-03-12,7,Molokhia,81,55,0,0,1
+2025-03-13,7,Molokhia,88,55,0,0,1
+2025-03-14,7,Molokhia,114,55,0,0,1
+2025-03-15,7,Molokhia,112,55,0,0,1
+2025-03-16,7,Molokhia,85,55,0,0,1
+2025-03-17,7,Molokhia,105,55,0,0,1
+2025-03-18,7,Molokhia,67,55,0,0,1
+2025-03-19,7,Molokhia,75,55,0,0,1
+2025-03-20,7,Molokhia,76,55,0,0,1
+2025-03-21,7,Molokhia,114,55,0,0,1
+2025-03-22,7,Molokhia,127,55,0,0,1
+2025-03-23,7,Molokhia,60,55,0,0,1
+2025-03-24,7,Molokhia,84,55,0,0,1
+2025-03-25,7,Molokhia,96,55,0,0,1
+2025-03-26,7,Molokhia,99,55,0,0,1
+2025-03-27,7,Molokhia,71,55,0,0,1
+2025-03-28,7,Molokhia,133,55,0,0,1
+2025-03-29,7,Molokhia,130,55,0,0,1
+2025-03-30,7,Molokhia,152,55,0,1,1
+2025-03-31,7,Molokhia,55,55,0,0,0
+2025-04-01,7,Molokhia,57,55,0,0,0
+2025-04-02,7,Molokhia,60,55,0,0,0
+2025-04-03,7,Molokhia,56,55,0,0,0
+2025-04-04,7,Molokhia,61,55,0,0,0
+2025-04-05,7,Molokhia,65,55,0,0,0
+2025-04-06,7,Molokhia,77,55,1,0,0
+2025-04-07,7,Molokhia,66,55,0,0,0
+2025-04-08,7,Molokhia,59,55,0,0,0
+2025-04-09,7,Molokhia,50,55,0,0,0
+2025-04-10,7,Molokhia,71,55,1,0,0
+2025-04-11,7,Molokhia,69,55,0,0,0
+2025-04-12,7,Molokhia,72,55,0,0,0
+2025-04-13,7,Molokhia,54,55,0,0,0
+2025-04-14,7,Molokhia,54,55,0,0,0
+2025-04-15,7,Molokhia,75,55,1,0,0
+2025-04-16,7,Molokhia,63,55,1,0,0
+2025-04-17,7,Molokhia,45,55,0,0,0
+2025-04-18,7,Molokhia,70,55,0,0,0
+2025-04-19,7,Molokhia,64,55,0,0,0
+2025-04-20,7,Molokhia,54,55,0,0,0
+2025-04-21,7,Molokhia,60,55,0,0,0
+2025-04-22,7,Molokhia,63,55,0,0,0
+2025-04-23,7,Molokhia,60,55,0,0,0
+2025-04-24,7,Molokhia,55,55,0,0,0
+2025-04-25,7,Molokhia,79,55,0,0,0
+2025-04-26,7,Molokhia,74,55,0,0,0
+2025-04-27,7,Molokhia,54,55,0,0,0
+2025-04-28,7,Molokhia,59,55,0,0,0
+2025-04-29,7,Molokhia,53,55,0,0,0
+2025-04-30,7,Molokhia,45,55,0,0,0
+2025-05-01,7,Molokhia,52,55,0,0,0
+2025-05-02,7,Molokhia,59,55,0,0,0
+2025-05-03,7,Molokhia,70,55,0,0,0
+2025-05-04,7,Molokhia,57,55,0,0,0
+2025-05-05,7,Molokhia,56,55,0,0,0
+2025-05-06,7,Molokhia,55,55,0,0,0
+2025-05-07,7,Molokhia,53,55,0,0,0
+2025-05-08,7,Molokhia,56,55,0,0,0
+2025-05-09,7,Molokhia,79,55,0,0,0
+2025-05-10,7,Molokhia,70,55,0,0,0
+2025-05-11,7,Molokhia,47,55,0,0,0
+2025-05-12,7,Molokhia,56,55,0,0,0
+2025-05-13,7,Molokhia,47,55,0,0,0
+2025-05-14,7,Molokhia,48,55,0,0,0
+2025-05-15,7,Molokhia,60,55,0,0,0
+2025-05-16,7,Molokhia,75,55,0,0,0
+2025-05-17,7,Molokhia,85,55,0,0,0
+2025-05-18,7,Molokhia,61,55,0,0,0
+2025-05-19,7,Molokhia,54,55,0,0,0
+2025-05-20,7,Molokhia,60,55,0,0,0
+2025-05-21,7,Molokhia,47,55,0,0,0
+2025-05-22,7,Molokhia,53,55,0,0,0
+2025-05-23,7,Molokhia,73,55,0,0,0
+2025-05-24,7,Molokhia,69,55,0,0,0
+2025-05-25,7,Molokhia,59,55,0,0,0
+2025-05-26,7,Molokhia,78,55,1,0,0
+2025-05-27,7,Molokhia,55,55,0,0,0
+2025-05-28,7,Molokhia,63,55,0,0,0
+2025-05-29,7,Molokhia,53,55,0,0,0
+2025-05-30,7,Molokhia,81,55,0,0,0
+2025-05-31,7,Molokhia,81,55,0,0,0
+2025-06-01,7,Molokhia,57,55,0,0,0
+2025-06-02,7,Molokhia,62,55,0,0,0
+2025-06-03,7,Molokhia,54,55,0,0,0
+2025-06-04,7,Molokhia,55,55,0,0,0
+2025-06-05,7,Molokhia,48,55,0,0,0
+2025-06-06,7,Molokhia,67,55,0,0,0
+2025-06-07,7,Molokhia,73,55,0,0,0
+2025-06-08,7,Molokhia,50,55,0,0,0
+2025-06-09,7,Molokhia,55,55,0,0,0
+2025-06-10,7,Molokhia,52,55,0,0,0
+2025-06-11,7,Molokhia,59,55,0,0,0
+2025-06-12,7,Molokhia,52,55,0,0,0
+2025-06-13,7,Molokhia,78,55,0,0,0
+2025-06-14,7,Molokhia,58,55,0,0,0
+2025-06-15,7,Molokhia,47,55,0,0,0
+2025-06-16,7,Molokhia,53,55,0,0,0
+2025-06-17,7,Molokhia,49,55,0,0,0
+2025-06-18,7,Molokhia,51,55,0,0,0
+2025-06-19,7,Molokhia,50,55,0,0,0
+2025-06-20,7,Molokhia,68,55,0,0,0
+2025-06-21,7,Molokhia,57,55,0,0,0
+2025-06-22,7,Molokhia,52,55,0,0,0
+2025-06-23,7,Molokhia,61,55,0,0,0
+2024-01-01,8,Fresh Juice,70,25,0,0,0
+2024-01-02,8,Fresh Juice,70,25,0,0,0
+2024-01-03,8,Fresh Juice,85,25,0,0,0
+2024-01-04,8,Fresh Juice,92,25,0,0,0
+2024-01-05,8,Fresh Juice,85,25,0,0,0
+2024-01-06,8,Fresh Juice,117,25,0,0,0
+2024-01-07,8,Fresh Juice,105,25,0,1,0
+2024-01-08,8,Fresh Juice,61,25,0,0,0
+2024-01-09,8,Fresh Juice,78,25,0,0,0
+2024-01-10,8,Fresh Juice,61,25,0,0,0
+2024-01-11,8,Fresh Juice,70,25,0,0,0
+2024-01-12,8,Fresh Juice,93,25,0,0,0
+2024-01-13,8,Fresh Juice,98,25,0,0,0
+2024-01-14,8,Fresh Juice,61,25,0,0,0
+2024-01-15,8,Fresh Juice,83,25,1,0,0
+2024-01-16,8,Fresh Juice,79,25,0,0,0
+2024-01-17,8,Fresh Juice,83,25,0,0,0
+2024-01-18,8,Fresh Juice,84,25,0,0,0
+2024-01-19,8,Fresh Juice,112,25,1,0,0
+2024-01-20,8,Fresh Juice,92,25,0,0,0
+2024-01-21,8,Fresh Juice,94,25,0,0,0
+2024-01-22,8,Fresh Juice,66,25,0,0,0
+2024-01-23,8,Fresh Juice,60,25,0,0,0
+2024-01-24,8,Fresh Juice,70,25,0,0,0
+2024-01-25,8,Fresh Juice,56,25,0,0,0
+2024-01-26,8,Fresh Juice,80,25,0,0,0
+2024-01-27,8,Fresh Juice,94,25,0,0,0
+2024-01-28,8,Fresh Juice,70,25,0,0,0
+2024-01-29,8,Fresh Juice,59,25,0,0,0
+2024-01-30,8,Fresh Juice,87,25,0,0,0
+2024-01-31,8,Fresh Juice,72,25,0,0,0
+2024-02-01,8,Fresh Juice,73,25,0,0,0
+2024-02-02,8,Fresh Juice,98,25,0,0,0
+2024-02-03,8,Fresh Juice,103,25,0,0,0
+2024-02-04,8,Fresh Juice,93,25,0,0,0
+2024-02-05,8,Fresh Juice,82,25,0,0,0
+2024-02-06,8,Fresh Juice,77,25,0,0,0
+2024-02-07,8,Fresh Juice,67,25,0,0,0
+2024-02-08,8,Fresh Juice,98,25,1,0,0
+2024-02-09,8,Fresh Juice,100,25,0,0,0
+2024-02-10,8,Fresh Juice,99,25,0,0,0
+2024-02-11,8,Fresh Juice,83,25,0,0,0
+2024-02-12,8,Fresh Juice,62,25,0,0,0
+2024-02-13,8,Fresh Juice,86,25,0,0,0
+2024-02-14,8,Fresh Juice,76,25,0,0,0
+2024-02-15,8,Fresh Juice,67,25,0,0,0
+2024-02-16,8,Fresh Juice,107,25,0,0,0
+2024-02-17,8,Fresh Juice,103,25,0,0,0
+2024-02-18,8,Fresh Juice,72,25,0,0,0
+2024-02-19,8,Fresh Juice,103,25,0,0,0
+2024-02-20,8,Fresh Juice,75,25,0,0,0
+2024-02-21,8,Fresh Juice,89,25,0,0,0
+2024-02-22,8,Fresh Juice,96,25,0,0,0
+2024-02-23,8,Fresh Juice,109,25,0,0,0
+2024-02-24,8,Fresh Juice,167,25,1,0,0
+2024-02-25,8,Fresh Juice,87,25,0,0,0
+2024-02-26,8,Fresh Juice,90,25,0,0,0
+2024-02-27,8,Fresh Juice,79,25,0,0,0
+2024-02-28,8,Fresh Juice,88,25,0,0,0
+2024-02-29,8,Fresh Juice,84,25,0,0,0
+2024-03-01,8,Fresh Juice,99,25,0,0,0
+2024-03-02,8,Fresh Juice,119,25,0,0,0
+2024-03-03,8,Fresh Juice,75,25,0,0,0
+2024-03-04,8,Fresh Juice,97,25,0,0,0
+2024-03-05,8,Fresh Juice,74,25,0,0,0
+2024-03-06,8,Fresh Juice,76,25,0,0,0
+2024-03-07,8,Fresh Juice,60,25,0,0,0
+2024-03-08,8,Fresh Juice,99,25,0,0,0
+2024-03-09,8,Fresh Juice,133,25,0,0,0
+2024-03-10,8,Fresh Juice,98,25,0,0,0
+2024-03-11,8,Fresh Juice,132,25,0,0,1
+2024-03-12,8,Fresh Juice,121,25,0,0,1
+2024-03-13,8,Fresh Juice,136,25,0,0,1
+2024-03-14,8,Fresh Juice,119,25,0,0,1
+2024-03-15,8,Fresh Juice,170,25,0,0,1
+2024-03-16,8,Fresh Juice,191,25,0,0,1
+2024-03-17,8,Fresh Juice,126,25,0,0,1
+2024-03-18,8,Fresh Juice,133,25,0,0,1
+2024-03-19,8,Fresh Juice,142,25,0,0,1
+2024-03-20,8,Fresh Juice,143,25,0,0,1
+2024-03-21,8,Fresh Juice,125,25,0,0,1
+2024-03-22,8,Fresh Juice,165,25,0,0,1
+2024-03-23,8,Fresh Juice,193,25,0,0,1
+2024-03-24,8,Fresh Juice,132,25,0,0,1
+2024-03-25,8,Fresh Juice,145,25,0,0,1
+2024-03-26,8,Fresh Juice,122,25,0,0,1
+2024-03-27,8,Fresh Juice,127,25,0,0,1
+2024-03-28,8,Fresh Juice,147,25,0,0,1
+2024-03-29,8,Fresh Juice,170,25,0,0,1
+2024-03-30,8,Fresh Juice,108,25,0,0,1
+2024-03-31,8,Fresh Juice,146,25,0,0,1
+2024-04-01,8,Fresh Juice,195,25,1,0,1
+2024-04-02,8,Fresh Juice,126,25,0,0,1
+2024-04-03,8,Fresh Juice,162,25,0,0,1
+2024-04-04,8,Fresh Juice,117,25,0,0,1
+2024-04-05,8,Fresh Juice,182,25,0,0,1
+2024-04-06,8,Fresh Juice,179,25,0,0,1
+2024-04-07,8,Fresh Juice,107,25,0,0,1
+2024-04-08,8,Fresh Juice,130,25,0,0,1
+2024-04-09,8,Fresh Juice,153,25,0,0,1
+2024-04-10,8,Fresh Juice,171,25,1,1,0
+2024-04-11,8,Fresh Juice,81,25,0,0,0
+2024-04-12,8,Fresh Juice,131,25,0,0,0
+2024-04-13,8,Fresh Juice,96,25,0,0,0
+2024-04-14,8,Fresh Juice,94,25,0,0,0
+2024-04-15,8,Fresh Juice,65,25,0,0,0
+2024-04-16,8,Fresh Juice,94,25,0,0,0
+2024-04-17,8,Fresh Juice,71,25,0,0,0
+2024-04-18,8,Fresh Juice,76,25,0,0,0
+2024-04-19,8,Fresh Juice,96,25,0,0,0
+2024-04-20,8,Fresh Juice,123,25,0,0,0
+2024-04-21,8,Fresh Juice,118,25,1,0,0
+2024-04-22,8,Fresh Juice,92,25,0,0,0
+2024-04-23,8,Fresh Juice,120,25,1,0,0
+2024-04-24,8,Fresh Juice,80,25,0,0,0
+2024-04-25,8,Fresh Juice,90,25,0,0,0
+2024-04-26,8,Fresh Juice,163,25,1,0,0
+2024-04-27,8,Fresh Juice,115,25,0,0,0
+2024-04-28,8,Fresh Juice,79,25,0,0,0
+2024-04-29,8,Fresh Juice,83,25,0,0,0
+2024-04-30,8,Fresh Juice,81,25,0,0,0
+2024-05-01,8,Fresh Juice,112,25,1,0,0
+2024-05-02,8,Fresh Juice,85,25,0,0,0
+2024-05-03,8,Fresh Juice,145,25,0,0,0
+2024-05-04,8,Fresh Juice,103,25,0,0,0
+2024-05-05,8,Fresh Juice,100,25,0,0,0
+2024-05-06,8,Fresh Juice,90,25,0,0,0
+2024-05-07,8,Fresh Juice,81,25,0,0,0
+2024-05-08,8,Fresh Juice,72,25,0,0,0
+2024-05-09,8,Fresh Juice,68,25,0,0,0
+2024-05-10,8,Fresh Juice,105,25,0,0,0
+2024-05-11,8,Fresh Juice,111,25,0,0,0
+2024-05-12,8,Fresh Juice,94,25,0,0,0
+2024-05-13,8,Fresh Juice,92,25,0,0,0
+2024-05-14,8,Fresh Juice,80,25,0,0,0
+2024-05-15,8,Fresh Juice,78,25,0,0,0
+2024-05-16,8,Fresh Juice,80,25,0,0,0
+2024-05-17,8,Fresh Juice,111,25,0,0,0
+2024-05-18,8,Fresh Juice,101,25,0,0,0
+2024-05-19,8,Fresh Juice,83,25,0,0,0
+2024-05-20,8,Fresh Juice,83,25,0,0,0
+2024-05-21,8,Fresh Juice,83,25,0,0,0
+2024-05-22,8,Fresh Juice,96,25,0,0,0
+2024-05-23,8,Fresh Juice,95,25,0,0,0
+2024-05-24,8,Fresh Juice,116,25,0,0,0
+2024-05-25,8,Fresh Juice,114,25,0,0,0
+2024-05-26,8,Fresh Juice,103,25,0,0,0
+2024-05-27,8,Fresh Juice,55,25,0,0,0
+2024-05-28,8,Fresh Juice,91,25,0,0,0
+2024-05-29,8,Fresh Juice,148,25,1,0,0
+2024-05-30,8,Fresh Juice,78,25,0,0,0
+2024-05-31,8,Fresh Juice,113,25,0,0,0
+2024-06-01,8,Fresh Juice,108,25,0,0,0
+2024-06-02,8,Fresh Juice,83,25,0,0,0
+2024-06-03,8,Fresh Juice,90,25,0,0,0
+2024-06-04,8,Fresh Juice,96,25,0,0,0
+2024-06-05,8,Fresh Juice,78,25,0,0,0
+2024-06-06,8,Fresh Juice,88,25,0,0,0
+2024-06-07,8,Fresh Juice,121,25,0,0,0
+2024-06-08,8,Fresh Juice,104,25,0,0,0
+2024-06-09,8,Fresh Juice,83,25,0,0,0
+2024-06-10,8,Fresh Juice,84,25,0,0,0
+2024-06-11,8,Fresh Juice,64,25,0,0,0
+2024-06-12,8,Fresh Juice,84,25,0,0,0
+2024-06-13,8,Fresh Juice,85,25,1,0,0
+2024-06-14,8,Fresh Juice,116,25,0,0,0
+2024-06-15,8,Fresh Juice,110,25,0,0,0
+2024-06-16,8,Fresh Juice,133,25,0,1,0
+2024-06-17,8,Fresh Juice,52,25,0,0,0
+2024-06-18,8,Fresh Juice,124,25,1,0,0
+2024-06-19,8,Fresh Juice,87,25,0,0,0
+2024-06-20,8,Fresh Juice,94,25,0,0,0
+2024-06-21,8,Fresh Juice,85,25,0,0,0
+2024-06-22,8,Fresh Juice,158,25,1,0,0
+2024-06-23,8,Fresh Juice,59,25,0,0,0
+2024-06-24,8,Fresh Juice,83,25,0,0,0
+2024-06-25,8,Fresh Juice,88,25,0,0,0
+2024-06-26,8,Fresh Juice,70,25,0,0,0
+2024-06-27,8,Fresh Juice,74,25,0,0,0
+2024-06-28,8,Fresh Juice,104,25,0,0,0
+2024-06-29,8,Fresh Juice,84,25,0,0,0
+2024-06-30,8,Fresh Juice,81,25,0,0,0
+2024-07-01,8,Fresh Juice,59,25,0,0,0
+2024-07-02,8,Fresh Juice,74,25,0,0,0
+2024-07-03,8,Fresh Juice,92,25,0,0,0
+2024-07-04,8,Fresh Juice,77,25,0,0,0
+2024-07-05,8,Fresh Juice,86,25,0,0,0
+2024-07-06,8,Fresh Juice,89,25,0,0,0
+2024-07-07,8,Fresh Juice,60,25,0,0,0
+2024-07-08,8,Fresh Juice,80,25,0,0,0
+2024-07-09,8,Fresh Juice,63,25,0,0,0
+2024-07-10,8,Fresh Juice,82,25,0,0,0
+2024-07-11,8,Fresh Juice,76,25,0,0,0
+2024-07-12,8,Fresh Juice,77,25,0,0,0
+2024-07-13,8,Fresh Juice,78,25,0,0,0
+2024-07-14,8,Fresh Juice,66,25,0,0,0
+2024-07-15,8,Fresh Juice,72,25,0,0,0
+2024-07-16,8,Fresh Juice,85,25,0,0,0
+2024-07-17,8,Fresh Juice,78,25,0,0,0
+2024-07-18,8,Fresh Juice,79,25,0,0,0
+2024-07-19,8,Fresh Juice,95,25,0,0,0
+2024-07-20,8,Fresh Juice,111,25,1,0,0
+2024-07-21,8,Fresh Juice,78,25,0,0,0
+2024-07-22,8,Fresh Juice,73,25,0,0,0
+2024-07-23,8,Fresh Juice,101,25,0,1,0
+2024-07-24,8,Fresh Juice,73,25,0,0,0
+2024-07-25,8,Fresh Juice,66,25,0,0,0
+2024-07-26,8,Fresh Juice,89,25,0,0,0
+2024-07-27,8,Fresh Juice,102,25,0,0,0
+2024-07-28,8,Fresh Juice,76,25,0,0,0
+2024-07-29,8,Fresh Juice,57,25,0,0,0
+2024-07-30,8,Fresh Juice,69,25,0,0,0
+2024-07-31,8,Fresh Juice,94,25,1,0,0
+2024-08-01,8,Fresh Juice,84,25,0,0,0
+2024-08-02,8,Fresh Juice,105,25,0,0,0
+2024-08-03,8,Fresh Juice,104,25,0,0,0
+2024-08-04,8,Fresh Juice,66,25,0,0,0
+2024-08-05,8,Fresh Juice,61,25,0,0,0
+2024-08-06,8,Fresh Juice,64,25,0,0,0
+2024-08-07,8,Fresh Juice,80,25,0,0,0
+2024-08-08,8,Fresh Juice,60,25,0,0,0
+2024-08-09,8,Fresh Juice,164,25,1,0,0
+2024-08-10,8,Fresh Juice,96,25,0,0,0
+2024-08-11,8,Fresh Juice,86,25,0,0,0
+2024-08-12,8,Fresh Juice,80,25,0,0,0
+2024-08-13,8,Fresh Juice,54,25,0,0,0
+2024-08-14,8,Fresh Juice,64,25,0,0,0
+2024-08-15,8,Fresh Juice,73,25,0,0,0
+2024-08-16,8,Fresh Juice,87,25,0,0,0
+2024-08-17,8,Fresh Juice,100,25,0,0,0
+2024-08-18,8,Fresh Juice,90,25,0,0,0
+2024-08-19,8,Fresh Juice,83,25,0,0,0
+2024-08-20,8,Fresh Juice,89,25,0,0,0
+2024-08-21,8,Fresh Juice,64,25,0,0,0
+2024-08-22,8,Fresh Juice,86,25,0,0,0
+2024-08-23,8,Fresh Juice,88,25,0,0,0
+2024-08-24,8,Fresh Juice,91,25,0,0,0
+2024-08-25,8,Fresh Juice,72,25,0,0,0
+2024-08-26,8,Fresh Juice,69,25,0,0,0
+2024-08-27,8,Fresh Juice,82,25,0,0,0
+2024-08-28,8,Fresh Juice,84,25,0,0,0
+2024-08-29,8,Fresh Juice,73,25,0,0,0
+2024-08-30,8,Fresh Juice,76,25,0,0,0
+2024-08-31,8,Fresh Juice,110,25,0,0,0
+2024-09-01,8,Fresh Juice,82,25,0,0,0
+2024-09-02,8,Fresh Juice,68,25,0,0,0
+2024-09-03,8,Fresh Juice,54,25,0,0,0
+2024-09-04,8,Fresh Juice,54,25,0,0,0
+2024-09-05,8,Fresh Juice,58,25,0,0,0
+2024-09-06,8,Fresh Juice,91,25,0,0,0
+2024-09-07,8,Fresh Juice,109,25,0,0,0
+2024-09-08,8,Fresh Juice,76,25,0,0,0
+2024-09-09,8,Fresh Juice,77,25,0,0,0
+2024-09-10,8,Fresh Juice,72,25,0,0,0
+2024-09-11,8,Fresh Juice,70,25,0,0,0
+2024-09-12,8,Fresh Juice,69,25,0,0,0
+2024-09-13,8,Fresh Juice,80,25,0,0,0
+2024-09-14,8,Fresh Juice,80,25,0,0,0
+2024-09-15,8,Fresh Juice,92,25,1,0,0
+2024-09-16,8,Fresh Juice,64,25,0,0,0
+2024-09-17,8,Fresh Juice,69,25,0,0,0
+2024-09-18,8,Fresh Juice,109,25,1,0,0
+2024-09-19,8,Fresh Juice,59,25,0,0,0
+2024-09-20,8,Fresh Juice,88,25,0,0,0
+2024-09-21,8,Fresh Juice,101,25,0,0,0
+2024-09-22,8,Fresh Juice,104,25,1,0,0
+2024-09-23,8,Fresh Juice,70,25,0,0,0
+2024-09-24,8,Fresh Juice,70,25,0,0,0
+2024-09-25,8,Fresh Juice,68,25,0,0,0
+2024-09-26,8,Fresh Juice,69,25,0,0,0
+2024-09-27,8,Fresh Juice,113,25,0,0,0
+2024-09-28,8,Fresh Juice,77,25,0,0,0
+2024-09-29,8,Fresh Juice,67,25,0,0,0
+2024-09-30,8,Fresh Juice,60,25,0,0,0
+2024-10-01,8,Fresh Juice,74,25,0,0,0
+2024-10-02,8,Fresh Juice,68,25,0,0,0
+2024-10-03,8,Fresh Juice,90,25,1,0,0
+2024-10-04,8,Fresh Juice,90,25,0,0,0
+2024-10-05,8,Fresh Juice,100,25,0,0,0
+2024-10-06,8,Fresh Juice,87,25,0,0,0
+2024-10-07,8,Fresh Juice,66,25,0,0,0
+2024-10-08,8,Fresh Juice,73,25,0,0,0
+2024-10-09,8,Fresh Juice,66,25,0,0,0
+2024-10-10,8,Fresh Juice,81,25,0,0,0
+2024-10-11,8,Fresh Juice,110,25,0,0,0
+2024-10-12,8,Fresh Juice,88,25,0,0,0
+2024-10-13,8,Fresh Juice,95,25,1,0,0
+2024-10-14,8,Fresh Juice,60,25,0,0,0
+2024-10-15,8,Fresh Juice,77,25,0,0,0
+2024-10-16,8,Fresh Juice,77,25,0,0,0
+2024-10-17,8,Fresh Juice,68,25,0,0,0
+2024-10-18,8,Fresh Juice,101,25,0,0,0
+2024-10-19,8,Fresh Juice,90,25,0,0,0
+2024-10-20,8,Fresh Juice,68,25,0,0,0
+2024-10-21,8,Fresh Juice,77,25,0,0,0
+2024-10-22,8,Fresh Juice,62,25,0,0,0
+2024-10-23,8,Fresh Juice,73,25,0,0,0
+2024-10-24,8,Fresh Juice,64,25,0,0,0
+2024-10-25,8,Fresh Juice,115,25,0,0,0
+2024-10-26,8,Fresh Juice,94,25,0,0,0
+2024-10-27,8,Fresh Juice,69,25,0,0,0
+2024-10-28,8,Fresh Juice,68,25,0,0,0
+2024-10-29,8,Fresh Juice,61,25,0,0,0
+2024-10-30,8,Fresh Juice,60,25,0,0,0
+2024-10-31,8,Fresh Juice,82,25,0,0,0
+2024-11-01,8,Fresh Juice,85,25,0,0,0
+2024-11-02,8,Fresh Juice,89,25,0,0,0
+2024-11-03,8,Fresh Juice,98,25,1,0,0
+2024-11-04,8,Fresh Juice,71,25,0,0,0
+2024-11-05,8,Fresh Juice,72,25,0,0,0
+2024-11-06,8,Fresh Juice,76,25,0,0,0
+2024-11-07,8,Fresh Juice,83,25,0,0,0
+2024-11-08,8,Fresh Juice,96,25,0,0,0
+2024-11-09,8,Fresh Juice,78,25,0,0,0
+2024-11-10,8,Fresh Juice,76,25,0,0,0
+2024-11-11,8,Fresh Juice,72,25,0,0,0
+2024-11-12,8,Fresh Juice,69,25,0,0,0
+2024-11-13,8,Fresh Juice,67,25,0,0,0
+2024-11-14,8,Fresh Juice,86,25,0,0,0
+2024-11-15,8,Fresh Juice,97,25,0,0,0
+2024-11-16,8,Fresh Juice,88,25,0,0,0
+2024-11-17,8,Fresh Juice,77,25,0,0,0
+2024-11-18,8,Fresh Juice,84,25,0,0,0
+2024-11-19,8,Fresh Juice,64,25,0,0,0
+2024-11-20,8,Fresh Juice,85,25,0,0,0
+2024-11-21,8,Fresh Juice,62,25,0,0,0
+2024-11-22,8,Fresh Juice,102,25,0,0,0
+2024-11-23,8,Fresh Juice,110,25,0,0,0
+2024-11-24,8,Fresh Juice,68,25,0,0,0
+2024-11-25,8,Fresh Juice,64,25,0,0,0
+2024-11-26,8,Fresh Juice,71,25,0,0,0
+2024-11-27,8,Fresh Juice,88,25,0,0,0
+2024-11-28,8,Fresh Juice,79,25,0,0,0
+2024-11-29,8,Fresh Juice,86,25,0,0,0
+2024-11-30,8,Fresh Juice,125,25,0,0,0
+2024-12-01,8,Fresh Juice,71,25,0,0,0
+2024-12-02,8,Fresh Juice,78,25,0,0,0
+2024-12-03,8,Fresh Juice,83,25,0,0,0
+2024-12-04,8,Fresh Juice,83,25,0,0,0
+2024-12-05,8,Fresh Juice,73,25,0,0,0
+2024-12-06,8,Fresh Juice,153,25,1,0,0
+2024-12-07,8,Fresh Juice,108,25,0,0,0
+2024-12-08,8,Fresh Juice,78,25,0,0,0
+2024-12-09,8,Fresh Juice,95,25,0,0,0
+2024-12-10,8,Fresh Juice,71,25,0,0,0
+2024-12-11,8,Fresh Juice,69,25,0,0,0
+2024-12-12,8,Fresh Juice,83,25,0,0,0
+2024-12-13,8,Fresh Juice,112,25,0,0,0
+2024-12-14,8,Fresh Juice,115,25,0,0,0
+2024-12-15,8,Fresh Juice,68,25,0,0,0
+2024-12-16,8,Fresh Juice,85,25,0,0,0
+2024-12-17,8,Fresh Juice,62,25,0,0,0
+2024-12-18,8,Fresh Juice,76,25,0,0,0
+2024-12-19,8,Fresh Juice,63,25,0,0,0
+2024-12-20,8,Fresh Juice,97,25,0,0,0
+2024-12-21,8,Fresh Juice,176,25,1,0,0
+2024-12-22,8,Fresh Juice,100,25,1,0,0
+2024-12-23,8,Fresh Juice,71,25,1,0,0
+2024-12-24,8,Fresh Juice,85,25,0,0,0
+2024-12-25,8,Fresh Juice,63,25,0,0,0
+2024-12-26,8,Fresh Juice,67,25,0,0,0
+2024-12-27,8,Fresh Juice,103,25,0,0,0
+2024-12-28,8,Fresh Juice,93,25,0,0,0
+2024-12-29,8,Fresh Juice,82,25,0,0,0
+2024-12-30,8,Fresh Juice,81,25,0,0,0
+2024-12-31,8,Fresh Juice,101,25,1,0,0
+2025-01-01,8,Fresh Juice,84,25,0,0,0
+2025-01-02,8,Fresh Juice,65,25,0,0,0
+2025-01-03,8,Fresh Juice,141,25,0,0,0
+2025-01-04,8,Fresh Juice,129,25,0,0,0
+2025-01-05,8,Fresh Juice,76,25,0,0,0
+2025-01-06,8,Fresh Juice,93,25,0,0,0
+2025-01-07,8,Fresh Juice,131,25,0,1,0
+2025-01-08,8,Fresh Juice,88,25,0,0,0
+2025-01-09,8,Fresh Juice,74,25,0,0,0
+2025-01-10,8,Fresh Juice,99,25,0,0,0
+2025-01-11,8,Fresh Juice,103,25,0,0,0
+2025-01-12,8,Fresh Juice,90,25,0,0,0
+2025-01-13,8,Fresh Juice,80,25,0,0,0
+2025-01-14,8,Fresh Juice,86,25,1,0,0
+2025-01-15,8,Fresh Juice,76,25,0,0,0
+2025-01-16,8,Fresh Juice,98,25,0,0,0
+2025-01-17,8,Fresh Juice,102,25,0,0,0
+2025-01-18,8,Fresh Juice,121,25,0,0,0
+2025-01-19,8,Fresh Juice,79,25,0,0,0
+2025-01-20,8,Fresh Juice,72,25,0,0,0
+2025-01-21,8,Fresh Juice,100,25,0,0,0
+2025-01-22,8,Fresh Juice,106,25,1,0,0
+2025-01-23,8,Fresh Juice,102,25,0,0,0
+2025-01-24,8,Fresh Juice,117,25,0,0,0
+2025-01-25,8,Fresh Juice,119,25,0,0,0
+2025-01-26,8,Fresh Juice,98,25,0,0,0
+2025-01-27,8,Fresh Juice,96,25,0,0,0
+2025-01-28,8,Fresh Juice,92,25,0,0,0
+2025-01-29,8,Fresh Juice,85,25,0,0,0
+2025-01-30,8,Fresh Juice,96,25,0,0,0
+2025-01-31,8,Fresh Juice,132,25,0,0,0
+2025-02-01,8,Fresh Juice,99,25,0,0,0
+2025-02-02,8,Fresh Juice,90,25,0,0,0
+2025-02-03,8,Fresh Juice,91,25,1,0,0
+2025-02-04,8,Fresh Juice,95,25,0,0,0
+2025-02-05,8,Fresh Juice,79,25,0,0,0
+2025-02-06,8,Fresh Juice,97,25,0,0,0
+2025-02-07,8,Fresh Juice,121,25,0,0,0
+2025-02-08,8,Fresh Juice,129,25,0,0,0
+2025-02-09,8,Fresh Juice,109,25,0,0,0
+2025-02-10,8,Fresh Juice,82,25,0,0,0
+2025-02-11,8,Fresh Juice,91,25,0,0,0
+2025-02-12,8,Fresh Juice,93,25,0,0,0
+2025-02-13,8,Fresh Juice,78,25,0,0,0
+2025-02-14,8,Fresh Juice,193,25,1,0,0
+2025-02-15,8,Fresh Juice,147,25,0,0,0
+2025-02-16,8,Fresh Juice,95,25,0,0,0
+2025-02-17,8,Fresh Juice,112,25,0,0,0
+2025-02-18,8,Fresh Juice,100,25,0,0,0
+2025-02-19,8,Fresh Juice,95,25,0,0,0
+2025-02-20,8,Fresh Juice,146,25,1,0,0
+2025-02-21,8,Fresh Juice,124,25,0,0,0
+2025-02-22,8,Fresh Juice,123,25,0,0,0
+2025-02-23,8,Fresh Juice,100,25,0,0,0
+2025-02-24,8,Fresh Juice,117,25,0,0,0
+2025-02-25,8,Fresh Juice,84,25,0,0,0
+2025-02-26,8,Fresh Juice,112,25,1,0,0
+2025-02-27,8,Fresh Juice,98,25,0,0,0
+2025-02-28,8,Fresh Juice,96,25,0,0,0
+2025-03-01,8,Fresh Juice,195,25,0,0,1
+2025-03-02,8,Fresh Juice,151,25,0,0,1
+2025-03-03,8,Fresh Juice,142,25,0,0,1
+2025-03-04,8,Fresh Juice,177,25,0,0,1
+2025-03-05,8,Fresh Juice,176,25,0,0,1
+2025-03-06,8,Fresh Juice,188,25,0,0,1
+2025-03-07,8,Fresh Juice,207,25,0,0,1
+2025-03-08,8,Fresh Juice,212,25,0,0,1
+2025-03-09,8,Fresh Juice,144,25,0,0,1
+2025-03-10,8,Fresh Juice,174,25,0,0,1
+2025-03-11,8,Fresh Juice,125,25,0,0,1
+2025-03-12,8,Fresh Juice,147,25,0,0,1
+2025-03-13,8,Fresh Juice,176,25,0,0,1
+2025-03-14,8,Fresh Juice,286,25,1,0,1
+2025-03-15,8,Fresh Juice,195,25,0,0,1
+2025-03-16,8,Fresh Juice,141,25,0,0,1
+2025-03-17,8,Fresh Juice,138,25,0,0,1
+2025-03-18,8,Fresh Juice,145,25,0,0,1
+2025-03-19,8,Fresh Juice,164,25,0,0,1
+2025-03-20,8,Fresh Juice,156,25,0,0,1
+2025-03-21,8,Fresh Juice,246,25,0,0,1
+2025-03-22,8,Fresh Juice,172,25,0,0,1
+2025-03-23,8,Fresh Juice,143,25,0,0,1
+2025-03-24,8,Fresh Juice,133,25,0,0,1
+2025-03-25,8,Fresh Juice,142,25,0,0,1
+2025-03-26,8,Fresh Juice,202,25,1,0,1
+2025-03-27,8,Fresh Juice,231,25,1,0,1
+2025-03-28,8,Fresh Juice,227,25,0,0,1
+2025-03-29,8,Fresh Juice,225,25,0,0,1
+2025-03-30,8,Fresh Juice,259,25,0,1,1
+2025-03-31,8,Fresh Juice,110,25,0,0,0
+2025-04-01,8,Fresh Juice,102,25,0,0,0
+2025-04-02,8,Fresh Juice,107,25,0,0,0
+2025-04-03,8,Fresh Juice,95,25,0,0,0
+2025-04-04,8,Fresh Juice,155,25,1,0,0
+2025-04-05,8,Fresh Juice,121,25,0,0,0
+2025-04-06,8,Fresh Juice,114,25,0,0,0
+2025-04-07,8,Fresh Juice,85,25,0,0,0
+2025-04-08,8,Fresh Juice,93,25,0,0,0
+2025-04-09,8,Fresh Juice,83,25,0,0,0
+2025-04-10,8,Fresh Juice,109,25,0,0,0
+2025-04-11,8,Fresh Juice,131,25,0,0,0
+2025-04-12,8,Fresh Juice,177,25,1,0,0
+2025-04-13,8,Fresh Juice,74,25,0,0,0
+2025-04-14,8,Fresh Juice,98,25,0,0,0
+2025-04-15,8,Fresh Juice,111,25,0,0,0
+2025-04-16,8,Fresh Juice,106,25,0,0,0
+2025-04-17,8,Fresh Juice,90,25,0,0,0
+2025-04-18,8,Fresh Juice,117,25,0,0,0
+2025-04-19,8,Fresh Juice,133,25,0,0,0
+2025-04-20,8,Fresh Juice,80,25,0,0,0
+2025-04-21,8,Fresh Juice,104,25,0,0,0
+2025-04-22,8,Fresh Juice,84,25,0,0,0
+2025-04-23,8,Fresh Juice,87,25,0,0,0
+2025-04-24,8,Fresh Juice,122,25,1,0,0
+2025-04-25,8,Fresh Juice,143,25,0,0,0
+2025-04-26,8,Fresh Juice,116,25,0,0,0
+2025-04-27,8,Fresh Juice,87,25,0,0,0
+2025-04-28,8,Fresh Juice,115,25,0,0,0
+2025-04-29,8,Fresh Juice,104,25,0,0,0
+2025-04-30,8,Fresh Juice,138,25,1,0,0
+2025-05-01,8,Fresh Juice,98,25,0,0,0
+2025-05-02,8,Fresh Juice,138,25,1,0,0
+2025-05-03,8,Fresh Juice,134,25,0,0,0
+2025-05-04,8,Fresh Juice,112,25,0,0,0
+2025-05-05,8,Fresh Juice,87,25,0,0,0
+2025-05-06,8,Fresh Juice,79,25,0,0,0
+2025-05-07,8,Fresh Juice,73,25,0,0,0
+2025-05-08,8,Fresh Juice,83,25,0,0,0
+2025-05-09,8,Fresh Juice,106,25,0,0,0
+2025-05-10,8,Fresh Juice,134,25,0,0,0
+2025-05-11,8,Fresh Juice,103,25,0,0,0
+2025-05-12,8,Fresh Juice,103,25,0,0,0
+2025-05-13,8,Fresh Juice,89,25,0,0,0
+2025-05-14,8,Fresh Juice,109,25,0,0,0
+2025-05-15,8,Fresh Juice,101,25,1,0,0
+2025-05-16,8,Fresh Juice,118,25,0,0,0
+2025-05-17,8,Fresh Juice,122,25,0,0,0
+2025-05-18,8,Fresh Juice,102,25,0,0,0
+2025-05-19,8,Fresh Juice,78,25,0,0,0
+2025-05-20,8,Fresh Juice,95,25,0,0,0
+2025-05-21,8,Fresh Juice,106,25,0,0,0
+2025-05-22,8,Fresh Juice,103,25,0,0,0
+2025-05-23,8,Fresh Juice,118,25,0,0,0
+2025-05-24,8,Fresh Juice,134,25,0,0,0
+2025-05-25,8,Fresh Juice,88,25,0,0,0
+2025-05-26,8,Fresh Juice,88,25,0,0,0
+2025-05-27,8,Fresh Juice,92,25,0,0,0
+2025-05-28,8,Fresh Juice,113,25,0,0,0
+2025-05-29,8,Fresh Juice,112,25,0,0,0
+2025-05-30,8,Fresh Juice,196,25,1,0,0
+2025-05-31,8,Fresh Juice,109,25,0,0,0
+2025-06-01,8,Fresh Juice,103,25,0,0,0
+2025-06-02,8,Fresh Juice,91,25,0,0,0
+2025-06-03,8,Fresh Juice,99,25,0,0,0
+2025-06-04,8,Fresh Juice,85,25,0,0,0
+2025-06-05,8,Fresh Juice,100,25,0,0,0
+2025-06-06,8,Fresh Juice,136,25,0,0,0
+2025-06-07,8,Fresh Juice,127,25,0,0,0
+2025-06-08,8,Fresh Juice,99,25,0,0,0
+2025-06-09,8,Fresh Juice,78,25,0,0,0
+2025-06-10,8,Fresh Juice,98,25,0,0,0
+2025-06-11,8,Fresh Juice,84,25,0,0,0
+2025-06-12,8,Fresh Juice,106,25,0,0,0
+2025-06-13,8,Fresh Juice,118,25,0,0,0
+2025-06-14,8,Fresh Juice,100,25,0,0,0
+2025-06-15,8,Fresh Juice,105,25,0,0,0
+2025-06-16,8,Fresh Juice,91,25,0,0,0
+2025-06-17,8,Fresh Juice,98,25,0,0,0
+2025-06-18,8,Fresh Juice,90,25,0,0,0
+2025-06-19,8,Fresh Juice,104,25,1,0,0
+2025-06-20,8,Fresh Juice,116,25,0,0,0
+2025-06-21,8,Fresh Juice,121,25,0,0,0
+2025-06-22,8,Fresh Juice,98,25,0,0,0
+2025-06-23,8,Fresh Juice,91,25,0,0,0

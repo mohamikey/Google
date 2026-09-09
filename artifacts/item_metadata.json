@@ -1,0 +1,154 @@
+{
+  "Beef Koshari": {
+    "mae": 18.31,
+    "avg_demand": 84.83,
+    "std_demand": 29.39,
+    "last_date": "2025-06-23",
+    "n_samples": 533,
+    "feature_cols": [
+      "day_of_week",
+      "is_weekend",
+      "month",
+      "day_of_month",
+      "lag_1",
+      "lag_2",
+      "lag_3",
+      "lag_7",
+      "rolling_avg_3",
+      "rolling_avg_7"
+    ]
+  },
+  "Falafel Sandwich": {
+    "mae": 23.55,
+    "avg_demand": 115.23,
+    "std_demand": 40.88,
+    "last_date": "2025-06-23",
+    "n_samples": 533,
+    "feature_cols": [
+      "day_of_week",
+      "is_weekend",
+      "month",
+      "day_of_month",
+      "lag_1",
+      "lag_2",
+      "lag_3",
+      "lag_7",
+      "rolling_avg_3",
+      "rolling_avg_7"
+    ]
+  },
+  "Fresh Juice": {
+    "mae": 22.89,
+    "avg_demand": 99.68,
+    "std_demand": 33.53,
+    "last_date": "2025-06-23",
+    "n_samples": 533,
+    "feature_cols": [
+      "day_of_week",
+      "is_weekend",
+      "month",
+      "day_of_month",
+      "lag_1",
+      "lag_2",
+      "lag_3",
+      "lag_7",
+      "rolling_avg_3",
+      "rolling_avg_7"
+    ]
+  },
+  "Grilled Chicken": {
+    "mae": 13.44,
+    "avg_demand": 64.55,
+    "std_demand": 23.37,
+    "last_date": "2025-06-23",
+    "n_samples": 533,
+    "feature_cols": [
+      "day_of_week",
+      "is_weekend",
+      "month",
+      "day_of_month",
+      "lag_1",
+      "lag_2",
+      "lag_3",
+      "lag_7",
+      "rolling_avg_3",
+      "rolling_avg_7"
+    ]
+  },
+  "Grilled Fish": {
+    "mae": 8.29,
+    "avg_demand": 36.04,
+    "std_demand": 12.53,
+    "last_date": "2025-06-23",
+    "n_samples": 533,
+    "feature_cols": [
+      "day_of_week",
+      "is_weekend",
+      "month",
+      "day_of_month",
+      "lag_1",
+      "lag_2",
+      "lag_3",
+      "lag_7",
+      "rolling_avg_3",
+      "rolling_avg_7"
+    ]
+  },
+  "Molokhia": {
+    "mae": 10.12,
+    "avg_demand": 56.71,
+    "std_demand": 19.2,
+    "last_date": "2025-06-23",
+    "n_samples": 533,
+    "feature_cols": [
+      "day_of_week",
+      "is_weekend",
+      "month",
+      "day_of_month",
+      "lag_1",
+      "lag_2",
+      "lag_3",
+      "lag_7",
+      "rolling_avg_3",
+      "rolling_avg_7"
+    ]
+  },
+  "Pasta Alfredo": {
+    "mae": 9.33,
+    "avg_demand": 42.53,
+    "std_demand": 14.61,
+    "last_date": "2025-06-23",
+    "n_samples": 533,
+    "feature_cols": [
+      "day_of_week",
+      "is_weekend",
+      "month",
+      "day_of_month",
+      "lag_1",
+      "lag_2",
+      "lag_3",
+      "lag_7",
+      "rolling_avg_3",
+      "rolling_avg_7"
+    ]
+  },
+  "Vegetable Salad": {
+    "mae": 10.22,
+    "avg_demand": 49.3,
+    "std_demand": 16.25,
+    "last_date": "2025-06-23",
+    "n_samples": 533,
+    "feature_cols": [
+      "day_of_week",
+      "is_weekend",
+      "month",
+      "day_of_month",
+      "lag_1",
+      "lag_2",
+      "lag_3",
+      "lag_7",
+      "rolling_avg_3",
+      "rolling_avg_7"
+    ]
+  }
+}

@@ -1,0 +1,4321 @@
+date,item_name,quantity
+2024-01-01,Beef Koshari,55
+2024-01-02,Beef Koshari,67
+2024-01-03,Beef Koshari,83
+2024-01-04,Beef Koshari,56
+2024-01-05,Beef Koshari,92
+2024-01-06,Beef Koshari,71
+2024-01-07,Beef Koshari,91
+2024-01-08,Beef Koshari,57
+2024-01-09,Beef Koshari,79
+2024-01-10,Beef Koshari,61
+2024-01-11,Beef Koshari,55
+2024-01-12,Beef Koshari,84
+2024-01-13,Beef Koshari,115
+2024-01-14,Beef Koshari,57
+2024-01-15,Beef Koshari,70
+2024-01-16,Beef Koshari,67
+2024-01-17,Beef Koshari,65
+2024-01-18,Beef Koshari,57
+2024-01-19,Beef Koshari,146
+2024-01-20,Beef Koshari,89
+2024-01-21,Beef Koshari,59
+2024-01-22,Beef Koshari,72
+2024-01-23,Beef Koshari,65
+2024-01-24,Beef Koshari,71
+2024-01-25,Beef Koshari,67
+2024-01-26,Beef Koshari,110
+2024-01-27,Beef Koshari,76
+2024-01-28,Beef Koshari,61
+2024-01-29,Beef Koshari,88
+2024-01-30,Beef Koshari,64
+2024-01-31,Beef Koshari,56
+2024-02-01,Beef Koshari,70
+2024-02-02,Beef Koshari,140
+2024-02-03,Beef Koshari,88
+2024-02-04,Beef Koshari,51
+2024-02-05,Beef Koshari,59
+2024-02-06,Beef Koshari,54
+2024-02-07,Beef Koshari,82
+2024-02-08,Beef Koshari,54
+2024-02-09,Beef Koshari,84
+2024-02-10,Beef Koshari,96
+2024-02-11,Beef Koshari,57
+2024-02-12,Beef Koshari,70
+2024-02-13,Beef Koshari,62
+2024-02-14,Beef Koshari,70
+2024-02-15,Beef Koshari,65
+2024-02-16,Beef Koshari,90
+2024-02-17,Beef Koshari,103
+2024-02-18,Beef Koshari,59
+2024-02-19,Beef Koshari,71
+2024-02-20,Beef Koshari,75
+2024-02-21,Beef Koshari,58
+2024-02-22,Beef Koshari,56
+2024-02-23,Beef Koshari,126
+2024-02-24,Beef Koshari,70
+2024-02-25,Beef Koshari,71
+2024-02-26,Beef Koshari,75
+2024-02-27,Beef Koshari,58
+2024-02-28,Beef Koshari,76
+2024-02-29,Beef Koshari,80
+2024-03-01,Beef Koshari,98
+2024-03-02,Beef Koshari,109
+2024-03-03,Beef Koshari,67
+2024-03-04,Beef Koshari,91
+2024-03-05,Beef Koshari,69
+2024-03-06,Beef Koshari,61
+2024-03-07,Beef Koshari,65
+2024-03-08,Beef Koshari,95
+2024-03-09,Beef Koshari,97
+2024-03-10,Beef Koshari,74
+2024-03-11,Beef Koshari,85
+2024-03-12,Beef Koshari,153
+2024-03-13,Beef Koshari,101
+2024-03-14,Beef Koshari,122
+2024-03-15,Beef Koshari,158
+2024-03-16,Beef Koshari,141
+2024-03-17,Beef Koshari,121
+2024-03-18,Beef Koshari,101
+2024-03-19,Beef Koshari,114
+2024-03-20,Beef Koshari,142
+2024-03-21,Beef Koshari,108
+2024-03-22,Beef Koshari,156
+2024-03-23,Beef Koshari,134
+2024-03-24,Beef Koshari,124
+2024-03-25,Beef Koshari,104
+2024-03-26,Beef Koshari,119
+2024-03-27,Beef Koshari,129
+2024-03-28,Beef Koshari,111
+2024-03-29,Beef Koshari,166
+2024-03-30,Beef Koshari,162
+2024-03-31,Beef Koshari,129
+2024-04-01,Beef Koshari,123
+2024-04-02,Beef Koshari,133
+2024-04-03,Beef Koshari,112
+2024-04-04,Beef Koshari,98
+2024-04-05,Beef Koshari,125
+2024-04-06,Beef Koshari,127
+2024-04-07,Beef Koshari,111
+2024-04-08,Beef Koshari,118
+2024-04-09,Beef Koshari,106
+2024-04-10,Beef Koshari,79
+2024-04-11,Beef Koshari,66
+2024-04-12,Beef Koshari,92
+2024-04-13,Beef Koshari,97
+2024-04-14,Beef Koshari,85
+2024-04-15,Beef Koshari,56
+2024-04-16,Beef Koshari,78
+2024-04-17,Beef Koshari,77
+2024-04-18,Beef Koshari,70
+2024-04-19,Beef Koshari,102
+2024-04-20,Beef Koshari,133
+2024-04-21,Beef Koshari,77
+2024-04-22,Beef Koshari,64
+2024-04-23,Beef Koshari,63
+2024-04-24,Beef Koshari,55
+2024-04-25,Beef Koshari,75
+2024-04-26,Beef Koshari,90
+2024-04-27,Beef Koshari,79
+2024-04-28,Beef Koshari,63
+2024-04-29,Beef Koshari,76
+2024-04-30,Beef Koshari,73
+2024-05-01,Beef Koshari,64
+2024-05-02,Beef Koshari,84
+2024-05-03,Beef Koshari,96
+2024-05-04,Beef Koshari,143
+2024-05-05,Beef Koshari,73
+2024-05-06,Beef Koshari,69
+2024-05-07,Beef Koshari,75
+2024-05-08,Beef Koshari,81
+2024-05-09,Beef Koshari,69
+2024-05-10,Beef Koshari,105
+2024-05-11,Beef Koshari,88
+2024-05-12,Beef Koshari,86
+2024-05-13,Beef Koshari,64
+2024-05-14,Beef Koshari,90
+2024-05-15,Beef Koshari,60
+2024-05-16,Beef Koshari,68
+2024-05-17,Beef Koshari,100
+2024-05-18,Beef Koshari,153
+2024-05-19,Beef Koshari,84
+2024-05-20,Beef Koshari,83
+2024-05-21,Beef Koshari,56
+2024-05-22,Beef Koshari,74
+2024-05-23,Beef Koshari,64
+2024-05-24,Beef Koshari,105
+2024-05-25,Beef Koshari,107
+2024-05-26,Beef Koshari,72
+2024-05-27,Beef Koshari,65
+2024-05-28,Beef Koshari,60
+2024-05-29,Beef Koshari,63
+2024-05-30,Beef Koshari,88
+2024-05-31,Beef Koshari,94
+2024-06-01,Beef Koshari,105
+2024-06-02,Beef Koshari,70
+2024-06-03,Beef Koshari,59
+2024-06-04,Beef Koshari,59
+2024-06-05,Beef Koshari,74
+2024-06-06,Beef Koshari,84
+2024-06-07,Beef Koshari,93
+2024-06-08,Beef Koshari,85
+2024-06-09,Beef Koshari,60
+2024-06-10,Beef Koshari,73
+2024-06-11,Beef Koshari,81
+2024-06-12,Beef Koshari,65
+2024-06-13,Beef Koshari,63
+2024-06-14,Beef Koshari,76
+2024-06-15,Beef Koshari,92
+2024-06-16,Beef Koshari,110
+2024-06-17,Beef Koshari,61
+2024-06-18,Beef Koshari,69
+2024-06-19,Beef Koshari,71
+2024-06-20,Beef Koshari,71
+2024-06-21,Beef Koshari,110
+2024-06-22,Beef Koshari,80
+2024-06-23,Beef Koshari,67
+2024-06-24,Beef Koshari,72
+2024-06-25,Beef Koshari,83
+2024-06-26,Beef Koshari,57
+2024-06-27,Beef Koshari,68
+2024-06-28,Beef Koshari,89
+2024-06-29,Beef Koshari,84
+2024-06-30,Beef Koshari,74
+2024-07-01,Beef Koshari,70
+2024-07-02,Beef Koshari,70
+2024-07-03,Beef Koshari,56
+2024-07-04,Beef Koshari,62
+2024-07-05,Beef Koshari,88
+2024-07-06,Beef Koshari,89
+2024-07-07,Beef Koshari,83
+2024-07-08,Beef Koshari,62
+2024-07-09,Beef Koshari,45
+2024-07-10,Beef Koshari,64
+2024-07-11,Beef Koshari,68
+2024-07-12,Beef Koshari,86
+2024-07-13,Beef Koshari,56
+2024-07-14,Beef Koshari,66
+2024-07-15,Beef Koshari,67
+2024-07-16,Beef Koshari,53
+2024-07-17,Beef Koshari,58
+2024-07-18,Beef Koshari,62
+2024-07-19,Beef Koshari,110
+2024-07-20,Beef Koshari,80
+2024-07-21,Beef Koshari,65
+2024-07-22,Beef Koshari,81
+2024-07-23,Beef Koshari,76
+2024-07-24,Beef Koshari,69
+2024-07-25,Beef Koshari,54
+2024-07-26,Beef Koshari,81
+2024-07-27,Beef Koshari,78
+2024-07-28,Beef Koshari,53
+2024-07-29,Beef Koshari,68
+2024-07-30,Beef Koshari,94
+2024-07-31,Beef Koshari,58
+2024-08-01,Beef Koshari,61
+2024-08-02,Beef Koshari,83
+2024-08-03,Beef Koshari,71
+2024-08-04,Beef Koshari,75
+2024-08-05,Beef Koshari,60
+2024-08-06,Beef Koshari,52
+2024-08-07,Beef Koshari,60
+2024-08-08,Beef Koshari,44
+2024-08-09,Beef Koshari,77
+2024-08-10,Beef Koshari,84
+2024-08-11,Beef Koshari,61
+2024-08-12,Beef Koshari,68
+2024-08-13,Beef Koshari,52
+2024-08-14,Beef Koshari,59
+2024-08-15,Beef Koshari,66
+2024-08-16,Beef Koshari,83
+2024-08-17,Beef Koshari,88
+2024-08-18,Beef Koshari,71
+2024-08-19,Beef Koshari,59
+2024-08-20,Beef Koshari,57
+2024-08-21,Beef Koshari,60
+2024-08-22,Beef Koshari,53
+2024-08-23,Beef Koshari,92
+2024-08-24,Beef Koshari,86
+2024-08-25,Beef Koshari,67
+2024-08-26,Beef Koshari,60
+2024-08-27,Beef Koshari,53
+2024-08-28,Beef Koshari,63
+2024-08-29,Beef Koshari,67
+2024-08-30,Beef Koshari,81
+2024-08-31,Beef Koshari,70
+2024-09-01,Beef Koshari,54
+2024-09-02,Beef Koshari,58
+2024-09-03,Beef Koshari,68
+2024-09-04,Beef Koshari,70
+2024-09-05,Beef Koshari,52
+2024-09-06,Beef Koshari,81
+2024-09-07,Beef Koshari,72
+2024-09-08,Beef Koshari,49
+2024-09-09,Beef Koshari,62
+2024-09-10,Beef Koshari,59
+2024-09-11,Beef Koshari,59
+2024-09-12,Beef Koshari,56
+2024-09-13,Beef Koshari,80
+2024-09-14,Beef Koshari,80
+2024-09-15,Beef Koshari,63
+2024-09-16,Beef Koshari,52
+2024-09-17,Beef Koshari,64
+2024-09-18,Beef Koshari,62
+2024-09-19,Beef Koshari,60
+2024-09-20,Beef Koshari,78
+2024-09-21,Beef Koshari,107
+2024-09-22,Beef Koshari,57
+2024-09-23,Beef Koshari,58
+2024-09-24,Beef Koshari,47
+2024-09-25,Beef Koshari,73
+2024-09-26,Beef Koshari,65
+2024-09-27,Beef Koshari,94
+2024-09-28,Beef Koshari,83
+2024-09-29,Beef Koshari,53
+2024-09-30,Beef Koshari,61
+2024-10-01,Beef Koshari,88
+2024-10-02,Beef Koshari,51
+2024-10-03,Beef Koshari,66
+2024-10-04,Beef Koshari,74
+2024-10-05,Beef Koshari,84
+2024-10-06,Beef Koshari,68
+2024-10-07,Beef Koshari,60
+2024-10-08,Beef Koshari,95
+2024-10-09,Beef Koshari,48
+2024-10-10,Beef Koshari,50
+2024-10-11,Beef Koshari,70
+2024-10-12,Beef Koshari,59
+2024-10-13,Beef Koshari,46
+2024-10-14,Beef Koshari,68
+2024-10-15,Beef Koshari,66
+2024-10-16,Beef Koshari,54
+2024-10-17,Beef Koshari,74
+2024-10-18,Beef Koshari,106
+2024-10-19,Beef Koshari,96
+2024-10-20,Beef Koshari,72
+2024-10-21,Beef Koshari,54
+2024-10-22,Beef Koshari,64
+2024-10-23,Beef Koshari,67
+2024-10-24,Beef Koshari,54
+2024-10-25,Beef Koshari,53
+2024-10-26,Beef Koshari,87
+2024-10-27,Beef Koshari,53
+2024-10-28,Beef Koshari,58
+2024-10-29,Beef Koshari,61
+2024-10-30,Beef Koshari,64
+2024-10-31,Beef Koshari,57
+2024-11-01,Beef Koshari,83
+2024-11-02,Beef Koshari,92
+2024-11-03,Beef Koshari,46
+2024-11-04,Beef Koshari,50
+2024-11-05,Beef Koshari,72
+2024-11-06,Beef Koshari,79
+2024-11-07,Beef Koshari,66
+2024-11-08,Beef Koshari,92
+2024-11-09,Beef Koshari,80
+2024-11-10,Beef Koshari,59
+2024-11-11,Beef Koshari,71
+2024-11-12,Beef Koshari,63
+2024-11-13,Beef Koshari,58
+2024-11-14,Beef Koshari,68
+2024-11-15,Beef Koshari,91
+2024-11-16,Beef Koshari,87
+2024-11-17,Beef Koshari,58
+2024-11-18,Beef Koshari,55
+2024-11-19,Beef Koshari,55
+2024-11-20,Beef Koshari,56
+2024-11-21,Beef Koshari,56
+2024-11-22,Beef Koshari,79
+2024-11-23,Beef Koshari,118
+2024-11-24,Beef Koshari,64
+2024-11-25,Beef Koshari,55
+2024-11-26,Beef Koshari,65
+2024-11-27,Beef Koshari,64
+2024-11-28,Beef Koshari,63
+2024-11-29,Beef Koshari,80
+2024-11-30,Beef Koshari,75
+2024-12-01,Beef Koshari,69
+2024-12-02,Beef Koshari,65
+2024-12-03,Beef Koshari,67
+2024-12-04,Beef Koshari,61
+2024-12-05,Beef Koshari,61
+2024-12-06,Beef Koshari,99
+2024-12-07,Beef Koshari,116
+2024-12-08,Beef Koshari,63
+2024-12-09,Beef Koshari,67
+2024-12-10,Beef Koshari,65
+2024-12-11,Beef Koshari,60
+2024-12-12,Beef Koshari,63
+2024-12-13,Beef Koshari,111
+2024-12-14,Beef Koshari,82
+2024-12-15,Beef Koshari,67
+2024-12-16,Beef Koshari,62
+2024-12-17,Beef Koshari,67
+2024-12-18,Beef Koshari,62
+2024-12-19,Beef Koshari,64
+2024-12-20,Beef Koshari,76
+2024-12-21,Beef Koshari,93
+2024-12-22,Beef Koshari,65
+2024-12-23,Beef Koshari,73
+2024-12-24,Beef Koshari,68
+2024-12-25,Beef Koshari,63
+2024-12-26,Beef Koshari,61
+2024-12-27,Beef Koshari,94
+2024-12-28,Beef Koshari,109
+2024-12-29,Beef Koshari,65
+2024-12-30,Beef Koshari,55
+2024-12-31,Beef Koshari,72
+2025-01-01,Beef Koshari,80
+2025-01-02,Beef Koshari,75
+2025-01-03,Beef Koshari,82
+2025-01-04,Beef Koshari,97
+2025-01-05,Beef Koshari,78
+2025-01-06,Beef Koshari,68
+2025-01-07,Beef Koshari,100
+2025-01-08,Beef Koshari,67
+2025-01-09,Beef Koshari,70
+2025-01-10,Beef Koshari,84
+2025-01-11,Beef Koshari,100
+2025-01-12,Beef Koshari,75
+2025-01-13,Beef Koshari,75
+2025-01-14,Beef Koshari,73
+2025-01-15,Beef Koshari,63
+2025-01-16,Beef Koshari,100
+2025-01-17,Beef Koshari,121
+2025-01-18,Beef Koshari,102
+2025-01-19,Beef Koshari,94
+2025-01-20,Beef Koshari,80
+2025-01-21,Beef Koshari,91
+2025-01-22,Beef Koshari,78
+2025-01-23,Beef Koshari,73
+2025-01-24,Beef Koshari,117
+2025-01-25,Beef Koshari,96
+2025-01-26,Beef Koshari,84
+2025-01-27,Beef Koshari,71
+2025-01-28,Beef Koshari,72
+2025-01-29,Beef Koshari,83
+2025-01-30,Beef Koshari,88
+2025-01-31,Beef Koshari,102
+2025-02-01,Beef Koshari,119
+2025-02-02,Beef Koshari,80
+2025-02-03,Beef Koshari,70
+2025-02-04,Beef Koshari,73
+2025-02-05,Beef Koshari,82
+2025-02-06,Beef Koshari,90
+2025-02-07,Beef Koshari,118
+2025-02-08,Beef Koshari,118
+2025-02-09,Beef Koshari,66
+2025-02-10,Beef Koshari,85
+2025-02-11,Beef Koshari,85
+2025-02-12,Beef Koshari,81
+2025-02-13,Beef Koshari,85
+2025-02-14,Beef Koshari,85
+2025-02-15,Beef Koshari,78
+2025-02-16,Beef Koshari,82
+2025-02-17,Beef Koshari,79
+2025-02-18,Beef Koshari,77
+2025-02-19,Beef Koshari,84
+2025-02-20,Beef Koshari,82
+2025-02-21,Beef Koshari,112
+2025-02-22,Beef Koshari,168
+2025-02-23,Beef Koshari,75
+2025-02-24,Beef Koshari,84
+2025-02-25,Beef Koshari,74
+2025-02-26,Beef Koshari,62
+2025-02-27,Beef Koshari,78
+2025-02-28,Beef Koshari,123
+2025-03-01,Beef Koshari,220
+2025-03-02,Beef Koshari,137
+2025-03-03,Beef Koshari,144
+2025-03-04,Beef Koshari,142
+2025-03-05,Beef Koshari,168
+2025-03-06,Beef Koshari,119
+2025-03-07,Beef Koshari,177
+2025-03-08,Beef Koshari,183
+2025-03-09,Beef Koshari,141
+2025-03-10,Beef Koshari,142
+2025-03-11,Beef Koshari,174
+2025-03-12,Beef Koshari,155
+2025-03-13,Beef Koshari,126
+2025-03-14,Beef Koshari,223
+2025-03-15,Beef Koshari,155
+2025-03-16,Beef Koshari,116
+2025-03-17,Beef Koshari,145
+2025-03-18,Beef Koshari,128
+2025-03-19,Beef Koshari,94
+2025-03-20,Beef Koshari,156
+2025-03-21,Beef Koshari,193
+2025-03-22,Beef Koshari,177
+2025-03-23,Beef Koshari,130
+2025-03-24,Beef Koshari,130
+2025-03-25,Beef Koshari,100
+2025-03-26,Beef Koshari,119
+2025-03-27,Beef Koshari,123
+2025-03-28,Beef Koshari,285
+2025-03-29,Beef Koshari,168
+2025-03-30,Beef Koshari,210
+2025-03-31,Beef Koshari,82
+2025-04-01,Beef Koshari,75
+2025-04-02,Beef Koshari,86
+2025-04-03,Beef Koshari,83
+2025-04-04,Beef Koshari,128
+2025-04-05,Beef Koshari,108
+2025-04-06,Beef Koshari,77
+2025-04-07,Beef Koshari,92
+2025-04-08,Beef Koshari,82
+2025-04-09,Beef Koshari,93
+2025-04-10,Beef Koshari,78
+2025-04-11,Beef Koshari,115
+2025-04-12,Beef Koshari,105
+2025-04-13,Beef Koshari,75
+2025-04-14,Beef Koshari,62
+2025-04-15,Beef Koshari,99
+2025-04-16,Beef Koshari,110
+2025-04-17,Beef Koshari,89
+2025-04-18,Beef Koshari,111
+2025-04-19,Beef Koshari,129
+2025-04-20,Beef Koshari,93
+2025-04-21,Beef Koshari,86
+2025-04-22,Beef Koshari,91
+2025-04-23,Beef Koshari,84
+2025-04-24,Beef Koshari,76
+2025-04-25,Beef Koshari,126
+2025-04-26,Beef Koshari,104
+2025-04-27,Beef Koshari,64
+2025-04-28,Beef Koshari,91
+2025-04-29,Beef Koshari,88
+2025-04-30,Beef Koshari,92
+2025-05-01,Beef Koshari,74
+2025-05-02,Beef Koshari,97
+2025-05-03,Beef Koshari,119
+2025-05-04,Beef Koshari,88
+2025-05-05,Beef Koshari,65
+2025-05-06,Beef Koshari,76
+2025-05-07,Beef Koshari,98
+2025-05-08,Beef Koshari,90
+2025-05-09,Beef Koshari,108
+2025-05-10,Beef Koshari,95
+2025-05-11,Beef Koshari,73
+2025-05-12,Beef Koshari,109
+2025-05-13,Beef Koshari,68
+2025-05-14,Beef Koshari,132
+2025-05-15,Beef Koshari,93
+2025-05-16,Beef Koshari,95
+2025-05-17,Beef Koshari,135
+2025-05-18,Beef Koshari,77
+2025-05-19,Beef Koshari,82
+2025-05-20,Beef Koshari,77
+2025-05-21,Beef Koshari,71
+2025-05-22,Beef Koshari,109
+2025-05-23,Beef Koshari,86
+2025-05-24,Beef Koshari,105
+2025-05-25,Beef Koshari,80
+2025-05-26,Beef Koshari,83
+2025-05-27,Beef Koshari,66
+2025-05-28,Beef Koshari,66
+2025-05-29,Beef Koshari,82
+2025-05-30,Beef Koshari,93
+2025-05-31,Beef Koshari,105
+2025-06-01,Beef Koshari,92
+2025-06-02,Beef Koshari,68
+2025-06-03,Beef Koshari,71
+2025-06-04,Beef Koshari,89
+2025-06-05,Beef Koshari,62
+2025-06-06,Beef Koshari,104
+2025-06-07,Beef Koshari,137
+2025-06-08,Beef Koshari,82
+2025-06-09,Beef Koshari,87
+2025-06-10,Beef Koshari,74
+2025-06-11,Beef Koshari,93
+2025-06-12,Beef Koshari,64
+2025-06-13,Beef Koshari,109
+2025-06-14,Beef Koshari,109
+2025-06-15,Beef Koshari,94
+2025-06-16,Beef Koshari,74
+2025-06-17,Beef Koshari,80
+2025-06-18,Beef Koshari,76
+2025-06-19,Beef Koshari,66
+2025-06-20,Beef Koshari,107
+2025-06-21,Beef Koshari,117
+2025-06-22,Beef Koshari,83
+2025-06-23,Beef Koshari,70
+2024-01-01,Falafel Sandwich,106
+2024-01-02,Falafel Sandwich,78
+2024-01-03,Falafel Sandwich,92
+2024-01-04,Falafel Sandwich,77
+2024-01-05,Falafel Sandwich,125
+2024-01-06,Falafel Sandwich,107
+2024-01-07,Falafel Sandwich,168
+2024-01-08,Falafel Sandwich,92
+2024-01-09,Falafel Sandwich,101
+2024-01-10,Falafel Sandwich,80
+2024-01-11,Falafel Sandwich,78
+2024-01-12,Falafel Sandwich,102
+2024-01-13,Falafel Sandwich,100
+2024-01-14,Falafel Sandwich,76
+2024-01-15,Falafel Sandwich,109
+2024-01-16,Falafel Sandwich,129
+2024-01-17,Falafel Sandwich,89
+2024-01-18,Falafel Sandwich,91
+2024-01-19,Falafel Sandwich,123
+2024-01-20,Falafel Sandwich,130
+2024-01-21,Falafel Sandwich,77
+2024-01-22,Falafel Sandwich,87
+2024-01-23,Falafel Sandwich,96
+2024-01-24,Falafel Sandwich,96
+2024-01-25,Falafel Sandwich,87
+2024-01-26,Falafel Sandwich,114
+2024-01-27,Falafel Sandwich,164
+2024-01-28,Falafel Sandwich,93
+2024-01-29,Falafel Sandwich,143
+2024-01-30,Falafel Sandwich,87
+2024-01-31,Falafel Sandwich,120
+2024-02-01,Falafel Sandwich,80
+2024-02-02,Falafel Sandwich,131
+2024-02-03,Falafel Sandwich,110
+2024-02-04,Falafel Sandwich,85
+2024-02-05,Falafel Sandwich,95
+2024-02-06,Falafel Sandwich,89
+2024-02-07,Falafel Sandwich,89
+2024-02-08,Falafel Sandwich,80
+2024-02-09,Falafel Sandwich,125
+2024-02-10,Falafel Sandwich,152
+2024-02-11,Falafel Sandwich,76
+2024-02-12,Falafel Sandwich,109
+2024-02-13,Falafel Sandwich,98
+2024-02-14,Falafel Sandwich,93
+2024-02-15,Falafel Sandwich,105
+2024-02-16,Falafel Sandwich,111
+2024-02-17,Falafel Sandwich,135
+2024-02-18,Falafel Sandwich,94
+2024-02-19,Falafel Sandwich,113
+2024-02-20,Falafel Sandwich,84
+2024-02-21,Falafel Sandwich,92
+2024-02-22,Falafel Sandwich,82
+2024-02-23,Falafel Sandwich,141
+2024-02-24,Falafel Sandwich,135
+2024-02-25,Falafel Sandwich,87
+2024-02-26,Falafel Sandwich,90
+2024-02-27,Falafel Sandwich,103
+2024-02-28,Falafel Sandwich,92
+2024-02-29,Falafel Sandwich,115
+2024-03-01,Falafel Sandwich,133
+2024-03-02,Falafel Sandwich,113
+2024-03-03,Falafel Sandwich,81
+2024-03-04,Falafel Sandwich,105
+2024-03-05,Falafel Sandwich,88
+2024-03-06,Falafel Sandwich,95
+2024-03-07,Falafel Sandwich,62
+2024-03-08,Falafel Sandwich,127
+2024-03-09,Falafel Sandwich,105
+2024-03-10,Falafel Sandwich,109
+2024-03-11,Falafel Sandwich,173
+2024-03-12,Falafel Sandwich,145
+2024-03-13,Falafel Sandwich,144
+2024-03-14,Falafel Sandwich,189
+2024-03-15,Falafel Sandwich,228
+2024-03-16,Falafel Sandwich,244
+2024-03-17,Falafel Sandwich,175
+2024-03-18,Falafel Sandwich,167
+2024-03-19,Falafel Sandwich,180
+2024-03-20,Falafel Sandwich,138
+2024-03-21,Falafel Sandwich,136
+2024-03-22,Falafel Sandwich,239
+2024-03-23,Falafel Sandwich,163
+2024-03-24,Falafel Sandwich,155
+2024-03-25,Falafel Sandwich,175
+2024-03-26,Falafel Sandwich,185
+2024-03-27,Falafel Sandwich,149
+2024-03-28,Falafel Sandwich,105
+2024-03-29,Falafel Sandwich,205
+2024-03-30,Falafel Sandwich,207
+2024-03-31,Falafel Sandwich,190
+2024-04-01,Falafel Sandwich,157
+2024-04-02,Falafel Sandwich,156
+2024-04-03,Falafel Sandwich,182
+2024-04-04,Falafel Sandwich,149
+2024-04-05,Falafel Sandwich,212
+2024-04-06,Falafel Sandwich,325
+2024-04-07,Falafel Sandwich,140
+2024-04-08,Falafel Sandwich,172
+2024-04-09,Falafel Sandwich,129
+2024-04-10,Falafel Sandwich,156
+2024-04-11,Falafel Sandwich,104
+2024-04-12,Falafel Sandwich,124
+2024-04-13,Falafel Sandwich,127
+2024-04-14,Falafel Sandwich,115
+2024-04-15,Falafel Sandwich,95
+2024-04-16,Falafel Sandwich,143
+2024-04-17,Falafel Sandwich,135
+2024-04-18,Falafel Sandwich,88
+2024-04-19,Falafel Sandwich,120
+2024-04-20,Falafel Sandwich,136
+2024-04-21,Falafel Sandwich,112
+2024-04-22,Falafel Sandwich,81
+2024-04-23,Falafel Sandwich,114
+2024-04-24,Falafel Sandwich,103
+2024-04-25,Falafel Sandwich,93
+2024-04-26,Falafel Sandwich,134
+2024-04-27,Falafel Sandwich,194
+2024-04-28,Falafel Sandwich,83
+2024-04-29,Falafel Sandwich,94
+2024-04-30,Falafel Sandwich,96
+2024-05-01,Falafel Sandwich,77
+2024-05-02,Falafel Sandwich,147
+2024-05-03,Falafel Sandwich,119
+2024-05-04,Falafel Sandwich,120
+2024-05-05,Falafel Sandwich,94
+2024-05-06,Falafel Sandwich,100
+2024-05-07,Falafel Sandwich,99
+2024-05-08,Falafel Sandwich,96
+2024-05-09,Falafel Sandwich,99
+2024-05-10,Falafel Sandwich,117
+2024-05-11,Falafel Sandwich,130
+2024-05-12,Falafel Sandwich,101
+2024-05-13,Falafel Sandwich,88
+2024-05-14,Falafel Sandwich,95
+2024-05-15,Falafel Sandwich,101
+2024-05-16,Falafel Sandwich,93
+2024-05-17,Falafel Sandwich,108
+2024-05-18,Falafel Sandwich,148
+2024-05-19,Falafel Sandwich,107
+2024-05-20,Falafel Sandwich,94
+2024-05-21,Falafel Sandwich,156
+2024-05-22,Falafel Sandwich,141
+2024-05-23,Falafel Sandwich,91
+2024-05-24,Falafel Sandwich,115
+2024-05-25,Falafel Sandwich,109
+2024-05-26,Falafel Sandwich,91
+2024-05-27,Falafel Sandwich,116
+2024-05-28,Falafel Sandwich,84
+2024-05-29,Falafel Sandwich,96
+2024-05-30,Falafel Sandwich,77
+2024-05-31,Falafel Sandwich,101
+2024-06-01,Falafel Sandwich,126
+2024-06-02,Falafel Sandwich,98
+2024-06-03,Falafel Sandwich,96
+2024-06-04,Falafel Sandwich,74
+2024-06-05,Falafel Sandwich,84
+2024-06-06,Falafel Sandwich,85
+2024-06-07,Falafel Sandwich,100
+2024-06-08,Falafel Sandwich,173
+2024-06-09,Falafel Sandwich,130
+2024-06-10,Falafel Sandwich,89
+2024-06-11,Falafel Sandwich,74
+2024-06-12,Falafel Sandwich,112
+2024-06-13,Falafel Sandwich,81
+2024-06-14,Falafel Sandwich,135
+2024-06-15,Falafel Sandwich,142
+2024-06-16,Falafel Sandwich,128
+2024-06-17,Falafel Sandwich,94
+2024-06-18,Falafel Sandwich,75
+2024-06-19,Falafel Sandwich,85
+2024-06-20,Falafel Sandwich,131
+2024-06-21,Falafel Sandwich,168
+2024-06-22,Falafel Sandwich,130
+2024-06-23,Falafel Sandwich,83
+2024-06-24,Falafel Sandwich,98
+2024-06-25,Falafel Sandwich,78
+2024-06-26,Falafel Sandwich,92
+2024-06-27,Falafel Sandwich,82
+2024-06-28,Falafel Sandwich,132
+2024-06-29,Falafel Sandwich,128
+2024-06-30,Falafel Sandwich,84
+2024-07-01,Falafel Sandwich,79
+2024-07-02,Falafel Sandwich,76
+2024-07-03,Falafel Sandwich,99
+2024-07-04,Falafel Sandwich,95
+2024-07-05,Falafel Sandwich,101
+2024-07-06,Falafel Sandwich,99
+2024-07-07,Falafel Sandwich,81
+2024-07-08,Falafel Sandwich,74
+2024-07-09,Falafel Sandwich,100
+2024-07-10,Falafel Sandwich,68
+2024-07-11,Falafel Sandwich,145
+2024-07-12,Falafel Sandwich,120
+2024-07-13,Falafel Sandwich,122
+2024-07-14,Falafel Sandwich,120
+2024-07-15,Falafel Sandwich,68
+2024-07-16,Falafel Sandwich,92
+2024-07-17,Falafel Sandwich,84
+2024-07-18,Falafel Sandwich,74
+2024-07-19,Falafel Sandwich,127
+2024-07-20,Falafel Sandwich,126
+2024-07-21,Falafel Sandwich,94
+2024-07-22,Falafel Sandwich,92
+2024-07-23,Falafel Sandwich,116
+2024-07-24,Falafel Sandwich,88
+2024-07-25,Falafel Sandwich,93
+2024-07-26,Falafel Sandwich,124
+2024-07-27,Falafel Sandwich,79
+2024-07-28,Falafel Sandwich,81
+2024-07-29,Falafel Sandwich,75
+2024-07-30,Falafel Sandwich,134
+2024-07-31,Falafel Sandwich,81
+2024-08-01,Falafel Sandwich,86
+2024-08-02,Falafel Sandwich,112
+2024-08-03,Falafel Sandwich,127
+2024-08-04,Falafel Sandwich,138
+2024-08-05,Falafel Sandwich,81
+2024-08-06,Falafel Sandwich,83
+2024-08-07,Falafel Sandwich,94
+2024-08-08,Falafel Sandwich,69
+2024-08-09,Falafel Sandwich,95
+2024-08-10,Falafel Sandwich,99
+2024-08-11,Falafel Sandwich,87
+2024-08-12,Falafel Sandwich,80
+2024-08-13,Falafel Sandwich,73
+2024-08-14,Falafel Sandwich,91
+2024-08-15,Falafel Sandwich,65
+2024-08-16,Falafel Sandwich,98
+2024-08-17,Falafel Sandwich,105
+2024-08-18,Falafel Sandwich,96
+2024-08-19,Falafel Sandwich,73
+2024-08-20,Falafel Sandwich,117
+2024-08-21,Falafel Sandwich,77
+2024-08-22,Falafel Sandwich,67
+2024-08-23,Falafel Sandwich,112
+2024-08-24,Falafel Sandwich,102
+2024-08-25,Falafel Sandwich,73
+2024-08-26,Falafel Sandwich,66
+2024-08-27,Falafel Sandwich,79
+2024-08-28,Falafel Sandwich,92
+2024-08-29,Falafel Sandwich,72
+2024-08-30,Falafel Sandwich,91
+2024-08-31,Falafel Sandwich,84
+2024-09-01,Falafel Sandwich,61
+2024-09-02,Falafel Sandwich,76
+2024-09-03,Falafel Sandwich,78
+2024-09-04,Falafel Sandwich,113
+2024-09-05,Falafel Sandwich,107
+2024-09-06,Falafel Sandwich,106
+2024-09-07,Falafel Sandwich,123
+2024-09-08,Falafel Sandwich,88
+2024-09-09,Falafel Sandwich,123
+2024-09-10,Falafel Sandwich,86
+2024-09-11,Falafel Sandwich,83
+2024-09-12,Falafel Sandwich,63
+2024-09-13,Falafel Sandwich,101
+2024-09-14,Falafel Sandwich,107
+2024-09-15,Falafel Sandwich,69
+2024-09-16,Falafel Sandwich,129
+2024-09-17,Falafel Sandwich,74
+2024-09-18,Falafel Sandwich,62
+2024-09-19,Falafel Sandwich,73
+2024-09-20,Falafel Sandwich,109
+2024-09-21,Falafel Sandwich,93
+2024-09-22,Falafel Sandwich,75
+2024-09-23,Falafel Sandwich,62
+2024-09-24,Falafel Sandwich,72
+2024-09-25,Falafel Sandwich,77
+2024-09-26,Falafel Sandwich,76
+2024-09-27,Falafel Sandwich,113
+2024-09-28,Falafel Sandwich,91
+2024-09-29,Falafel Sandwich,80
+2024-09-30,Falafel Sandwich,115
+2024-10-01,Falafel Sandwich,70
+2024-10-02,Falafel Sandwich,69
+2024-10-03,Falafel Sandwich,129
+2024-10-04,Falafel Sandwich,100
+2024-10-05,Falafel Sandwich,109
+2024-10-06,Falafel Sandwich,81
+2024-10-07,Falafel Sandwich,64
+2024-10-08,Falafel Sandwich,79
+2024-10-09,Falafel Sandwich,78
+2024-10-10,Falafel Sandwich,130
+2024-10-11,Falafel Sandwich,106
+2024-10-12,Falafel Sandwich,114
+2024-10-13,Falafel Sandwich,85
+2024-10-14,Falafel Sandwich,75
+2024-10-15,Falafel Sandwich,97
+2024-10-16,Falafel Sandwich,71
+2024-10-17,Falafel Sandwich,63
+2024-10-18,Falafel Sandwich,79
+2024-10-19,Falafel Sandwich,99
+2024-10-20,Falafel Sandwich,86
+2024-10-21,Falafel Sandwich,72
+2024-10-22,Falafel Sandwich,78
+2024-10-23,Falafel Sandwich,81
+2024-10-24,Falafel Sandwich,75
+2024-10-25,Falafel Sandwich,97
+2024-10-26,Falafel Sandwich,100
+2024-10-27,Falafel Sandwich,118
+2024-10-28,Falafel Sandwich,69
+2024-10-29,Falafel Sandwich,73
+2024-10-30,Falafel Sandwich,82
+2024-10-31,Falafel Sandwich,80
+2024-11-01,Falafel Sandwich,86
+2024-11-02,Falafel Sandwich,121
+2024-11-03,Falafel Sandwich,75
+2024-11-04,Falafel Sandwich,69
+2024-11-05,Falafel Sandwich,67
+2024-11-06,Falafel Sandwich,91
+2024-11-07,Falafel Sandwich,60
+2024-11-08,Falafel Sandwich,114
+2024-11-09,Falafel Sandwich,120
+2024-11-10,Falafel Sandwich,77
+2024-11-11,Falafel Sandwich,97
+2024-11-12,Falafel Sandwich,72
+2024-11-13,Falafel Sandwich,87
+2024-11-14,Falafel Sandwich,83
+2024-11-15,Falafel Sandwich,134
+2024-11-16,Falafel Sandwich,107
+2024-11-17,Falafel Sandwich,87
+2024-11-18,Falafel Sandwich,84
+2024-11-19,Falafel Sandwich,68
+2024-11-20,Falafel Sandwich,82
+2024-11-21,Falafel Sandwich,77
+2024-11-22,Falafel Sandwich,114
+2024-11-23,Falafel Sandwich,119
+2024-11-24,Falafel Sandwich,97
+2024-11-25,Falafel Sandwich,61
+2024-11-26,Falafel Sandwich,84
+2024-11-27,Falafel Sandwich,71
+2024-11-28,Falafel Sandwich,90
+2024-11-29,Falafel Sandwich,145
+2024-11-30,Falafel Sandwich,111
+2024-12-01,Falafel Sandwich,77
+2024-12-02,Falafel Sandwich,81
+2024-12-03,Falafel Sandwich,73
+2024-12-04,Falafel Sandwich,59
+2024-12-05,Falafel Sandwich,125
+2024-12-06,Falafel Sandwich,117
+2024-12-07,Falafel Sandwich,107
+2024-12-08,Falafel Sandwich,76
+2024-12-09,Falafel Sandwich,135
+2024-12-10,Falafel Sandwich,101
+2024-12-11,Falafel Sandwich,89
+2024-12-12,Falafel Sandwich,66
+2024-12-13,Falafel Sandwich,117
+2024-12-14,Falafel Sandwich,125
+2024-12-15,Falafel Sandwich,86
+2024-12-16,Falafel Sandwich,87
+2024-12-17,Falafel Sandwich,82
+2024-12-18,Falafel Sandwich,87
+2024-12-19,Falafel Sandwich,100
+2024-12-20,Falafel Sandwich,125
+2024-12-21,Falafel Sandwich,160
+2024-12-22,Falafel Sandwich,88
+2024-12-23,Falafel Sandwich,106
+2024-12-24,Falafel Sandwich,80
+2024-12-25,Falafel Sandwich,84
+2024-12-26,Falafel Sandwich,90
+2024-12-27,Falafel Sandwich,116
+2024-12-28,Falafel Sandwich,145
+2024-12-29,Falafel Sandwich,145
+2024-12-30,Falafel Sandwich,91
+2024-12-31,Falafel Sandwich,164
+2025-01-01,Falafel Sandwich,97
+2025-01-02,Falafel Sandwich,156
+2025-01-03,Falafel Sandwich,149
+2025-01-04,Falafel Sandwich,134
+2025-01-05,Falafel Sandwich,82
+2025-01-06,Falafel Sandwich,96
+2025-01-07,Falafel Sandwich,131
+2025-01-08,Falafel Sandwich,102
+2025-01-09,Falafel Sandwich,100
+2025-01-10,Falafel Sandwich,133
+2025-01-11,Falafel Sandwich,143
+2025-01-12,Falafel Sandwich,100
+2025-01-13,Falafel Sandwich,96
+2025-01-14,Falafel Sandwich,83
+2025-01-15,Falafel Sandwich,90
+2025-01-16,Falafel Sandwich,86
+2025-01-17,Falafel Sandwich,146
+2025-01-18,Falafel Sandwich,131
+2025-01-19,Falafel Sandwich,101
+2025-01-20,Falafel Sandwich,93
+2025-01-21,Falafel Sandwich,113
+2025-01-22,Falafel Sandwich,107
+2025-01-23,Falafel Sandwich,101
+2025-01-24,Falafel Sandwich,134
+2025-01-25,Falafel Sandwich,122
+2025-01-26,Falafel Sandwich,93
+2025-01-27,Falafel Sandwich,82
+2025-01-28,Falafel Sandwich,109
+2025-01-29,Falafel Sandwich,110
+2025-01-30,Falafel Sandwich,111
+2025-01-31,Falafel Sandwich,122
+2025-02-01,Falafel Sandwich,162
+2025-02-02,Falafel Sandwich,138
+2025-02-03,Falafel Sandwich,109
+2025-02-04,Falafel Sandwich,123
+2025-02-05,Falafel Sandwich,118
+2025-02-06,Falafel Sandwich,112
+2025-02-07,Falafel Sandwich,135
+2025-02-08,Falafel Sandwich,132
+2025-02-09,Falafel Sandwich,112
+2025-02-10,Falafel Sandwich,166
+2025-02-11,Falafel Sandwich,94
+2025-02-12,Falafel Sandwich,104
+2025-02-13,Falafel Sandwich,99
+2025-02-14,Falafel Sandwich,228
+2025-02-15,Falafel Sandwich,132
+2025-02-16,Falafel Sandwich,90
+2025-02-17,Falafel Sandwich,160
+2025-02-18,Falafel Sandwich,123
+2025-02-19,Falafel Sandwich,160
+2025-02-20,Falafel Sandwich,120
+2025-02-21,Falafel Sandwich,179
+2025-02-22,Falafel Sandwich,173
+2025-02-23,Falafel Sandwich,130
+2025-02-24,Falafel Sandwich,130
+2025-02-25,Falafel Sandwich,101
+2025-02-26,Falafel Sandwich,117
+2025-02-27,Falafel Sandwich,110
+2025-02-28,Falafel Sandwich,120
+2025-03-01,Falafel Sandwich,237
+2025-03-02,Falafel Sandwich,196
+2025-03-03,Falafel Sandwich,185
+2025-03-04,Falafel Sandwich,172
+2025-03-05,Falafel Sandwich,160
+2025-03-06,Falafel Sandwich,186
+2025-03-07,Falafel Sandwich,231
+2025-03-08,Falafel Sandwich,267
+2025-03-09,Falafel Sandwich,198
+2025-03-10,Falafel Sandwich,184
+2025-03-11,Falafel Sandwich,154
+2025-03-12,Falafel Sandwich,167
+2025-03-13,Falafel Sandwich,214
+2025-03-14,Falafel Sandwich,252
+2025-03-15,Falafel Sandwich,276
+2025-03-16,Falafel Sandwich,156
+2025-03-17,Falafel Sandwich,241
+2025-03-18,Falafel Sandwich,142
+2025-03-19,Falafel Sandwich,188
+2025-03-20,Falafel Sandwich,140
+2025-03-21,Falafel Sandwich,380
+2025-03-22,Falafel Sandwich,303
+2025-03-23,Falafel Sandwich,174
+2025-03-24,Falafel Sandwich,185
+2025-03-25,Falafel Sandwich,195
+2025-03-26,Falafel Sandwich,174
+2025-03-27,Falafel Sandwich,182
+2025-03-28,Falafel Sandwich,249
+2025-03-29,Falafel Sandwich,243
+2025-03-30,Falafel Sandwich,261
+2025-03-31,Falafel Sandwich,147
+2025-04-01,Falafel Sandwich,116
+2025-04-02,Falafel Sandwich,116
+2025-04-03,Falafel Sandwich,103
+2025-04-04,Falafel Sandwich,147
+2025-04-05,Falafel Sandwich,119
+2025-04-06,Falafel Sandwich,109
+2025-04-07,Falafel Sandwich,89
+2025-04-08,Falafel Sandwich,105
+2025-04-09,Falafel Sandwich,98
+2025-04-10,Falafel Sandwich,101
+2025-04-11,Falafel Sandwich,176
+2025-04-12,Falafel Sandwich,182
+2025-04-13,Falafel Sandwich,107
+2025-04-14,Falafel Sandwich,116
+2025-04-15,Falafel Sandwich,86
+2025-04-16,Falafel Sandwich,110
+2025-04-17,Falafel Sandwich,115
+2025-04-18,Falafel Sandwich,131
+2025-04-19,Falafel Sandwich,125
+2025-04-20,Falafel Sandwich,122
+2025-04-21,Falafel Sandwich,86
+2025-04-22,Falafel Sandwich,106
+2025-04-23,Falafel Sandwich,134
+2025-04-24,Falafel Sandwich,80
+2025-04-25,Falafel Sandwich,171
+2025-04-26,Falafel Sandwich,162
+2025-04-27,Falafel Sandwich,127
+2025-04-28,Falafel Sandwich,113
+2025-04-29,Falafel Sandwich,95
+2025-04-30,Falafel Sandwich,104
+2025-05-01,Falafel Sandwich,67
+2025-05-02,Falafel Sandwich,123
+2025-05-03,Falafel Sandwich,145
+2025-05-04,Falafel Sandwich,125
+2025-05-05,Falafel Sandwich,104
+2025-05-06,Falafel Sandwich,115
+2025-05-07,Falafel Sandwich,114
+2025-05-08,Falafel Sandwich,94
+2025-05-09,Falafel Sandwich,127
+2025-05-10,Falafel Sandwich,160
+2025-05-11,Falafel Sandwich,98
+2025-05-12,Falafel Sandwich,115
+2025-05-13,Falafel Sandwich,98
+2025-05-14,Falafel Sandwich,100
+2025-05-15,Falafel Sandwich,114
+2025-05-16,Falafel Sandwich,144
+2025-05-17,Falafel Sandwich,141
+2025-05-18,Falafel Sandwich,96
+2025-05-19,Falafel Sandwich,110
+2025-05-20,Falafel Sandwich,98
+2025-05-21,Falafel Sandwich,115
+2025-05-22,Falafel Sandwich,96
+2025-05-23,Falafel Sandwich,140
+2025-05-24,Falafel Sandwich,155
+2025-05-25,Falafel Sandwich,156
+2025-05-26,Falafel Sandwich,113
+2025-05-27,Falafel Sandwich,106
+2025-05-28,Falafel Sandwich,92
+2025-05-29,Falafel Sandwich,118
+2025-05-30,Falafel Sandwich,202
+2025-05-31,Falafel Sandwich,133
+2025-06-01,Falafel Sandwich,97
+2025-06-02,Falafel Sandwich,127
+2025-06-03,Falafel Sandwich,104
+2025-06-04,Falafel Sandwich,131
+2025-06-05,Falafel Sandwich,88
+2025-06-06,Falafel Sandwich,163
+2025-06-07,Falafel Sandwich,136
+2025-06-08,Falafel Sandwich,137
+2025-06-09,Falafel Sandwich,91
+2025-06-10,Falafel Sandwich,105
+2025-06-11,Falafel Sandwich,116
+2025-06-12,Falafel Sandwich,147
+2025-06-13,Falafel Sandwich,132
+2025-06-14,Falafel Sandwich,114
+2025-06-15,Falafel Sandwich,140
+2025-06-16,Falafel Sandwich,107
+2025-06-17,Falafel Sandwich,92
+2025-06-18,Falafel Sandwich,118
+2025-06-19,Falafel Sandwich,97
+2025-06-20,Falafel Sandwich,144
+2025-06-21,Falafel Sandwich,131
+2025-06-22,Falafel Sandwich,112
+2025-06-23,Falafel Sandwich,104
+2024-01-01,Fresh Juice,70
+2024-01-02,Fresh Juice,70
+2024-01-03,Fresh Juice,85
+2024-01-04,Fresh Juice,92
+2024-01-05,Fresh Juice,85
+2024-01-06,Fresh Juice,117
+2024-01-07,Fresh Juice,105
+2024-01-08,Fresh Juice,61
+2024-01-09,Fresh Juice,78
+2024-01-10,Fresh Juice,61
+2024-01-11,Fresh Juice,70
+2024-01-12,Fresh Juice,93
+2024-01-13,Fresh Juice,98
+2024-01-14,Fresh Juice,61
+2024-01-15,Fresh Juice,83
+2024-01-16,Fresh Juice,79
+2024-01-17,Fresh Juice,83
+2024-01-18,Fresh Juice,84
+2024-01-19,Fresh Juice,112
+2024-01-20,Fresh Juice,92
+2024-01-21,Fresh Juice,94
+2024-01-22,Fresh Juice,66
+2024-01-23,Fresh Juice,60
+2024-01-24,Fresh Juice,70
+2024-01-25,Fresh Juice,56
+2024-01-26,Fresh Juice,80
+2024-01-27,Fresh Juice,94
+2024-01-28,Fresh Juice,70
+2024-01-29,Fresh Juice,59
+2024-01-30,Fresh Juice,87
+2024-01-31,Fresh Juice,72
+2024-02-01,Fresh Juice,73
+2024-02-02,Fresh Juice,98
+2024-02-03,Fresh Juice,103
+2024-02-04,Fresh Juice,93
+2024-02-05,Fresh Juice,82
+2024-02-06,Fresh Juice,77
+2024-02-07,Fresh Juice,67
+2024-02-08,Fresh Juice,98
+2024-02-09,Fresh Juice,100
+2024-02-10,Fresh Juice,99
+2024-02-11,Fresh Juice,83
+2024-02-12,Fresh Juice,62
+2024-02-13,Fresh Juice,86
+2024-02-14,Fresh Juice,76
+2024-02-15,Fresh Juice,67
+2024-02-16,Fresh Juice,107
+2024-02-17,Fresh Juice,103
+2024-02-18,Fresh Juice,72
+2024-02-19,Fresh Juice,103
+2024-02-20,Fresh Juice,75
+2024-02-21,Fresh Juice,89
+2024-02-22,Fresh Juice,96
+2024-02-23,Fresh Juice,109
+2024-02-24,Fresh Juice,167
+2024-02-25,Fresh Juice,87
+2024-02-26,Fresh Juice,90
+2024-02-27,Fresh Juice,79
+2024-02-28,Fresh Juice,88
+2024-02-29,Fresh Juice,84
+2024-03-01,Fresh Juice,99
+2024-03-02,Fresh Juice,119
+2024-03-03,Fresh Juice,75
+2024-03-04,Fresh Juice,97
+2024-03-05,Fresh Juice,74
+2024-03-06,Fresh Juice,76
+2024-03-07,Fresh Juice,60
+2024-03-08,Fresh Juice,99
+2024-03-09,Fresh Juice,133
+2024-03-10,Fresh Juice,98
+2024-03-11,Fresh Juice,132
+2024-03-12,Fresh Juice,121
+2024-03-13,Fresh Juice,136
+2024-03-14,Fresh Juice,119
+2024-03-15,Fresh Juice,170
+2024-03-16,Fresh Juice,191
+2024-03-17,Fresh Juice,126
+2024-03-18,Fresh Juice,133
+2024-03-19,Fresh Juice,142
+2024-03-20,Fresh Juice,143
+2024-03-21,Fresh Juice,125
+2024-03-22,Fresh Juice,165
+2024-03-23,Fresh Juice,193
+2024-03-24,Fresh Juice,132
+2024-03-25,Fresh Juice,145
+2024-03-26,Fresh Juice,122
+2024-03-27,Fresh Juice,127
+2024-03-28,Fresh Juice,147
+2024-03-29,Fresh Juice,170
+2024-03-30,Fresh Juice,108
+2024-03-31,Fresh Juice,146
+2024-04-01,Fresh Juice,195
+2024-04-02,Fresh Juice,126
+2024-04-03,Fresh Juice,162
+2024-04-04,Fresh Juice,117
+2024-04-05,Fresh Juice,182
+2024-04-06,Fresh Juice,179
+2024-04-07,Fresh Juice,107
+2024-04-08,Fresh Juice,130
+2024-04-09,Fresh Juice,153
+2024-04-10,Fresh Juice,171
+2024-04-11,Fresh Juice,81
+2024-04-12,Fresh Juice,131
+2024-04-13,Fresh Juice,96
+2024-04-14,Fresh Juice,94
+2024-04-15,Fresh Juice,65
+2024-04-16,Fresh Juice,94
+2024-04-17,Fresh Juice,71
+2024-04-18,Fresh Juice,76
+2024-04-19,Fresh Juice,96
+2024-04-20,Fresh Juice,123
+2024-04-21,Fresh Juice,118
+2024-04-22,Fresh Juice,92
+2024-04-23,Fresh Juice,120
+2024-04-24,Fresh Juice,80
+2024-04-25,Fresh Juice,90
+2024-04-26,Fresh Juice,163
+2024-04-27,Fresh Juice,115
+2024-04-28,Fresh Juice,79
+2024-04-29,Fresh Juice,83
+2024-04-30,Fresh Juice,81
+2024-05-01,Fresh Juice,112
+2024-05-02,Fresh Juice,85
+2024-05-03,Fresh Juice,145
+2024-05-04,Fresh Juice,103
+2024-05-05,Fresh Juice,100
+2024-05-06,Fresh Juice,90
+2024-05-07,Fresh Juice,81
+2024-05-08,Fresh Juice,72
+2024-05-09,Fresh Juice,68
+2024-05-10,Fresh Juice,105
+2024-05-11,Fresh Juice,111
+2024-05-12,Fresh Juice,94
+2024-05-13,Fresh Juice,92
+2024-05-14,Fresh Juice,80
+2024-05-15,Fresh Juice,78
+2024-05-16,Fresh Juice,80
+2024-05-17,Fresh Juice,111
+2024-05-18,Fresh Juice,101
+2024-05-19,Fresh Juice,83
+2024-05-20,Fresh Juice,83
+2024-05-21,Fresh Juice,83
+2024-05-22,Fresh Juice,96
+2024-05-23,Fresh Juice,95
+2024-05-24,Fresh Juice,116
+2024-05-25,Fresh Juice,114
+2024-05-26,Fresh Juice,103
+2024-05-27,Fresh Juice,55
+2024-05-28,Fresh Juice,91
+2024-05-29,Fresh Juice,148
+2024-05-30,Fresh Juice,78
+2024-05-31,Fresh Juice,113
+2024-06-01,Fresh Juice,108
+2024-06-02,Fresh Juice,83
+2024-06-03,Fresh Juice,90
+2024-06-04,Fresh Juice,96
+2024-06-05,Fresh Juice,78
+2024-06-06,Fresh Juice,88
+2024-06-07,Fresh Juice,121
+2024-06-08,Fresh Juice,104
+2024-06-09,Fresh Juice,83
+2024-06-10,Fresh Juice,84
+2024-06-11,Fresh Juice,64
+2024-06-12,Fresh Juice,84
+2024-06-13,Fresh Juice,85
+2024-06-14,Fresh Juice,116
+2024-06-15,Fresh Juice,110
+2024-06-16,Fresh Juice,133
+2024-06-17,Fresh Juice,52
+2024-06-18,Fresh Juice,124
+2024-06-19,Fresh Juice,87
+2024-06-20,Fresh Juice,94
+2024-06-21,Fresh Juice,85
+2024-06-22,Fresh Juice,158
+2024-06-23,Fresh Juice,59
+2024-06-24,Fresh Juice,83
+2024-06-25,Fresh Juice,88
+2024-06-26,Fresh Juice,70
+2024-06-27,Fresh Juice,74
+2024-06-28,Fresh Juice,104
+2024-06-29,Fresh Juice,84
+2024-06-30,Fresh Juice,81
+2024-07-01,Fresh Juice,59
+2024-07-02,Fresh Juice,74
+2024-07-03,Fresh Juice,92
+2024-07-04,Fresh Juice,77
+2024-07-05,Fresh Juice,86
+2024-07-06,Fresh Juice,89
+2024-07-07,Fresh Juice,60
+2024-07-08,Fresh Juice,80
+2024-07-09,Fresh Juice,63
+2024-07-10,Fresh Juice,82
+2024-07-11,Fresh Juice,76
+2024-07-12,Fresh Juice,77
+2024-07-13,Fresh Juice,78
+2024-07-14,Fresh Juice,66
+2024-07-15,Fresh Juice,72
+2024-07-16,Fresh Juice,85
+2024-07-17,Fresh Juice,78
+2024-07-18,Fresh Juice,79
+2024-07-19,Fresh Juice,95
+2024-07-20,Fresh Juice,111
+2024-07-21,Fresh Juice,78
+2024-07-22,Fresh Juice,73
+2024-07-23,Fresh Juice,101
+2024-07-24,Fresh Juice,73
+2024-07-25,Fresh Juice,66
+2024-07-26,Fresh Juice,89
+2024-07-27,Fresh Juice,102
+2024-07-28,Fresh Juice,76
+2024-07-29,Fresh Juice,57
+2024-07-30,Fresh Juice,69
+2024-07-31,Fresh Juice,94
+2024-08-01,Fresh Juice,84
+2024-08-02,Fresh Juice,105
+2024-08-03,Fresh Juice,104
+2024-08-04,Fresh Juice,66
+2024-08-05,Fresh Juice,61
+2024-08-06,Fresh Juice,64
+2024-08-07,Fresh Juice,80
+2024-08-08,Fresh Juice,60
+2024-08-09,Fresh Juice,164
+2024-08-10,Fresh Juice,96
+2024-08-11,Fresh Juice,86
+2024-08-12,Fresh Juice,80
+2024-08-13,Fresh Juice,54
+2024-08-14,Fresh Juice,64
+2024-08-15,Fresh Juice,73
+2024-08-16,Fresh Juice,87
+2024-08-17,Fresh Juice,100
+2024-08-18,Fresh Juice,90
+2024-08-19,Fresh Juice,83
+2024-08-20,Fresh Juice,89
+2024-08-21,Fresh Juice,64
+2024-08-22,Fresh Juice,86
+2024-08-23,Fresh Juice,88
+2024-08-24,Fresh Juice,91
+2024-08-25,Fresh Juice,72
+2024-08-26,Fresh Juice,69
+2024-08-27,Fresh Juice,82
+2024-08-28,Fresh Juice,84
+2024-08-29,Fresh Juice,73
+2024-08-30,Fresh Juice,76
+2024-08-31,Fresh Juice,110
+2024-09-01,Fresh Juice,82
+2024-09-02,Fresh Juice,68
+2024-09-03,Fresh Juice,54
+2024-09-04,Fresh Juice,54
+2024-09-05,Fresh Juice,58
+2024-09-06,Fresh Juice,91
+2024-09-07,Fresh Juice,109
+2024-09-08,Fresh Juice,76
+2024-09-09,Fresh Juice,77
+2024-09-10,Fresh Juice,72
+2024-09-11,Fresh Juice,70
+2024-09-12,Fresh Juice,69
+2024-09-13,Fresh Juice,80
+2024-09-14,Fresh Juice,80
+2024-09-15,Fresh Juice,92
+2024-09-16,Fresh Juice,64
+2024-09-17,Fresh Juice,69
+2024-09-18,Fresh Juice,109
+2024-09-19,Fresh Juice,59
+2024-09-20,Fresh Juice,88
+2024-09-21,Fresh Juice,101
+2024-09-22,Fresh Juice,104
+2024-09-23,Fresh Juice,70
+2024-09-24,Fresh Juice,70
+2024-09-25,Fresh Juice,68
+2024-09-26,Fresh Juice,69
+2024-09-27,Fresh Juice,113
+2024-09-28,Fresh Juice,77
+2024-09-29,Fresh Juice,67
+2024-09-30,Fresh Juice,60
+2024-10-01,Fresh Juice,74
+2024-10-02,Fresh Juice,68
+2024-10-03,Fresh Juice,90
+2024-10-04,Fresh Juice,90
+2024-10-05,Fresh Juice,100
+2024-10-06,Fresh Juice,87
+2024-10-07,Fresh Juice,66
+2024-10-08,Fresh Juice,73
+2024-10-09,Fresh Juice,66
+2024-10-10,Fresh Juice,81
+2024-10-11,Fresh Juice,110
+2024-10-12,Fresh Juice,88
+2024-10-13,Fresh Juice,95
+2024-10-14,Fresh Juice,60
+2024-10-15,Fresh Juice,77
+2024-10-16,Fresh Juice,77
+2024-10-17,Fresh Juice,68
+2024-10-18,Fresh Juice,101
+2024-10-19,Fresh Juice,90
+2024-10-20,Fresh Juice,68
+2024-10-21,Fresh Juice,77
+2024-10-22,Fresh Juice,62
+2024-10-23,Fresh Juice,73
+2024-10-24,Fresh Juice,64
+2024-10-25,Fresh Juice,115
+2024-10-26,Fresh Juice,94
+2024-10-27,Fresh Juice,69
+2024-10-28,Fresh Juice,68
+2024-10-29,Fresh Juice,61
+2024-10-30,Fresh Juice,60
+2024-10-31,Fresh Juice,82
+2024-11-01,Fresh Juice,85
+2024-11-02,Fresh Juice,89
+2024-11-03,Fresh Juice,98
+2024-11-04,Fresh Juice,71
+2024-11-05,Fresh Juice,72
+2024-11-06,Fresh Juice,76
+2024-11-07,Fresh Juice,83
+2024-11-08,Fresh Juice,96
+2024-11-09,Fresh Juice,78
+2024-11-10,Fresh Juice,76
+2024-11-11,Fresh Juice,72
+2024-11-12,Fresh Juice,69
+2024-11-13,Fresh Juice,67
+2024-11-14,Fresh Juice,86
+2024-11-15,Fresh Juice,97
+2024-11-16,Fresh Juice,88
+2024-11-17,Fresh Juice,77
+2024-11-18,Fresh Juice,84
+2024-11-19,Fresh Juice,64
+2024-11-20,Fresh Juice,85
+2024-11-21,Fresh Juice,62
+2024-11-22,Fresh Juice,102
+2024-11-23,Fresh Juice,110
+2024-11-24,Fresh Juice,68
+2024-11-25,Fresh Juice,64
+2024-11-26,Fresh Juice,71
+2024-11-27,Fresh Juice,88
+2024-11-28,Fresh Juice,79
+2024-11-29,Fresh Juice,86
+2024-11-30,Fresh Juice,125
+2024-12-01,Fresh Juice,71
+2024-12-02,Fresh Juice,78
+2024-12-03,Fresh Juice,83
+2024-12-04,Fresh Juice,83
+2024-12-05,Fresh Juice,73
+2024-12-06,Fresh Juice,153
+2024-12-07,Fresh Juice,108
+2024-12-08,Fresh Juice,78
+2024-12-09,Fresh Juice,95
+2024-12-10,Fresh Juice,71
+2024-12-11,Fresh Juice,69
+2024-12-12,Fresh Juice,83
+2024-12-13,Fresh Juice,112
+2024-12-14,Fresh Juice,115
+2024-12-15,Fresh Juice,68
+2024-12-16,Fresh Juice,85
+2024-12-17,Fresh Juice,62
+2024-12-18,Fresh Juice,76
+2024-12-19,Fresh Juice,63
+2024-12-20,Fresh Juice,97
+2024-12-21,Fresh Juice,176
+2024-12-22,Fresh Juice,100
+2024-12-23,Fresh Juice,71
+2024-12-24,Fresh Juice,85
+2024-12-25,Fresh Juice,63
+2024-12-26,Fresh Juice,67
+2024-12-27,Fresh Juice,103
+2024-12-28,Fresh Juice,93
+2024-12-29,Fresh Juice,82
+2024-12-30,Fresh Juice,81
+2024-12-31,Fresh Juice,101
+2025-01-01,Fresh Juice,84
+2025-01-02,Fresh Juice,65
+2025-01-03,Fresh Juice,141
+2025-01-04,Fresh Juice,129
+2025-01-05,Fresh Juice,76
+2025-01-06,Fresh Juice,93
+2025-01-07,Fresh Juice,131
+2025-01-08,Fresh Juice,88
+2025-01-09,Fresh Juice,74
+2025-01-10,Fresh Juice,99
+2025-01-11,Fresh Juice,103
+2025-01-12,Fresh Juice,90
+2025-01-13,Fresh Juice,80
+2025-01-14,Fresh Juice,86
+2025-01-15,Fresh Juice,76
+2025-01-16,Fresh Juice,98
+2025-01-17,Fresh Juice,102
+2025-01-18,Fresh Juice,121
+2025-01-19,Fresh Juice,79
+2025-01-20,Fresh Juice,72
+2025-01-21,Fresh Juice,100
+2025-01-22,Fresh Juice,106
+2025-01-23,Fresh Juice,102
+2025-01-24,Fresh Juice,117
+2025-01-25,Fresh Juice,119
+2025-01-26,Fresh Juice,98
+2025-01-27,Fresh Juice,96
+2025-01-28,Fresh Juice,92
+2025-01-29,Fresh Juice,85
+2025-01-30,Fresh Juice,96
+2025-01-31,Fresh Juice,132
+2025-02-01,Fresh Juice,99
+2025-02-02,Fresh Juice,90
+2025-02-03,Fresh Juice,91
+2025-02-04,Fresh Juice,95
+2025-02-05,Fresh Juice,79
+2025-02-06,Fresh Juice,97
+2025-02-07,Fresh Juice,121
+2025-02-08,Fresh Juice,129
+2025-02-09,Fresh Juice,109
+2025-02-10,Fresh Juice,82
+2025-02-11,Fresh Juice,91
+2025-02-12,Fresh Juice,93
+2025-02-13,Fresh Juice,78
+2025-02-14,Fresh Juice,193
+2025-02-15,Fresh Juice,147
+2025-02-16,Fresh Juice,95
+2025-02-17,Fresh Juice,112
+2025-02-18,Fresh Juice,100
+2025-02-19,Fresh Juice,95
+2025-02-20,Fresh Juice,146
+2025-02-21,Fresh Juice,124
+2025-02-22,Fresh Juice,123
+2025-02-23,Fresh Juice,100
+2025-02-24,Fresh Juice,117
+2025-02-25,Fresh Juice,84
+2025-02-26,Fresh Juice,112
+2025-02-27,Fresh Juice,98
+2025-02-28,Fresh Juice,96
+2025-03-01,Fresh Juice,195
+2025-03-02,Fresh Juice,151
+2025-03-03,Fresh Juice,142
+2025-03-04,Fresh Juice,177
+2025-03-05,Fresh Juice,176
+2025-03-06,Fresh Juice,188
+2025-03-07,Fresh Juice,207
+2025-03-08,Fresh Juice,212
+2025-03-09,Fresh Juice,144
+2025-03-10,Fresh Juice,174
+2025-03-11,Fresh Juice,125
+2025-03-12,Fresh Juice,147
+2025-03-13,Fresh Juice,176
+2025-03-14,Fresh Juice,286
+2025-03-15,Fresh Juice,195
+2025-03-16,Fresh Juice,141
+2025-03-17,Fresh Juice,138
+2025-03-18,Fresh Juice,145
+2025-03-19,Fresh Juice,164
+2025-03-20,Fresh Juice,156
+2025-03-21,Fresh Juice,246
+2025-03-22,Fresh Juice,172
+2025-03-23,Fresh Juice,143
+2025-03-24,Fresh Juice,133
+2025-03-25,Fresh Juice,142
+2025-03-26,Fresh Juice,202
+2025-03-27,Fresh Juice,231
+2025-03-28,Fresh Juice,227
+2025-03-29,Fresh Juice,225
+2025-03-30,Fresh Juice,259
+2025-03-31,Fresh Juice,110
+2025-04-01,Fresh Juice,102
+2025-04-02,Fresh Juice,107
+2025-04-03,Fresh Juice,95
+2025-04-04,Fresh Juice,155
+2025-04-05,Fresh Juice,121
+2025-04-06,Fresh Juice,114
+2025-04-07,Fresh Juice,85
+2025-04-08,Fresh Juice,93
+2025-04-09,Fresh Juice,83
+2025-04-10,Fresh Juice,109
+2025-04-11,Fresh Juice,131
+2025-04-12,Fresh Juice,177
+2025-04-13,Fresh Juice,74
+2025-04-14,Fresh Juice,98
+2025-04-15,Fresh Juice,111
+2025-04-16,Fresh Juice,106
+2025-04-17,Fresh Juice,90
+2025-04-18,Fresh Juice,117
+2025-04-19,Fresh Juice,133
+2025-04-20,Fresh Juice,80
+2025-04-21,Fresh Juice,104
+2025-04-22,Fresh Juice,84
+2025-04-23,Fresh Juice,87
+2025-04-24,Fresh Juice,122
+2025-04-25,Fresh Juice,143
+2025-04-26,Fresh Juice,116
+2025-04-27,Fresh Juice,87
+2025-04-28,Fresh Juice,115
+2025-04-29,Fresh Juice,104
+2025-04-30,Fresh Juice,138
+2025-05-01,Fresh Juice,98
+2025-05-02,Fresh Juice,138
+2025-05-03,Fresh Juice,134
+2025-05-04,Fresh Juice,112
+2025-05-05,Fresh Juice,87
+2025-05-06,Fresh Juice,79
+2025-05-07,Fresh Juice,73
+2025-05-08,Fresh Juice,83
+2025-05-09,Fresh Juice,106
+2025-05-10,Fresh Juice,134
+2025-05-11,Fresh Juice,103
+2025-05-12,Fresh Juice,103
+2025-05-13,Fresh Juice,89
+2025-05-14,Fresh Juice,109
+2025-05-15,Fresh Juice,101
+2025-05-16,Fresh Juice,118
+2025-05-17,Fresh Juice,122
+2025-05-18,Fresh Juice,102
+2025-05-19,Fresh Juice,78
+2025-05-20,Fresh Juice,95
+2025-05-21,Fresh Juice,106
+2025-05-22,Fresh Juice,103
+2025-05-23,Fresh Juice,118
+2025-05-24,Fresh Juice,134
+2025-05-25,Fresh Juice,88
+2025-05-26,Fresh Juice,88
+2025-05-27,Fresh Juice,92
+2025-05-28,Fresh Juice,113
+2025-05-29,Fresh Juice,112
+2025-05-30,Fresh Juice,196
+2025-05-31,Fresh Juice,109
+2025-06-01,Fresh Juice,103
+2025-06-02,Fresh Juice,91
+2025-06-03,Fresh Juice,99
+2025-06-04,Fresh Juice,85
+2025-06-05,Fresh Juice,100
+2025-06-06,Fresh Juice,136
+2025-06-07,Fresh Juice,127
+2025-06-08,Fresh Juice,99
+2025-06-09,Fresh Juice,78
+2025-06-10,Fresh Juice,98
+2025-06-11,Fresh Juice,84
+2025-06-12,Fresh Juice,106
+2025-06-13,Fresh Juice,118
+2025-06-14,Fresh Juice,100
+2025-06-15,Fresh Juice,105
+2025-06-16,Fresh Juice,91
+2025-06-17,Fresh Juice,98
+2025-06-18,Fresh Juice,90
+2025-06-19,Fresh Juice,104
+2025-06-20,Fresh Juice,116
+2025-06-21,Fresh Juice,121
+2025-06-22,Fresh Juice,98
+2025-06-23,Fresh Juice,91
+2024-01-01,Grilled Chicken,39
+2024-01-02,Grilled Chicken,47
+2024-01-03,Grilled Chicken,66
+2024-01-04,Grilled Chicken,51
+2024-01-05,Grilled Chicken,80
+2024-01-06,Grilled Chicken,58
+2024-01-07,Grilled Chicken,47
+2024-01-08,Grilled Chicken,51
+2024-01-09,Grilled Chicken,44
+2024-01-10,Grilled Chicken,42
+2024-01-11,Grilled Chicken,43
+2024-01-12,Grilled Chicken,67
+2024-01-13,Grilled Chicken,64
+2024-01-14,Grilled Chicken,44
+2024-01-15,Grilled Chicken,61
+2024-01-16,Grilled Chicken,52
+2024-01-17,Grilled Chicken,41
+2024-01-18,Grilled Chicken,46
+2024-01-19,Grilled Chicken,87
+2024-01-20,Grilled Chicken,67
+2024-01-21,Grilled Chicken,64
+2024-01-22,Grilled Chicken,55
+2024-01-23,Grilled Chicken,49
+2024-01-24,Grilled Chicken,53
+2024-01-25,Grilled Chicken,42
+2024-01-26,Grilled Chicken,53
+2024-01-27,Grilled Chicken,55
+2024-01-28,Grilled Chicken,43
+2024-01-29,Grilled Chicken,52
+2024-01-30,Grilled Chicken,54
+2024-01-31,Grilled Chicken,48
+2024-02-01,Grilled Chicken,45
+2024-02-02,Grilled Chicken,54
+2024-02-03,Grilled Chicken,106
+2024-02-04,Grilled Chicken,57
+2024-02-05,Grilled Chicken,44
+2024-02-06,Grilled Chicken,44
+2024-02-07,Grilled Chicken,49
+2024-02-08,Grilled Chicken,59
+2024-02-09,Grilled Chicken,70
+2024-02-10,Grilled Chicken,65
+2024-02-11,Grilled Chicken,50
+2024-02-12,Grilled Chicken,59
+2024-02-13,Grilled Chicken,57
+2024-02-14,Grilled Chicken,47
+2024-02-15,Grilled Chicken,42
+2024-02-16,Grilled Chicken,67
+2024-02-17,Grilled Chicken,65
+2024-02-18,Grilled Chicken,54
+2024-02-19,Grilled Chicken,58
+2024-02-20,Grilled Chicken,60
+2024-02-21,Grilled Chicken,52
+2024-02-22,Grilled Chicken,50
+2024-02-23,Grilled Chicken,67
+2024-02-24,Grilled Chicken,48
+2024-02-25,Grilled Chicken,54
+2024-02-26,Grilled Chicken,55
+2024-02-27,Grilled Chicken,51
+2024-02-28,Grilled Chicken,46
+2024-02-29,Grilled Chicken,61
+2024-03-01,Grilled Chicken,70
+2024-03-02,Grilled Chicken,56
+2024-03-03,Grilled Chicken,53
+2024-03-04,Grilled Chicken,50
+2024-03-05,Grilled Chicken,78
+2024-03-06,Grilled Chicken,51
+2024-03-07,Grilled Chicken,55
+2024-03-08,Grilled Chicken,71
+2024-03-09,Grilled Chicken,65
+2024-03-10,Grilled Chicken,58
+2024-03-11,Grilled Chicken,99
+2024-03-12,Grilled Chicken,99
+2024-03-13,Grilled Chicken,80
+2024-03-14,Grilled Chicken,94
+2024-03-15,Grilled Chicken,194
+2024-03-16,Grilled Chicken,178
+2024-03-17,Grilled Chicken,92
+2024-03-18,Grilled Chicken,73
+2024-03-19,Grilled Chicken,92
+2024-03-20,Grilled Chicken,84
+2024-03-21,Grilled Chicken,82
+2024-03-22,Grilled Chicken,123
+2024-03-23,Grilled Chicken,135
+2024-03-24,Grilled Chicken,112
+2024-03-25,Grilled Chicken,71
+2024-03-26,Grilled Chicken,98
+2024-03-27,Grilled Chicken,92
+2024-03-28,Grilled Chicken,99
+2024-03-29,Grilled Chicken,119
+2024-03-30,Grilled Chicken,180
+2024-03-31,Grilled Chicken,88
+2024-04-01,Grilled Chicken,74
+2024-04-02,Grilled Chicken,94
+2024-04-03,Grilled Chicken,76
+2024-04-04,Grilled Chicken,94
+2024-04-05,Grilled Chicken,134
+2024-04-06,Grilled Chicken,105
+2024-04-07,Grilled Chicken,88
+2024-04-08,Grilled Chicken,96
+2024-04-09,Grilled Chicken,84
+2024-04-10,Grilled Chicken,108
+2024-04-11,Grilled Chicken,55
+2024-04-12,Grilled Chicken,65
+2024-04-13,Grilled Chicken,114
+2024-04-14,Grilled Chicken,53
+2024-04-15,Grilled Chicken,59
+2024-04-16,Grilled Chicken,51
+2024-04-17,Grilled Chicken,59
+2024-04-18,Grilled Chicken,48
+2024-04-19,Grilled Chicken,68
+2024-04-20,Grilled Chicken,78
+2024-04-21,Grilled Chicken,65
+2024-04-22,Grilled Chicken,61
+2024-04-23,Grilled Chicken,54
+2024-04-24,Grilled Chicken,48
+2024-04-25,Grilled Chicken,63
+2024-04-26,Grilled Chicken,75
+2024-04-27,Grilled Chicken,75
+2024-04-28,Grilled Chicken,63
+2024-04-29,Grilled Chicken,54
+2024-04-30,Grilled Chicken,55
+2024-05-01,Grilled Chicken,55
+2024-05-02,Grilled Chicken,55
+2024-05-03,Grilled Chicken,91
+2024-05-04,Grilled Chicken,57
+2024-05-05,Grilled Chicken,56
+2024-05-06,Grilled Chicken,67
+2024-05-07,Grilled Chicken,51
+2024-05-08,Grilled Chicken,57
+2024-05-09,Grilled Chicken,45
+2024-05-10,Grilled Chicken,130
+2024-05-11,Grilled Chicken,88
+2024-05-12,Grilled Chicken,53
+2024-05-13,Grilled Chicken,56
+2024-05-14,Grilled Chicken,50
+2024-05-15,Grilled Chicken,59
+2024-05-16,Grilled Chicken,67
+2024-05-17,Grilled Chicken,86
+2024-05-18,Grilled Chicken,74
+2024-05-19,Grilled Chicken,43
+2024-05-20,Grilled Chicken,55
+2024-05-21,Grilled Chicken,63
+2024-05-22,Grilled Chicken,48
+2024-05-23,Grilled Chicken,44
+2024-05-24,Grilled Chicken,96
+2024-05-25,Grilled Chicken,87
+2024-05-26,Grilled Chicken,44
+2024-05-27,Grilled Chicken,52
+2024-05-28,Grilled Chicken,62
+2024-05-29,Grilled Chicken,84
+2024-05-30,Grilled Chicken,52
+2024-05-31,Grilled Chicken,90
+2024-06-01,Grilled Chicken,68
+2024-06-02,Grilled Chicken,52
+2024-06-03,Grilled Chicken,40
+2024-06-04,Grilled Chicken,59
+2024-06-05,Grilled Chicken,56
+2024-06-06,Grilled Chicken,52
+2024-06-07,Grilled Chicken,65
+2024-06-08,Grilled Chicken,71
+2024-06-09,Grilled Chicken,47
+2024-06-10,Grilled Chicken,49
+2024-06-11,Grilled Chicken,53
+2024-06-12,Grilled Chicken,54
+2024-06-13,Grilled Chicken,54
+2024-06-14,Grilled Chicken,62
+2024-06-15,Grilled Chicken,54
+2024-06-16,Grilled Chicken,65
+2024-06-17,Grilled Chicken,60
+2024-06-18,Grilled Chicken,48
+2024-06-19,Grilled Chicken,50
+2024-06-20,Grilled Chicken,56
+2024-06-21,Grilled Chicken,65
+2024-06-22,Grilled Chicken,104
+2024-06-23,Grilled Chicken,48
+2024-06-24,Grilled Chicken,46
+2024-06-25,Grilled Chicken,61
+2024-06-26,Grilled Chicken,56
+2024-06-27,Grilled Chicken,56
+2024-06-28,Grilled Chicken,57
+2024-06-29,Grilled Chicken,61
+2024-06-30,Grilled Chicken,49
+2024-07-01,Grilled Chicken,47
+2024-07-02,Grilled Chicken,53
+2024-07-03,Grilled Chicken,52
+2024-07-04,Grilled Chicken,56
+2024-07-05,Grilled Chicken,62
+2024-07-06,Grilled Chicken,67
+2024-07-07,Grilled Chicken,55
+2024-07-08,Grilled Chicken,45
+2024-07-09,Grilled Chicken,44
+2024-07-10,Grilled Chicken,56
+2024-07-11,Grilled Chicken,36
+2024-07-12,Grilled Chicken,77
+2024-07-13,Grilled Chicken,62
+2024-07-14,Grilled Chicken,47
+2024-07-15,Grilled Chicken,76
+2024-07-16,Grilled Chicken,52
+2024-07-17,Grilled Chicken,39
+2024-07-18,Grilled Chicken,42
+2024-07-19,Grilled Chicken,64
+2024-07-20,Grilled Chicken,71
+2024-07-21,Grilled Chicken,69
+2024-07-22,Grilled Chicken,47
+2024-07-23,Grilled Chicken,66
+2024-07-24,Grilled Chicken,57
+2024-07-25,Grilled Chicken,46
+2024-07-26,Grilled Chicken,70
+2024-07-27,Grilled Chicken,61
+2024-07-28,Grilled Chicken,39
+2024-07-29,Grilled Chicken,35
+2024-07-30,Grilled Chicken,48
+2024-07-31,Grilled Chicken,50
+2024-08-01,Grilled Chicken,54
+2024-08-02,Grilled Chicken,61
+2024-08-03,Grilled Chicken,59
+2024-08-04,Grilled Chicken,47
+2024-08-05,Grilled Chicken,39
+2024-08-06,Grilled Chicken,47
+2024-08-07,Grilled Chicken,47
+2024-08-08,Grilled Chicken,45
+2024-08-09,Grilled Chicken,60
+2024-08-10,Grilled Chicken,72
+2024-08-11,Grilled Chicken,47
+2024-08-12,Grilled Chicken,43
+2024-08-13,Grilled Chicken,36
+2024-08-14,Grilled Chicken,37
+2024-08-15,Grilled Chicken,47
+2024-08-16,Grilled Chicken,54
+2024-08-17,Grilled Chicken,58
+2024-08-18,Grilled Chicken,45
+2024-08-19,Grilled Chicken,53
+2024-08-20,Grilled Chicken,50
+2024-08-21,Grilled Chicken,45
+2024-08-22,Grilled Chicken,52
+2024-08-23,Grilled Chicken,66
+2024-08-24,Grilled Chicken,47
+2024-08-25,Grilled Chicken,52
+2024-08-26,Grilled Chicken,45
+2024-08-27,Grilled Chicken,32
+2024-08-28,Grilled Chicken,49
+2024-08-29,Grilled Chicken,45
+2024-08-30,Grilled Chicken,59
+2024-08-31,Grilled Chicken,64
+2024-09-01,Grilled Chicken,44
+2024-09-02,Grilled Chicken,46
+2024-09-03,Grilled Chicken,43
+2024-09-04,Grilled Chicken,43
+2024-09-05,Grilled Chicken,38
+2024-09-06,Grilled Chicken,62
+2024-09-07,Grilled Chicken,73
+2024-09-08,Grilled Chicken,42
+2024-09-09,Grilled Chicken,39
+2024-09-10,Grilled Chicken,40
+2024-09-11,Grilled Chicken,36
+2024-09-12,Grilled Chicken,42
+2024-09-13,Grilled Chicken,58
+2024-09-14,Grilled Chicken,59
+2024-09-15,Grilled Chicken,48
+2024-09-16,Grilled Chicken,40
+2024-09-17,Grilled Chicken,40
+2024-09-18,Grilled Chicken,37
+2024-09-19,Grilled Chicken,40
+2024-09-20,Grilled Chicken,43
+2024-09-21,Grilled Chicken,90
+2024-09-22,Grilled Chicken,38
+2024-09-23,Grilled Chicken,38
+2024-09-24,Grilled Chicken,43
+2024-09-25,Grilled Chicken,39
+2024-09-26,Grilled Chicken,38
+2024-09-27,Grilled Chicken,71
+2024-09-28,Grilled Chicken,54
+2024-09-29,Grilled Chicken,44
+2024-09-30,Grilled Chicken,48
+2024-10-01,Grilled Chicken,39
+2024-10-02,Grilled Chicken,43
+2024-10-03,Grilled Chicken,41
+2024-10-04,Grilled Chicken,69
+2024-10-05,Grilled Chicken,68
+2024-10-06,Grilled Chicken,36
+2024-10-07,Grilled Chicken,43
+2024-10-08,Grilled Chicken,44
+2024-10-09,Grilled Chicken,41
+2024-10-10,Grilled Chicken,40
+2024-10-11,Grilled Chicken,53
+2024-10-12,Grilled Chicken,55
+2024-10-13,Grilled Chicken,30
+2024-10-14,Grilled Chicken,47
+2024-10-15,Grilled Chicken,46
+2024-10-16,Grilled Chicken,43
+2024-10-17,Grilled Chicken,40
+2024-10-18,Grilled Chicken,55
+2024-10-19,Grilled Chicken,74
+2024-10-20,Grilled Chicken,52
+2024-10-21,Grilled Chicken,41
+2024-10-22,Grilled Chicken,39
+2024-10-23,Grilled Chicken,42
+2024-10-24,Grilled Chicken,43
+2024-10-25,Grilled Chicken,52
+2024-10-26,Grilled Chicken,62
+2024-10-27,Grilled Chicken,44
+2024-10-28,Grilled Chicken,42
+2024-10-29,Grilled Chicken,58
+2024-10-30,Grilled Chicken,49
+2024-10-31,Grilled Chicken,41
+2024-11-01,Grilled Chicken,78
+2024-11-02,Grilled Chicken,62
+2024-11-03,Grilled Chicken,45
+2024-11-04,Grilled Chicken,67
+2024-11-05,Grilled Chicken,54
+2024-11-06,Grilled Chicken,42
+2024-11-07,Grilled Chicken,49
+2024-11-08,Grilled Chicken,65
+2024-11-09,Grilled Chicken,69
+2024-11-10,Grilled Chicken,44
+2024-11-11,Grilled Chicken,51
+2024-11-12,Grilled Chicken,42
+2024-11-13,Grilled Chicken,34
+2024-11-14,Grilled Chicken,37
+2024-11-15,Grilled Chicken,62
+2024-11-16,Grilled Chicken,69
+2024-11-17,Grilled Chicken,47
+2024-11-18,Grilled Chicken,47
+2024-11-19,Grilled Chicken,50
+2024-11-20,Grilled Chicken,50
+2024-11-21,Grilled Chicken,54
+2024-11-22,Grilled Chicken,60
+2024-11-23,Grilled Chicken,67
+2024-11-24,Grilled Chicken,56
+2024-11-25,Grilled Chicken,50
+2024-11-26,Grilled Chicken,55
+2024-11-27,Grilled Chicken,45
+2024-11-28,Grilled Chicken,53
+2024-11-29,Grilled Chicken,72
+2024-11-30,Grilled Chicken,52
+2024-12-01,Grilled Chicken,50
+2024-12-02,Grilled Chicken,49
+2024-12-03,Grilled Chicken,53
+2024-12-04,Grilled Chicken,50
+2024-12-05,Grilled Chicken,64
+2024-12-06,Grilled Chicken,112
+2024-12-07,Grilled Chicken,71
+2024-12-08,Grilled Chicken,51
+2024-12-09,Grilled Chicken,43
+2024-12-10,Grilled Chicken,51
+2024-12-11,Grilled Chicken,50
+2024-12-12,Grilled Chicken,65
+2024-12-13,Grilled Chicken,72
+2024-12-14,Grilled Chicken,107
+2024-12-15,Grilled Chicken,65
+2024-12-16,Grilled Chicken,55
+2024-12-17,Grilled Chicken,36
+2024-12-18,Grilled Chicken,58
+2024-12-19,Grilled Chicken,46
+2024-12-20,Grilled Chicken,59
+2024-12-21,Grilled Chicken,68
+2024-12-22,Grilled Chicken,56
+2024-12-23,Grilled Chicken,50
+2024-12-24,Grilled Chicken,45
+2024-12-25,Grilled Chicken,55
+2024-12-26,Grilled Chicken,47
+2024-12-27,Grilled Chicken,69
+2024-12-28,Grilled Chicken,65
+2024-12-29,Grilled Chicken,53
+2024-12-30,Grilled Chicken,52
+2024-12-31,Grilled Chicken,54
+2025-01-01,Grilled Chicken,97
+2025-01-02,Grilled Chicken,64
+2025-01-03,Grilled Chicken,84
+2025-01-04,Grilled Chicken,49
+2025-01-05,Grilled Chicken,46
+2025-01-06,Grilled Chicken,55
+2025-01-07,Grilled Chicken,79
+2025-01-08,Grilled Chicken,57
+2025-01-09,Grilled Chicken,52
+2025-01-10,Grilled Chicken,73
+2025-01-11,Grilled Chicken,73
+2025-01-12,Grilled Chicken,55
+2025-01-13,Grilled Chicken,55
+2025-01-14,Grilled Chicken,54
+2025-01-15,Grilled Chicken,53
+2025-01-16,Grilled Chicken,54
+2025-01-17,Grilled Chicken,77
+2025-01-18,Grilled Chicken,77
+2025-01-19,Grilled Chicken,51
+2025-01-20,Grilled Chicken,49
+2025-01-21,Grilled Chicken,63
+2025-01-22,Grilled Chicken,68
+2025-01-23,Grilled Chicken,48
+2025-01-24,Grilled Chicken,69
+2025-01-25,Grilled Chicken,83
+2025-01-26,Grilled Chicken,47
+2025-01-27,Grilled Chicken,45
+2025-01-28,Grilled Chicken,53
+2025-01-29,Grilled Chicken,64
+2025-01-30,Grilled Chicken,57
+2025-01-31,Grilled Chicken,97
+2025-02-01,Grilled Chicken,84
+2025-02-02,Grilled Chicken,49
+2025-02-03,Grilled Chicken,58
+2025-02-04,Grilled Chicken,65
+2025-02-05,Grilled Chicken,62
+2025-02-06,Grilled Chicken,55
+2025-02-07,Grilled Chicken,117
+2025-02-08,Grilled Chicken,94
+2025-02-09,Grilled Chicken,70
+2025-02-10,Grilled Chicken,58
+2025-02-11,Grilled Chicken,64
+2025-02-12,Grilled Chicken,56
+2025-02-13,Grilled Chicken,60
+2025-02-14,Grilled Chicken,65
+2025-02-15,Grilled Chicken,72
+2025-02-16,Grilled Chicken,64
+2025-02-17,Grilled Chicken,47
+2025-02-18,Grilled Chicken,60
+2025-02-19,Grilled Chicken,61
+2025-02-20,Grilled Chicken,90
+2025-02-21,Grilled Chicken,93
+2025-02-22,Grilled Chicken,65
+2025-02-23,Grilled Chicken,67
+2025-02-24,Grilled Chicken,62
+2025-02-25,Grilled Chicken,58
+2025-02-26,Grilled Chicken,49
+2025-02-27,Grilled Chicken,58
+2025-02-28,Grilled Chicken,71
+2025-03-01,Grilled Chicken,146
+2025-03-02,Grilled Chicken,82
+2025-03-03,Grilled Chicken,95
+2025-03-04,Grilled Chicken,107
+2025-03-05,Grilled Chicken,105
+2025-03-06,Grilled Chicken,93
+2025-03-07,Grilled Chicken,143
+2025-03-08,Grilled Chicken,146
+2025-03-09,Grilled Chicken,140
+2025-03-10,Grilled Chicken,104
+2025-03-11,Grilled Chicken,96
+2025-03-12,Grilled Chicken,112
+2025-03-13,Grilled Chicken,98
+2025-03-14,Grilled Chicken,111
+2025-03-15,Grilled Chicken,142
+2025-03-16,Grilled Chicken,121
+2025-03-17,Grilled Chicken,115
+2025-03-18,Grilled Chicken,146
+2025-03-19,Grilled Chicken,76
+2025-03-20,Grilled Chicken,110
+2025-03-21,Grilled Chicken,139
+2025-03-22,Grilled Chicken,146
+2025-03-23,Grilled Chicken,100
+2025-03-24,Grilled Chicken,115
+2025-03-25,Grilled Chicken,92
+2025-03-26,Grilled Chicken,111
+2025-03-27,Grilled Chicken,104
+2025-03-28,Grilled Chicken,108
+2025-03-29,Grilled Chicken,107
+2025-03-30,Grilled Chicken,145
+2025-03-31,Grilled Chicken,57
+2025-04-01,Grilled Chicken,48
+2025-04-02,Grilled Chicken,54
+2025-04-03,Grilled Chicken,61
+2025-04-04,Grilled Chicken,76
+2025-04-05,Grilled Chicken,108
+2025-04-06,Grilled Chicken,58
+2025-04-07,Grilled Chicken,72
+2025-04-08,Grilled Chicken,75
+2025-04-09,Grilled Chicken,59
+2025-04-10,Grilled Chicken,58
+2025-04-11,Grilled Chicken,80
+2025-04-12,Grilled Chicken,83
+2025-04-13,Grilled Chicken,60
+2025-04-14,Grilled Chicken,54
+2025-04-15,Grilled Chicken,65
+2025-04-16,Grilled Chicken,60
+2025-04-17,Grilled Chicken,81
+2025-04-18,Grilled Chicken,94
+2025-04-19,Grilled Chicken,81
+2025-04-20,Grilled Chicken,67
+2025-04-21,Grilled Chicken,67
+2025-04-22,Grilled Chicken,71
+2025-04-23,Grilled Chicken,50
+2025-04-24,Grilled Chicken,53
+2025-04-25,Grilled Chicken,76
+2025-04-26,Grilled Chicken,84
+2025-04-27,Grilled Chicken,36
+2025-04-28,Grilled Chicken,56
+2025-04-29,Grilled Chicken,72
+2025-04-30,Grilled Chicken,54
+2025-05-01,Grilled Chicken,64
+2025-05-02,Grilled Chicken,87
+2025-05-03,Grilled Chicken,88
+2025-05-04,Grilled Chicken,68
+2025-05-05,Grilled Chicken,70
+2025-05-06,Grilled Chicken,74
+2025-05-07,Grilled Chicken,59
+2025-05-08,Grilled Chicken,56
+2025-05-09,Grilled Chicken,88
+2025-05-10,Grilled Chicken,88
+2025-05-11,Grilled Chicken,95
+2025-05-12,Grilled Chicken,51
+2025-05-13,Grilled Chicken,67
+2025-05-14,Grilled Chicken,52
+2025-05-15,Grilled Chicken,63
+2025-05-16,Grilled Chicken,79
+2025-05-17,Grilled Chicken,95
+2025-05-18,Grilled Chicken,51
+2025-05-19,Grilled Chicken,62
+2025-05-20,Grilled Chicken,90
+2025-05-21,Grilled Chicken,58
+2025-05-22,Grilled Chicken,62
+2025-05-23,Grilled Chicken,77
+2025-05-24,Grilled Chicken,83
+2025-05-25,Grilled Chicken,63
+2025-05-26,Grilled Chicken,79
+2025-05-27,Grilled Chicken,83
+2025-05-28,Grilled Chicken,46
+2025-05-29,Grilled Chicken,48
+2025-05-30,Grilled Chicken,77
+2025-05-31,Grilled Chicken,69
+2025-06-01,Grilled Chicken,59
+2025-06-02,Grilled Chicken,68
+2025-06-03,Grilled Chicken,69
+2025-06-04,Grilled Chicken,58
+2025-06-05,Grilled Chicken,51
+2025-06-06,Grilled Chicken,68
+2025-06-07,Grilled Chicken,96
+2025-06-08,Grilled Chicken,66
+2025-06-09,Grilled Chicken,58
+2025-06-10,Grilled Chicken,60
+2025-06-11,Grilled Chicken,57
+2025-06-12,Grilled Chicken,62
+2025-06-13,Grilled Chicken,79
+2025-06-14,Grilled Chicken,86
+2025-06-15,Grilled Chicken,64
+2025-06-16,Grilled Chicken,52
+2025-06-17,Grilled Chicken,85
+2025-06-18,Grilled Chicken,67
+2025-06-19,Grilled Chicken,61
+2025-06-20,Grilled Chicken,82
+2025-06-21,Grilled Chicken,71
+2025-06-22,Grilled Chicken,52
+2025-06-23,Grilled Chicken,57
+2024-01-01,Grilled Fish,41
+2024-01-02,Grilled Fish,25
+2024-01-03,Grilled Fish,27
+2024-01-04,Grilled Fish,26
+2024-01-05,Grilled Fish,29
+2024-01-06,Grilled Fish,39
+2024-01-07,Grilled Fish,40
+2024-01-08,Grilled Fish,27
+2024-01-09,Grilled Fish,29
+2024-01-10,Grilled Fish,29
+2024-01-11,Grilled Fish,22
+2024-01-12,Grilled Fish,41
+2024-01-13,Grilled Fish,32
+2024-01-14,Grilled Fish,22
+2024-01-15,Grilled Fish,25
+2024-01-16,Grilled Fish,23
+2024-01-17,Grilled Fish,32
+2024-01-18,Grilled Fish,27
+2024-01-19,Grilled Fish,29
+2024-01-20,Grilled Fish,36
+2024-01-21,Grilled Fish,29
+2024-01-22,Grilled Fish,29
+2024-01-23,Grilled Fish,28
+2024-01-24,Grilled Fish,41
+2024-01-25,Grilled Fish,40
+2024-01-26,Grilled Fish,31
+2024-01-27,Grilled Fish,35
+2024-01-28,Grilled Fish,29
+2024-01-29,Grilled Fish,25
+2024-01-30,Grilled Fish,26
+2024-01-31,Grilled Fish,28
+2024-02-01,Grilled Fish,33
+2024-02-02,Grilled Fish,40
+2024-02-03,Grilled Fish,30
+2024-02-04,Grilled Fish,28
+2024-02-05,Grilled Fish,24
+2024-02-06,Grilled Fish,30
+2024-02-07,Grilled Fish,32
+2024-02-08,Grilled Fish,34
+2024-02-09,Grilled Fish,41
+2024-02-10,Grilled Fish,40
+2024-02-11,Grilled Fish,30
+2024-02-12,Grilled Fish,25
+2024-02-13,Grilled Fish,28
+2024-02-14,Grilled Fish,29
+2024-02-15,Grilled Fish,26
+2024-02-16,Grilled Fish,56
+2024-02-17,Grilled Fish,48
+2024-02-18,Grilled Fish,22
+2024-02-19,Grilled Fish,30
+2024-02-20,Grilled Fish,28
+2024-02-21,Grilled Fish,30
+2024-02-22,Grilled Fish,41
+2024-02-23,Grilled Fish,37
+2024-02-24,Grilled Fish,32
+2024-02-25,Grilled Fish,31
+2024-02-26,Grilled Fish,30
+2024-02-27,Grilled Fish,30
+2024-02-28,Grilled Fish,33
+2024-02-29,Grilled Fish,27
+2024-03-01,Grilled Fish,39
+2024-03-02,Grilled Fish,35
+2024-03-03,Grilled Fish,27
+2024-03-04,Grilled Fish,25
+2024-03-05,Grilled Fish,26
+2024-03-06,Grilled Fish,21
+2024-03-07,Grilled Fish,30
+2024-03-08,Grilled Fish,68
+2024-03-09,Grilled Fish,34
+2024-03-10,Grilled Fish,28
+2024-03-11,Grilled Fish,57
+2024-03-12,Grilled Fish,70
+2024-03-13,Grilled Fish,49
+2024-03-14,Grilled Fish,42
+2024-03-15,Grilled Fish,62
+2024-03-16,Grilled Fish,59
+2024-03-17,Grilled Fish,50
+2024-03-18,Grilled Fish,50
+2024-03-19,Grilled Fish,45
+2024-03-20,Grilled Fish,46
+2024-03-21,Grilled Fish,54
+2024-03-22,Grilled Fish,104
+2024-03-23,Grilled Fish,61
+2024-03-24,Grilled Fish,46
+2024-03-25,Grilled Fish,57
+2024-03-26,Grilled Fish,46
+2024-03-27,Grilled Fish,48
+2024-03-28,Grilled Fish,39
+2024-03-29,Grilled Fish,67
+2024-03-30,Grilled Fish,63
+2024-03-31,Grilled Fish,56
+2024-04-01,Grilled Fish,56
+2024-04-02,Grilled Fish,59
+2024-04-03,Grilled Fish,50
+2024-04-04,Grilled Fish,46
+2024-04-05,Grilled Fish,67
+2024-04-06,Grilled Fish,63
+2024-04-07,Grilled Fish,55
+2024-04-08,Grilled Fish,52
+2024-04-09,Grilled Fish,45
+2024-04-10,Grilled Fish,49
+2024-04-11,Grilled Fish,24
+2024-04-12,Grilled Fish,67
+2024-04-13,Grilled Fish,37
+2024-04-14,Grilled Fish,35
+2024-04-15,Grilled Fish,28
+2024-04-16,Grilled Fish,30
+2024-04-17,Grilled Fish,29
+2024-04-18,Grilled Fish,32
+2024-04-19,Grilled Fish,35
+2024-04-20,Grilled Fish,30
+2024-04-21,Grilled Fish,35
+2024-04-22,Grilled Fish,35
+2024-04-23,Grilled Fish,28
+2024-04-24,Grilled Fish,27
+2024-04-25,Grilled Fish,41
+2024-04-26,Grilled Fish,35
+2024-04-27,Grilled Fish,42
+2024-04-28,Grilled Fish,40
+2024-04-29,Grilled Fish,28
+2024-04-30,Grilled Fish,28
+2024-05-01,Grilled Fish,41
+2024-05-02,Grilled Fish,29
+2024-05-03,Grilled Fish,40
+2024-05-04,Grilled Fish,52
+2024-05-05,Grilled Fish,47
+2024-05-06,Grilled Fish,31
+2024-05-07,Grilled Fish,29
+2024-05-08,Grilled Fish,26
+2024-05-09,Grilled Fish,33
+2024-05-10,Grilled Fish,37
+2024-05-11,Grilled Fish,40
+2024-05-12,Grilled Fish,27
+2024-05-13,Grilled Fish,32
+2024-05-14,Grilled Fish,22
+2024-05-15,Grilled Fish,27
+2024-05-16,Grilled Fish,32
+2024-05-17,Grilled Fish,50
+2024-05-18,Grilled Fish,30
+2024-05-19,Grilled Fish,27
+2024-05-20,Grilled Fish,30
+2024-05-21,Grilled Fish,25
+2024-05-22,Grilled Fish,29
+2024-05-23,Grilled Fish,29
+2024-05-24,Grilled Fish,47
+2024-05-25,Grilled Fish,49
+2024-05-26,Grilled Fish,48
+2024-05-27,Grilled Fish,26
+2024-05-28,Grilled Fish,31
+2024-05-29,Grilled Fish,28
+2024-05-30,Grilled Fish,27
+2024-05-31,Grilled Fish,32
+2024-06-01,Grilled Fish,41
+2024-06-02,Grilled Fish,32
+2024-06-03,Grilled Fish,30
+2024-06-04,Grilled Fish,26
+2024-06-05,Grilled Fish,27
+2024-06-06,Grilled Fish,28
+2024-06-07,Grilled Fish,41
+2024-06-08,Grilled Fish,44
+2024-06-09,Grilled Fish,27
+2024-06-10,Grilled Fish,22
+2024-06-11,Grilled Fish,22
+2024-06-12,Grilled Fish,26
+2024-06-13,Grilled Fish,31
+2024-06-14,Grilled Fish,40
+2024-06-15,Grilled Fish,41
+2024-06-16,Grilled Fish,38
+2024-06-17,Grilled Fish,26
+2024-06-18,Grilled Fish,31
+2024-06-19,Grilled Fish,33
+2024-06-20,Grilled Fish,31
+2024-06-21,Grilled Fish,42
+2024-06-22,Grilled Fish,34
+2024-06-23,Grilled Fish,30
+2024-06-24,Grilled Fish,23
+2024-06-25,Grilled Fish,31
+2024-06-26,Grilled Fish,40
+2024-06-27,Grilled Fish,26
+2024-06-28,Grilled Fish,28
+2024-06-29,Grilled Fish,35
+2024-06-30,Grilled Fish,27
+2024-07-01,Grilled Fish,27
+2024-07-02,Grilled Fish,26
+2024-07-03,Grilled Fish,25
+2024-07-04,Grilled Fish,24
+2024-07-05,Grilled Fish,43
+2024-07-06,Grilled Fish,45
+2024-07-07,Grilled Fish,38
+2024-07-08,Grilled Fish,24
+2024-07-09,Grilled Fish,23
+2024-07-10,Grilled Fish,26
+2024-07-11,Grilled Fish,33
+2024-07-12,Grilled Fish,37
+2024-07-13,Grilled Fish,41
+2024-07-14,Grilled Fish,30
+2024-07-15,Grilled Fish,28
+2024-07-16,Grilled Fish,23
+2024-07-17,Grilled Fish,30
+2024-07-18,Grilled Fish,22
+2024-07-19,Grilled Fish,32
+2024-07-20,Grilled Fish,36
+2024-07-21,Grilled Fish,25
+2024-07-22,Grilled Fish,38
+2024-07-23,Grilled Fish,33
+2024-07-24,Grilled Fish,33
+2024-07-25,Grilled Fish,28
+2024-07-26,Grilled Fish,46
+2024-07-27,Grilled Fish,41
+2024-07-28,Grilled Fish,21
+2024-07-29,Grilled Fish,25
+2024-07-30,Grilled Fish,24
+2024-07-31,Grilled Fish,25
+2024-08-01,Grilled Fish,26
+2024-08-02,Grilled Fish,32
+2024-08-03,Grilled Fish,38
+2024-08-04,Grilled Fish,29
+2024-08-05,Grilled Fish,29
+2024-08-06,Grilled Fish,22
+2024-08-07,Grilled Fish,26
+2024-08-08,Grilled Fish,28
+2024-08-09,Grilled Fish,37
+2024-08-10,Grilled Fish,37
+2024-08-11,Grilled Fish,29
+2024-08-12,Grilled Fish,33
+2024-08-13,Grilled Fish,20
+2024-08-14,Grilled Fish,24
+2024-08-15,Grilled Fish,24
+2024-08-16,Grilled Fish,44
+2024-08-17,Grilled Fish,31
+2024-08-18,Grilled Fish,28
+2024-08-19,Grilled Fish,31
+2024-08-20,Grilled Fish,30
+2024-08-21,Grilled Fish,24
+2024-08-22,Grilled Fish,27
+2024-08-23,Grilled Fish,34
+2024-08-24,Grilled Fish,30
+2024-08-25,Grilled Fish,28
+2024-08-26,Grilled Fish,26
+2024-08-27,Grilled Fish,22
+2024-08-28,Grilled Fish,23
+2024-08-29,Grilled Fish,24
+2024-08-30,Grilled Fish,38
+2024-08-31,Grilled Fish,28
+2024-09-01,Grilled Fish,18
+2024-09-02,Grilled Fish,21
+2024-09-03,Grilled Fish,25
+2024-09-04,Grilled Fish,21
+2024-09-05,Grilled Fish,24
+2024-09-06,Grilled Fish,31
+2024-09-07,Grilled Fish,24
+2024-09-08,Grilled Fish,22
+2024-09-09,Grilled Fish,23
+2024-09-10,Grilled Fish,27
+2024-09-11,Grilled Fish,30
+2024-09-12,Grilled Fish,30
+2024-09-13,Grilled Fish,33
+2024-09-14,Grilled Fish,34
+2024-09-15,Grilled Fish,31
+2024-09-16,Grilled Fish,22
+2024-09-17,Grilled Fish,22
+2024-09-18,Grilled Fish,23
+2024-09-19,Grilled Fish,22
+2024-09-20,Grilled Fish,49
+2024-09-21,Grilled Fish,36
+2024-09-22,Grilled Fish,25
+2024-09-23,Grilled Fish,24
+2024-09-24,Grilled Fish,39
+2024-09-25,Grilled Fish,23
+2024-09-26,Grilled Fish,26
+2024-09-27,Grilled Fish,31
+2024-09-28,Grilled Fish,28
+2024-09-29,Grilled Fish,27
+2024-09-30,Grilled Fish,25
+2024-10-01,Grilled Fish,27
+2024-10-02,Grilled Fish,25
+2024-10-03,Grilled Fish,26
+2024-10-04,Grilled Fish,41
+2024-10-05,Grilled Fish,43
+2024-10-06,Grilled Fish,26
+2024-10-07,Grilled Fish,28
+2024-10-08,Grilled Fish,24
+2024-10-09,Grilled Fish,31
+2024-10-10,Grilled Fish,27
+2024-10-11,Grilled Fish,28
+2024-10-12,Grilled Fish,54
+2024-10-13,Grilled Fish,23
+2024-10-14,Grilled Fish,27
+2024-10-15,Grilled Fish,25
+2024-10-16,Grilled Fish,28
+2024-10-17,Grilled Fish,28
+2024-10-18,Grilled Fish,34
+2024-10-19,Grilled Fish,27
+2024-10-20,Grilled Fish,29
+2024-10-21,Grilled Fish,20
+2024-10-22,Grilled Fish,26
+2024-10-23,Grilled Fish,29
+2024-10-24,Grilled Fish,26
+2024-10-25,Grilled Fish,31
+2024-10-26,Grilled Fish,34
+2024-10-27,Grilled Fish,23
+2024-10-28,Grilled Fish,23
+2024-10-29,Grilled Fish,36
+2024-10-30,Grilled Fish,17
+2024-10-31,Grilled Fish,24
+2024-11-01,Grilled Fish,34
+2024-11-02,Grilled Fish,48
+2024-11-03,Grilled Fish,23
+2024-11-04,Grilled Fish,27
+2024-11-05,Grilled Fish,35
+2024-11-06,Grilled Fish,31
+2024-11-07,Grilled Fish,38
+2024-11-08,Grilled Fish,32
+2024-11-09,Grilled Fish,52
+2024-11-10,Grilled Fish,20
+2024-11-11,Grilled Fish,26
+2024-11-12,Grilled Fish,26
+2024-11-13,Grilled Fish,26
+2024-11-14,Grilled Fish,23
+2024-11-15,Grilled Fish,49
+2024-11-16,Grilled Fish,30
+2024-11-17,Grilled Fish,31
+2024-11-18,Grilled Fish,26
+2024-11-19,Grilled Fish,27
+2024-11-20,Grilled Fish,22
+2024-11-21,Grilled Fish,24
+2024-11-22,Grilled Fish,38
+2024-11-23,Grilled Fish,40
+2024-11-24,Grilled Fish,23
+2024-11-25,Grilled Fish,22
+2024-11-26,Grilled Fish,28
+2024-11-27,Grilled Fish,25
+2024-11-28,Grilled Fish,22
+2024-11-29,Grilled Fish,29
+2024-11-30,Grilled Fish,33
+2024-12-01,Grilled Fish,30
+2024-12-02,Grilled Fish,31
+2024-12-03,Grilled Fish,28
+2024-12-04,Grilled Fish,27
+2024-12-05,Grilled Fish,26
+2024-12-06,Grilled Fish,27
+2024-12-07,Grilled Fish,42
+2024-12-08,Grilled Fish,29
+2024-12-09,Grilled Fish,25
+2024-12-10,Grilled Fish,32
+2024-12-11,Grilled Fish,24
+2024-12-12,Grilled Fish,31
+2024-12-13,Grilled Fish,30
+2024-12-14,Grilled Fish,49
+2024-12-15,Grilled Fish,23
+2024-12-16,Grilled Fish,32
+2024-12-17,Grilled Fish,26
+2024-12-18,Grilled Fish,30
+2024-12-19,Grilled Fish,34
+2024-12-20,Grilled Fish,37
+2024-12-21,Grilled Fish,50
+2024-12-22,Grilled Fish,35
+2024-12-23,Grilled Fish,23
+2024-12-24,Grilled Fish,29
+2024-12-25,Grilled Fish,28
+2024-12-26,Grilled Fish,29
+2024-12-27,Grilled Fish,37
+2024-12-28,Grilled Fish,35
+2024-12-29,Grilled Fish,29
+2024-12-30,Grilled Fish,31
+2024-12-31,Grilled Fish,20
+2025-01-01,Grilled Fish,33
+2025-01-02,Grilled Fish,30
+2025-01-03,Grilled Fish,47
+2025-01-04,Grilled Fish,38
+2025-01-05,Grilled Fish,28
+2025-01-06,Grilled Fish,27
+2025-01-07,Grilled Fish,48
+2025-01-08,Grilled Fish,23
+2025-01-09,Grilled Fish,27
+2025-01-10,Grilled Fish,42
+2025-01-11,Grilled Fish,33
+2025-01-12,Grilled Fish,31
+2025-01-13,Grilled Fish,35
+2025-01-14,Grilled Fish,35
+2025-01-15,Grilled Fish,30
+2025-01-16,Grilled Fish,34
+2025-01-17,Grilled Fish,44
+2025-01-18,Grilled Fish,43
+2025-01-19,Grilled Fish,33
+2025-01-20,Grilled Fish,41
+2025-01-21,Grilled Fish,30
+2025-01-22,Grilled Fish,33
+2025-01-23,Grilled Fish,31
+2025-01-24,Grilled Fish,48
+2025-01-25,Grilled Fish,46
+2025-01-26,Grilled Fish,34
+2025-01-27,Grilled Fish,34
+2025-01-28,Grilled Fish,32
+2025-01-29,Grilled Fish,35
+2025-01-30,Grilled Fish,36
+2025-01-31,Grilled Fish,45
+2025-02-01,Grilled Fish,39
+2025-02-02,Grilled Fish,32
+2025-02-03,Grilled Fish,26
+2025-02-04,Grilled Fish,37
+2025-02-05,Grilled Fish,35
+2025-02-06,Grilled Fish,29
+2025-02-07,Grilled Fish,40
+2025-02-08,Grilled Fish,51
+2025-02-09,Grilled Fish,30
+2025-02-10,Grilled Fish,27
+2025-02-11,Grilled Fish,39
+2025-02-12,Grilled Fish,32
+2025-02-13,Grilled Fish,31
+2025-02-14,Grilled Fish,42
+2025-02-15,Grilled Fish,48
+2025-02-16,Grilled Fish,31
+2025-02-17,Grilled Fish,35
+2025-02-18,Grilled Fish,29
+2025-02-19,Grilled Fish,38
+2025-02-20,Grilled Fish,29
+2025-02-21,Grilled Fish,45
+2025-02-22,Grilled Fish,44
+2025-02-23,Grilled Fish,35
+2025-02-24,Grilled Fish,37
+2025-02-25,Grilled Fish,32
+2025-02-26,Grilled Fish,37
+2025-02-27,Grilled Fish,38
+2025-02-28,Grilled Fish,44
+2025-03-01,Grilled Fish,89
+2025-03-02,Grilled Fish,56
+2025-03-03,Grilled Fish,52
+2025-03-04,Grilled Fish,55
+2025-03-05,Grilled Fish,66
+2025-03-06,Grilled Fish,57
+2025-03-07,Grilled Fish,77
+2025-03-08,Grilled Fish,78
+2025-03-09,Grilled Fish,61
+2025-03-10,Grilled Fish,57
+2025-03-11,Grilled Fish,59
+2025-03-12,Grilled Fish,55
+2025-03-13,Grilled Fish,56
+2025-03-14,Grilled Fish,83
+2025-03-15,Grilled Fish,68
+2025-03-16,Grilled Fish,55
+2025-03-17,Grilled Fish,53
+2025-03-18,Grilled Fish,46
+2025-03-19,Grilled Fish,47
+2025-03-20,Grilled Fish,55
+2025-03-21,Grilled Fish,84
+2025-03-22,Grilled Fish,77
+2025-03-23,Grilled Fish,52
+2025-03-24,Grilled Fish,65
+2025-03-25,Grilled Fish,53
+2025-03-26,Grilled Fish,49
+2025-03-27,Grilled Fish,68
+2025-03-28,Grilled Fish,76
+2025-03-29,Grilled Fish,90
+2025-03-30,Grilled Fish,83
+2025-03-31,Grilled Fish,35
+2025-04-01,Grilled Fish,29
+2025-04-02,Grilled Fish,46
+2025-04-03,Grilled Fish,37
+2025-04-04,Grilled Fish,51
+2025-04-05,Grilled Fish,48
+2025-04-06,Grilled Fish,34
+2025-04-07,Grilled Fish,35
+2025-04-08,Grilled Fish,31
+2025-04-09,Grilled Fish,41
+2025-04-10,Grilled Fish,38
+2025-04-11,Grilled Fish,65
+2025-04-12,Grilled Fish,45
+2025-04-13,Grilled Fish,43
+2025-04-14,Grilled Fish,32
+2025-04-15,Grilled Fish,34
+2025-04-16,Grilled Fish,41
+2025-04-17,Grilled Fish,36
+2025-04-18,Grilled Fish,38
+2025-04-19,Grilled Fish,49
+2025-04-20,Grilled Fish,32
+2025-04-21,Grilled Fish,40
+2025-04-22,Grilled Fish,33
+2025-04-23,Grilled Fish,30
+2025-04-24,Grilled Fish,31
+2025-04-25,Grilled Fish,68
+2025-04-26,Grilled Fish,39
+2025-04-27,Grilled Fish,39
+2025-04-28,Grilled Fish,33
+2025-04-29,Grilled Fish,32
+2025-04-30,Grilled Fish,33
+2025-05-01,Grilled Fish,42
+2025-05-02,Grilled Fish,41
+2025-05-03,Grilled Fish,45
+2025-05-04,Grilled Fish,36
+2025-05-05,Grilled Fish,37
+2025-05-06,Grilled Fish,33
+2025-05-07,Grilled Fish,47
+2025-05-08,Grilled Fish,35
+2025-05-09,Grilled Fish,77
+2025-05-10,Grilled Fish,47
+2025-05-11,Grilled Fish,32
+2025-05-12,Grilled Fish,31
+2025-05-13,Grilled Fish,38
+2025-05-14,Grilled Fish,25
+2025-05-15,Grilled Fish,32
+2025-05-16,Grilled Fish,41
+2025-05-17,Grilled Fish,50
+2025-05-18,Grilled Fish,39
+2025-05-19,Grilled Fish,33
+2025-05-20,Grilled Fish,31
+2025-05-21,Grilled Fish,47
+2025-05-22,Grilled Fish,50
+2025-05-23,Grilled Fish,49
+2025-05-24,Grilled Fish,45
+2025-05-25,Grilled Fish,39
+2025-05-26,Grilled Fish,31
+2025-05-27,Grilled Fish,32
+2025-05-28,Grilled Fish,32
+2025-05-29,Grilled Fish,35
+2025-05-30,Grilled Fish,50
+2025-05-31,Grilled Fish,54
+2025-06-01,Grilled Fish,29
+2025-06-02,Grilled Fish,34
+2025-06-03,Grilled Fish,29
+2025-06-04,Grilled Fish,32
+2025-06-05,Grilled Fish,32
+2025-06-06,Grilled Fish,51
+2025-06-07,Grilled Fish,53
+2025-06-08,Grilled Fish,31
+2025-06-09,Grilled Fish,35
+2025-06-10,Grilled Fish,31
+2025-06-11,Grilled Fish,36
+2025-06-12,Grilled Fish,40
+2025-06-13,Grilled Fish,70
+2025-06-14,Grilled Fish,41
+2025-06-15,Grilled Fish,27
+2025-06-16,Grilled Fish,30
+2025-06-17,Grilled Fish,31
+2025-06-18,Grilled Fish,39
+2025-06-19,Grilled Fish,32
+2025-06-20,Grilled Fish,47
+2025-06-21,Grilled Fish,39
+2025-06-22,Grilled Fish,38
+2025-06-23,Grilled Fish,41
+2024-01-01,Molokhia,39
+2024-01-02,Molokhia,59
+2024-01-03,Molokhia,34
+2024-01-04,Molokhia,41
+2024-01-05,Molokhia,57
+2024-01-06,Molokhia,59
+2024-01-07,Molokhia,61
+2024-01-08,Molokhia,47
+2024-01-09,Molokhia,35
+2024-01-10,Molokhia,43
+2024-01-11,Molokhia,37
+2024-01-12,Molokhia,58
+2024-01-13,Molokhia,56
+2024-01-14,Molokhia,37
+2024-01-15,Molokhia,41
+2024-01-16,Molokhia,38
+2024-01-17,Molokhia,51
+2024-01-18,Molokhia,45
+2024-01-19,Molokhia,70
+2024-01-20,Molokhia,71
+2024-01-21,Molokhia,33
+2024-01-22,Molokhia,62
+2024-01-23,Molokhia,44
+2024-01-24,Molokhia,46
+2024-01-25,Molokhia,65
+2024-01-26,Molokhia,70
+2024-01-27,Molokhia,63
+2024-01-28,Molokhia,37
+2024-01-29,Molokhia,36
+2024-01-30,Molokhia,53
+2024-01-31,Molokhia,43
+2024-02-01,Molokhia,51
+2024-02-02,Molokhia,53
+2024-02-03,Molokhia,64
+2024-02-04,Molokhia,39
+2024-02-05,Molokhia,31
+2024-02-06,Molokhia,50
+2024-02-07,Molokhia,38
+2024-02-08,Molokhia,37
+2024-02-09,Molokhia,59
+2024-02-10,Molokhia,83
+2024-02-11,Molokhia,46
+2024-02-12,Molokhia,47
+2024-02-13,Molokhia,56
+2024-02-14,Molokhia,38
+2024-02-15,Molokhia,52
+2024-02-16,Molokhia,67
+2024-02-17,Molokhia,52
+2024-02-18,Molokhia,36
+2024-02-19,Molokhia,43
+2024-02-20,Molokhia,38
+2024-02-21,Molokhia,43
+2024-02-22,Molokhia,50
+2024-02-23,Molokhia,60
+2024-02-24,Molokhia,70
+2024-02-25,Molokhia,44
+2024-02-26,Molokhia,52
+2024-02-27,Molokhia,61
+2024-02-28,Molokhia,32
+2024-02-29,Molokhia,48
+2024-03-01,Molokhia,48
+2024-03-02,Molokhia,58
+2024-03-03,Molokhia,32
+2024-03-04,Molokhia,46
+2024-03-05,Molokhia,47
+2024-03-06,Molokhia,49
+2024-03-07,Molokhia,38
+2024-03-08,Molokhia,55
+2024-03-09,Molokhia,60
+2024-03-10,Molokhia,50
+2024-03-11,Molokhia,77
+2024-03-12,Molokhia,66
+2024-03-13,Molokhia,85
+2024-03-14,Molokhia,61
+2024-03-15,Molokhia,105
+2024-03-16,Molokhia,91
+2024-03-17,Molokhia,83
+2024-03-18,Molokhia,98
+2024-03-19,Molokhia,102
+2024-03-20,Molokhia,79
+2024-03-21,Molokhia,89
+2024-03-22,Molokhia,125
+2024-03-23,Molokhia,99
+2024-03-24,Molokhia,74
+2024-03-25,Molokhia,88
+2024-03-26,Molokhia,76
+2024-03-27,Molokhia,66
+2024-03-28,Molokhia,61
+2024-03-29,Molokhia,105
+2024-03-30,Molokhia,95
+2024-03-31,Molokhia,83
+2024-04-01,Molokhia,72
+2024-04-02,Molokhia,93
+2024-04-03,Molokhia,68
+2024-04-04,Molokhia,64
+2024-04-05,Molokhia,101
+2024-04-06,Molokhia,111
+2024-04-07,Molokhia,84
+2024-04-08,Molokhia,77
+2024-04-09,Molokhia,94
+2024-04-10,Molokhia,71
+2024-04-11,Molokhia,46
+2024-04-12,Molokhia,67
+2024-04-13,Molokhia,56
+2024-04-14,Molokhia,54
+2024-04-15,Molokhia,55
+2024-04-16,Molokhia,68
+2024-04-17,Molokhia,42
+2024-04-18,Molokhia,49
+2024-04-19,Molokhia,110
+2024-04-20,Molokhia,69
+2024-04-21,Molokhia,52
+2024-04-22,Molokhia,53
+2024-04-23,Molokhia,41
+2024-04-24,Molokhia,46
+2024-04-25,Molokhia,52
+2024-04-26,Molokhia,53
+2024-04-27,Molokhia,74
+2024-04-28,Molokhia,40
+2024-04-29,Molokhia,45
+2024-04-30,Molokhia,54
+2024-05-01,Molokhia,47
+2024-05-02,Molokhia,49
+2024-05-03,Molokhia,80
+2024-05-04,Molokhia,71
+2024-05-05,Molokhia,47
+2024-05-06,Molokhia,38
+2024-05-07,Molokhia,53
+2024-05-08,Molokhia,47
+2024-05-09,Molokhia,46
+2024-05-10,Molokhia,89
+2024-05-11,Molokhia,61
+2024-05-12,Molokhia,43
+2024-05-13,Molokhia,44
+2024-05-14,Molokhia,44
+2024-05-15,Molokhia,41
+2024-05-16,Molokhia,71
+2024-05-17,Molokhia,69
+2024-05-18,Molokhia,61
+2024-05-19,Molokhia,58
+2024-05-20,Molokhia,76
+2024-05-21,Molokhia,50
+2024-05-22,Molokhia,52
+2024-05-23,Molokhia,39
+2024-05-24,Molokhia,72
+2024-05-25,Molokhia,58
+2024-05-26,Molokhia,56
+2024-05-27,Molokhia,62
+2024-05-28,Molokhia,59
+2024-05-29,Molokhia,50
+2024-05-30,Molokhia,50
+2024-05-31,Molokhia,68
+2024-06-01,Molokhia,60
+2024-06-02,Molokhia,49
+2024-06-03,Molokhia,41
+2024-06-04,Molokhia,55
+2024-06-05,Molokhia,50
+2024-06-06,Molokhia,53
+2024-06-07,Molokhia,87
+2024-06-08,Molokhia,58
+2024-06-09,Molokhia,38
+2024-06-10,Molokhia,42
+2024-06-11,Molokhia,62
+2024-06-12,Molokhia,49
+2024-06-13,Molokhia,47
+2024-06-14,Molokhia,63
+2024-06-15,Molokhia,66
+2024-06-16,Molokhia,66
+2024-06-17,Molokhia,49
+2024-06-18,Molokhia,46
+2024-06-19,Molokhia,45
+2024-06-20,Molokhia,41
+2024-06-21,Molokhia,57
+2024-06-22,Molokhia,46
+2024-06-23,Molokhia,40
+2024-06-24,Molokhia,50
+2024-06-25,Molokhia,40
+2024-06-26,Molokhia,46
+2024-06-27,Molokhia,39
+2024-06-28,Molokhia,65
+2024-06-29,Molokhia,62
+2024-06-30,Molokhia,37
+2024-07-01,Molokhia,48
+2024-07-02,Molokhia,50
+2024-07-03,Molokhia,39
+2024-07-04,Molokhia,42
+2024-07-05,Molokhia,51
+2024-07-06,Molokhia,64
+2024-07-07,Molokhia,43
+2024-07-08,Molokhia,43
+2024-07-09,Molokhia,32
+2024-07-10,Molokhia,42
+2024-07-11,Molokhia,69
+2024-07-12,Molokhia,72
+2024-07-13,Molokhia,66
+2024-07-14,Molokhia,65
+2024-07-15,Molokhia,40
+2024-07-16,Molokhia,39
+2024-07-17,Molokhia,54
+2024-07-18,Molokhia,40
+2024-07-19,Molokhia,53
+2024-07-20,Molokhia,85
+2024-07-21,Molokhia,34
+2024-07-22,Molokhia,40
+2024-07-23,Molokhia,48
+2024-07-24,Molokhia,46
+2024-07-25,Molokhia,39
+2024-07-26,Molokhia,67
+2024-07-27,Molokhia,60
+2024-07-28,Molokhia,32
+2024-07-29,Molokhia,34
+2024-07-30,Molokhia,39
+2024-07-31,Molokhia,52
+2024-08-01,Molokhia,36
+2024-08-02,Molokhia,56
+2024-08-03,Molokhia,62
+2024-08-04,Molokhia,66
+2024-08-05,Molokhia,40
+2024-08-06,Molokhia,35
+2024-08-07,Molokhia,56
+2024-08-08,Molokhia,45
+2024-08-09,Molokhia,58
+2024-08-10,Molokhia,42
+2024-08-11,Molokhia,32
+2024-08-12,Molokhia,33
+2024-08-13,Molokhia,45
+2024-08-14,Molokhia,34
+2024-08-15,Molokhia,46
+2024-08-16,Molokhia,54
+2024-08-17,Molokhia,60
+2024-08-18,Molokhia,47
+2024-08-19,Molokhia,47
+2024-08-20,Molokhia,69
+2024-08-21,Molokhia,30
+2024-08-22,Molokhia,37
+2024-08-23,Molokhia,56
+2024-08-24,Molokhia,46
+2024-08-25,Molokhia,38
+2024-08-26,Molokhia,37
+2024-08-27,Molokhia,25
+2024-08-28,Molokhia,31
+2024-08-29,Molokhia,39
+2024-08-30,Molokhia,48
+2024-08-31,Molokhia,47
+2024-09-01,Molokhia,51
+2024-09-02,Molokhia,45
+2024-09-03,Molokhia,43
+2024-09-04,Molokhia,39
+2024-09-05,Molokhia,59
+2024-09-06,Molokhia,45
+2024-09-07,Molokhia,63
+2024-09-08,Molokhia,34
+2024-09-09,Molokhia,41
+2024-09-10,Molokhia,36
+2024-09-11,Molokhia,40
+2024-09-12,Molokhia,37
+2024-09-13,Molokhia,44
+2024-09-14,Molokhia,47
+2024-09-15,Molokhia,30
+2024-09-16,Molokhia,43
+2024-09-17,Molokhia,42
+2024-09-18,Molokhia,40
+2024-09-19,Molokhia,40
+2024-09-20,Molokhia,46
+2024-09-21,Molokhia,53
+2024-09-22,Molokhia,49
+2024-09-23,Molokhia,48
+2024-09-24,Molokhia,40
+2024-09-25,Molokhia,35
+2024-09-26,Molokhia,36
+2024-09-27,Molokhia,51
+2024-09-28,Molokhia,49
+2024-09-29,Molokhia,34
+2024-09-30,Molokhia,40
+2024-10-01,Molokhia,42
+2024-10-02,Molokhia,42
+2024-10-03,Molokhia,41
+2024-10-04,Molokhia,45
+2024-10-05,Molokhia,56
+2024-10-06,Molokhia,41
+2024-10-07,Molokhia,41
+2024-10-08,Molokhia,43
+2024-10-09,Molokhia,35
+2024-10-10,Molokhia,37
+2024-10-11,Molokhia,58
+2024-10-12,Molokhia,52
+2024-10-13,Molokhia,36
+2024-10-14,Molokhia,40
+2024-10-15,Molokhia,45
+2024-10-16,Molokhia,36
+2024-10-17,Molokhia,49
+2024-10-18,Molokhia,48
+2024-10-19,Molokhia,52
+2024-10-20,Molokhia,46
+2024-10-21,Molokhia,39
+2024-10-22,Molokhia,44
+2024-10-23,Molokhia,32
+2024-10-24,Molokhia,37
+2024-10-25,Molokhia,54
+2024-10-26,Molokhia,43
+2024-10-27,Molokhia,33
+2024-10-28,Molokhia,43
+2024-10-29,Molokhia,38
+2024-10-30,Molokhia,37
+2024-10-31,Molokhia,38
+2024-11-01,Molokhia,65
+2024-11-02,Molokhia,60
+2024-11-03,Molokhia,43
+2024-11-04,Molokhia,39
+2024-11-05,Molokhia,32
+2024-11-06,Molokhia,40
+2024-11-07,Molokhia,39
+2024-11-08,Molokhia,43
+2024-11-09,Molokhia,67
+2024-11-10,Molokhia,45
+2024-11-11,Molokhia,43
+2024-11-12,Molokhia,32
+2024-11-13,Molokhia,47
+2024-11-14,Molokhia,39
+2024-11-15,Molokhia,52
+2024-11-16,Molokhia,58
+2024-11-17,Molokhia,42
+2024-11-18,Molokhia,72
+2024-11-19,Molokhia,35
+2024-11-20,Molokhia,40
+2024-11-21,Molokhia,35
+2024-11-22,Molokhia,48
+2024-11-23,Molokhia,59
+2024-11-24,Molokhia,42
+2024-11-25,Molokhia,50
+2024-11-26,Molokhia,37
+2024-11-27,Molokhia,51
+2024-11-28,Molokhia,39
+2024-11-29,Molokhia,54
+2024-11-30,Molokhia,52
+2024-12-01,Molokhia,44
+2024-12-02,Molokhia,47
+2024-12-03,Molokhia,39
+2024-12-04,Molokhia,51
+2024-12-05,Molokhia,53
+2024-12-06,Molokhia,59
+2024-12-07,Molokhia,63
+2024-12-08,Molokhia,49
+2024-12-09,Molokhia,51
+2024-12-10,Molokhia,43
+2024-12-11,Molokhia,47
+2024-12-12,Molokhia,47
+2024-12-13,Molokhia,54
+2024-12-14,Molokhia,58
+2024-12-15,Molokhia,39
+2024-12-16,Molokhia,42
+2024-12-17,Molokhia,44
+2024-12-18,Molokhia,48
+2024-12-19,Molokhia,42
+2024-12-20,Molokhia,68
+2024-12-21,Molokhia,51
+2024-12-22,Molokhia,43
+2024-12-23,Molokhia,42
+2024-12-24,Molokhia,51
+2024-12-25,Molokhia,44
+2024-12-26,Molokhia,43
+2024-12-27,Molokhia,53
+2024-12-28,Molokhia,67
+2024-12-29,Molokhia,52
+2024-12-30,Molokhia,50
+2024-12-31,Molokhia,46
+2025-01-01,Molokhia,44
+2025-01-02,Molokhia,63
+2025-01-03,Molokhia,61
+2025-01-04,Molokhia,61
+2025-01-05,Molokhia,50
+2025-01-06,Molokhia,53
+2025-01-07,Molokhia,62
+2025-01-08,Molokhia,42
+2025-01-09,Molokhia,46
+2025-01-10,Molokhia,71
+2025-01-11,Molokhia,67
+2025-01-12,Molokhia,43
+2025-01-13,Molokhia,57
+2025-01-14,Molokhia,47
+2025-01-15,Molokhia,60
+2025-01-16,Molokhia,52
+2025-01-17,Molokhia,70
+2025-01-18,Molokhia,60
+2025-01-19,Molokhia,55
+2025-01-20,Molokhia,44
+2025-01-21,Molokhia,54
+2025-01-22,Molokhia,51
+2025-01-23,Molokhia,42
+2025-01-24,Molokhia,82
+2025-01-25,Molokhia,68
+2025-01-26,Molokhia,52
+2025-01-27,Molokhia,54
+2025-01-28,Molokhia,65
+2025-01-29,Molokhia,59
+2025-01-30,Molokhia,41
+2025-01-31,Molokhia,74
+2025-02-01,Molokhia,90
+2025-02-02,Molokhia,40
+2025-02-03,Molokhia,60
+2025-02-04,Molokhia,57
+2025-02-05,Molokhia,41
+2025-02-06,Molokhia,55
+2025-02-07,Molokhia,70
+2025-02-08,Molokhia,105
+2025-02-09,Molokhia,48
+2025-02-10,Molokhia,51
+2025-02-11,Molokhia,53
+2025-02-12,Molokhia,58
+2025-02-13,Molokhia,46
+2025-02-14,Molokhia,93
+2025-02-15,Molokhia,67
+2025-02-16,Molokhia,32
+2025-02-17,Molokhia,61
+2025-02-18,Molokhia,60
+2025-02-19,Molokhia,63
+2025-02-20,Molokhia,57
+2025-02-21,Molokhia,76
+2025-02-22,Molokhia,64
+2025-02-23,Molokhia,58
+2025-02-24,Molokhia,74
+2025-02-25,Molokhia,54
+2025-02-26,Molokhia,65
+2025-02-27,Molokhia,52
+2025-02-28,Molokhia,85
+2025-03-01,Molokhia,112
+2025-03-02,Molokhia,56
+2025-03-03,Molokhia,75
+2025-03-04,Molokhia,73
+2025-03-05,Molokhia,89
+2025-03-06,Molokhia,95
+2025-03-07,Molokhia,177
+2025-03-08,Molokhia,133
+2025-03-09,Molokhia,129
+2025-03-10,Molokhia,73
+2025-03-11,Molokhia,90
+2025-03-12,Molokhia,81
+2025-03-13,Molokhia,88
+2025-03-14,Molokhia,114
+2025-03-15,Molokhia,112
+2025-03-16,Molokhia,85
+2025-03-17,Molokhia,105
+2025-03-18,Molokhia,67
+2025-03-19,Molokhia,75
+2025-03-20,Molokhia,76
+2025-03-21,Molokhia,114
+2025-03-22,Molokhia,127
+2025-03-23,Molokhia,60
+2025-03-24,Molokhia,84
+2025-03-25,Molokhia,96
+2025-03-26,Molokhia,99
+2025-03-27,Molokhia,71
+2025-03-28,Molokhia,133
+2025-03-29,Molokhia,130
+2025-03-30,Molokhia,152
+2025-03-31,Molokhia,55
+2025-04-01,Molokhia,57
+2025-04-02,Molokhia,60
+2025-04-03,Molokhia,56
+2025-04-04,Molokhia,61
+2025-04-05,Molokhia,65
+2025-04-06,Molokhia,77
+2025-04-07,Molokhia,66
+2025-04-08,Molokhia,59
+2025-04-09,Molokhia,50
+2025-04-10,Molokhia,71
+2025-04-11,Molokhia,69
+2025-04-12,Molokhia,72
+2025-04-13,Molokhia,54
+2025-04-14,Molokhia,54
+2025-04-15,Molokhia,75
+2025-04-16,Molokhia,63
+2025-04-17,Molokhia,45
+2025-04-18,Molokhia,70
+2025-04-19,Molokhia,64
+2025-04-20,Molokhia,54
+2025-04-21,Molokhia,60
+2025-04-22,Molokhia,63
+2025-04-23,Molokhia,60
+2025-04-24,Molokhia,55
+2025-04-25,Molokhia,79
+2025-04-26,Molokhia,74
+2025-04-27,Molokhia,54
+2025-04-28,Molokhia,59
+2025-04-29,Molokhia,53
+2025-04-30,Molokhia,45
+2025-05-01,Molokhia,52
+2025-05-02,Molokhia,59
+2025-05-03,Molokhia,70
+2025-05-04,Molokhia,57
+2025-05-05,Molokhia,56
+2025-05-06,Molokhia,55
+2025-05-07,Molokhia,53
+2025-05-08,Molokhia,56
+2025-05-09,Molokhia,79
+2025-05-10,Molokhia,70
+2025-05-11,Molokhia,47
+2025-05-12,Molokhia,56
+2025-05-13,Molokhia,47
+2025-05-14,Molokhia,48
+2025-05-15,Molokhia,60
+2025-05-16,Molokhia,75
+2025-05-17,Molokhia,85
+2025-05-18,Molokhia,61
+2025-05-19,Molokhia,54
+2025-05-20,Molokhia,60
+2025-05-21,Molokhia,47
+2025-05-22,Molokhia,53
+2025-05-23,Molokhia,73
+2025-05-24,Molokhia,69
+2025-05-25,Molokhia,59
+2025-05-26,Molokhia,78
+2025-05-27,Molokhia,55
+2025-05-28,Molokhia,63
+2025-05-29,Molokhia,53
+2025-05-30,Molokhia,81
+2025-05-31,Molokhia,81
+2025-06-01,Molokhia,57
+2025-06-02,Molokhia,62
+2025-06-03,Molokhia,54
+2025-06-04,Molokhia,55
+2025-06-05,Molokhia,48
+2025-06-06,Molokhia,67
+2025-06-07,Molokhia,73
+2025-06-08,Molokhia,50
+2025-06-09,Molokhia,55
+2025-06-10,Molokhia,52
+2025-06-11,Molokhia,59
+2025-06-12,Molokhia,52
+2025-06-13,Molokhia,78
+2025-06-14,Molokhia,58
+2025-06-15,Molokhia,47
+2025-06-16,Molokhia,53
+2025-06-17,Molokhia,49
+2025-06-18,Molokhia,51
+2025-06-19,Molokhia,50
+2025-06-20,Molokhia,68
+2025-06-21,Molokhia,57
+2025-06-22,Molokhia,52
+2025-06-23,Molokhia,61
+2024-01-01,Pasta Alfredo,29
+2024-01-02,Pasta Alfredo,35
+2024-01-03,Pasta Alfredo,31
+2024-01-04,Pasta Alfredo,32
+2024-01-05,Pasta Alfredo,52
+2024-01-06,Pasta Alfredo,40
+2024-01-07,Pasta Alfredo,42
+2024-01-08,Pasta Alfredo,43
+2024-01-09,Pasta Alfredo,28
+2024-01-10,Pasta Alfredo,32
+2024-01-11,Pasta Alfredo,27
+2024-01-12,Pasta Alfredo,38
+2024-01-13,Pasta Alfredo,29
+2024-01-14,Pasta Alfredo,30
+2024-01-15,Pasta Alfredo,41
+2024-01-16,Pasta Alfredo,32
+2024-01-17,Pasta Alfredo,41
+2024-01-18,Pasta Alfredo,36
+2024-01-19,Pasta Alfredo,47
+2024-01-20,Pasta Alfredo,34
+2024-01-21,Pasta Alfredo,34
+2024-01-22,Pasta Alfredo,34
+2024-01-23,Pasta Alfredo,34
+2024-01-24,Pasta Alfredo,29
+2024-01-25,Pasta Alfredo,33
+2024-01-26,Pasta Alfredo,46
+2024-01-27,Pasta Alfredo,41
+2024-01-28,Pasta Alfredo,48
+2024-01-29,Pasta Alfredo,35
+2024-01-30,Pasta Alfredo,32
+2024-01-31,Pasta Alfredo,29
+2024-02-01,Pasta Alfredo,37
+2024-02-02,Pasta Alfredo,43
+2024-02-03,Pasta Alfredo,39
+2024-02-04,Pasta Alfredo,31
+2024-02-05,Pasta Alfredo,35
+2024-02-06,Pasta Alfredo,35
+2024-02-07,Pasta Alfredo,31
+2024-02-08,Pasta Alfredo,30
+2024-02-09,Pasta Alfredo,44
+2024-02-10,Pasta Alfredo,52
+2024-02-11,Pasta Alfredo,26
+2024-02-12,Pasta Alfredo,32
+2024-02-13,Pasta Alfredo,29
+2024-02-14,Pasta Alfredo,37
+2024-02-15,Pasta Alfredo,35
+2024-02-16,Pasta Alfredo,46
+2024-02-17,Pasta Alfredo,41
+2024-02-18,Pasta Alfredo,29
+2024-02-19,Pasta Alfredo,36
+2024-02-20,Pasta Alfredo,34
+2024-02-21,Pasta Alfredo,31
+2024-02-22,Pasta Alfredo,34
+2024-02-23,Pasta Alfredo,45
+2024-02-24,Pasta Alfredo,52
+2024-02-25,Pasta Alfredo,36
+2024-02-26,Pasta Alfredo,34
+2024-02-27,Pasta Alfredo,35
+2024-02-28,Pasta Alfredo,36
+2024-02-29,Pasta Alfredo,35
+2024-03-01,Pasta Alfredo,39
+2024-03-02,Pasta Alfredo,54
+2024-03-03,Pasta Alfredo,62
+2024-03-04,Pasta Alfredo,40
+2024-03-05,Pasta Alfredo,39
+2024-03-06,Pasta Alfredo,33
+2024-03-07,Pasta Alfredo,42
+2024-03-08,Pasta Alfredo,50
+2024-03-09,Pasta Alfredo,54
+2024-03-10,Pasta Alfredo,36
+2024-03-11,Pasta Alfredo,49
+2024-03-12,Pasta Alfredo,56
+2024-03-13,Pasta Alfredo,62
+2024-03-14,Pasta Alfredo,54
+2024-03-15,Pasta Alfredo,79
+2024-03-16,Pasta Alfredo,73
+2024-03-17,Pasta Alfredo,52
+2024-03-18,Pasta Alfredo,38
+2024-03-19,Pasta Alfredo,43
+2024-03-20,Pasta Alfredo,51
+2024-03-21,Pasta Alfredo,54
+2024-03-22,Pasta Alfredo,88
+2024-03-23,Pasta Alfredo,69
+2024-03-24,Pasta Alfredo,51
+2024-03-25,Pasta Alfredo,70
+2024-03-26,Pasta Alfredo,90
+2024-03-27,Pasta Alfredo,78
+2024-03-28,Pasta Alfredo,62
+2024-03-29,Pasta Alfredo,69
+2024-03-30,Pasta Alfredo,77
+2024-03-31,Pasta Alfredo,84
+2024-04-01,Pasta Alfredo,70
+2024-04-02,Pasta Alfredo,53
+2024-04-03,Pasta Alfredo,61
+2024-04-04,Pasta Alfredo,51
+2024-04-05,Pasta Alfredo,70
+2024-04-06,Pasta Alfredo,75
+2024-04-07,Pasta Alfredo,93
+2024-04-08,Pasta Alfredo,58
+2024-04-09,Pasta Alfredo,60
+2024-04-10,Pasta Alfredo,71
+2024-04-11,Pasta Alfredo,36
+2024-04-12,Pasta Alfredo,49
+2024-04-13,Pasta Alfredo,52
+2024-04-14,Pasta Alfredo,34
+2024-04-15,Pasta Alfredo,37
+2024-04-16,Pasta Alfredo,25
+2024-04-17,Pasta Alfredo,29
+2024-04-18,Pasta Alfredo,36
+2024-04-19,Pasta Alfredo,41
+2024-04-20,Pasta Alfredo,52
+2024-04-21,Pasta Alfredo,35
+2024-04-22,Pasta Alfredo,37
+2024-04-23,Pasta Alfredo,40
+2024-04-24,Pasta Alfredo,49
+2024-04-25,Pasta Alfredo,29
+2024-04-26,Pasta Alfredo,43
+2024-04-27,Pasta Alfredo,54
+2024-04-28,Pasta Alfredo,42
+2024-04-29,Pasta Alfredo,34
+2024-04-30,Pasta Alfredo,36
+2024-05-01,Pasta Alfredo,28
+2024-05-02,Pasta Alfredo,38
+2024-05-03,Pasta Alfredo,53
+2024-05-04,Pasta Alfredo,46
+2024-05-05,Pasta Alfredo,39
+2024-05-06,Pasta Alfredo,40
+2024-05-07,Pasta Alfredo,34
+2024-05-08,Pasta Alfredo,27
+2024-05-09,Pasta Alfredo,30
+2024-05-10,Pasta Alfredo,50
+2024-05-11,Pasta Alfredo,48
+2024-05-12,Pasta Alfredo,47
+2024-05-13,Pasta Alfredo,29
+2024-05-14,Pasta Alfredo,32
+2024-05-15,Pasta Alfredo,39
+2024-05-16,Pasta Alfredo,42
+2024-05-17,Pasta Alfredo,48
+2024-05-18,Pasta Alfredo,38
+2024-05-19,Pasta Alfredo,51
+2024-05-20,Pasta Alfredo,36
+2024-05-21,Pasta Alfredo,33
+2024-05-22,Pasta Alfredo,32
+2024-05-23,Pasta Alfredo,35
+2024-05-24,Pasta Alfredo,51
+2024-05-25,Pasta Alfredo,46
+2024-05-26,Pasta Alfredo,33
+2024-05-27,Pasta Alfredo,34
+2024-05-28,Pasta Alfredo,36
+2024-05-29,Pasta Alfredo,35
+2024-05-30,Pasta Alfredo,35
+2024-05-31,Pasta Alfredo,60
+2024-06-01,Pasta Alfredo,51
+2024-06-02,Pasta Alfredo,39
+2024-06-03,Pasta Alfredo,35
+2024-06-04,Pasta Alfredo,38
+2024-06-05,Pasta Alfredo,35
+2024-06-06,Pasta Alfredo,30
+2024-06-07,Pasta Alfredo,50
+2024-06-08,Pasta Alfredo,46
+2024-06-09,Pasta Alfredo,37
+2024-06-10,Pasta Alfredo,40
+2024-06-11,Pasta Alfredo,33
+2024-06-12,Pasta Alfredo,42
+2024-06-13,Pasta Alfredo,31
+2024-06-14,Pasta Alfredo,49
+2024-06-15,Pasta Alfredo,49
+2024-06-16,Pasta Alfredo,54
+2024-06-17,Pasta Alfredo,32
+2024-06-18,Pasta Alfredo,34
+2024-06-19,Pasta Alfredo,34
+2024-06-20,Pasta Alfredo,39
+2024-06-21,Pasta Alfredo,43
+2024-06-22,Pasta Alfredo,42
+2024-06-23,Pasta Alfredo,31
+2024-06-24,Pasta Alfredo,37
+2024-06-25,Pasta Alfredo,36
+2024-06-26,Pasta Alfredo,28
+2024-06-27,Pasta Alfredo,28
+2024-06-28,Pasta Alfredo,46
+2024-06-29,Pasta Alfredo,44
+2024-06-30,Pasta Alfredo,26
+2024-07-01,Pasta Alfredo,28
+2024-07-02,Pasta Alfredo,33
+2024-07-03,Pasta Alfredo,42
+2024-07-04,Pasta Alfredo,49
+2024-07-05,Pasta Alfredo,39
+2024-07-06,Pasta Alfredo,71
+2024-07-07,Pasta Alfredo,28
+2024-07-08,Pasta Alfredo,30
+2024-07-09,Pasta Alfredo,37
+2024-07-10,Pasta Alfredo,28
+2024-07-11,Pasta Alfredo,38
+2024-07-12,Pasta Alfredo,46
+2024-07-13,Pasta Alfredo,63
+2024-07-14,Pasta Alfredo,33
+2024-07-15,Pasta Alfredo,35
+2024-07-16,Pasta Alfredo,32
+2024-07-17,Pasta Alfredo,32
+2024-07-18,Pasta Alfredo,29
+2024-07-19,Pasta Alfredo,41
+2024-07-20,Pasta Alfredo,49
+2024-07-21,Pasta Alfredo,33
+2024-07-22,Pasta Alfredo,33
+2024-07-23,Pasta Alfredo,48
+2024-07-24,Pasta Alfredo,30
+2024-07-25,Pasta Alfredo,25
+2024-07-26,Pasta Alfredo,48
+2024-07-27,Pasta Alfredo,45
+2024-07-28,Pasta Alfredo,31
+2024-07-29,Pasta Alfredo,28
+2024-07-30,Pasta Alfredo,47
+2024-07-31,Pasta Alfredo,27
+2024-08-01,Pasta Alfredo,33
+2024-08-02,Pasta Alfredo,38
+2024-08-03,Pasta Alfredo,43
+2024-08-04,Pasta Alfredo,35
+2024-08-05,Pasta Alfredo,31
+2024-08-06,Pasta Alfredo,32
+2024-08-07,Pasta Alfredo,37
+2024-08-08,Pasta Alfredo,32
+2024-08-09,Pasta Alfredo,36
+2024-08-10,Pasta Alfredo,44
+2024-08-11,Pasta Alfredo,29
+2024-08-12,Pasta Alfredo,36
+2024-08-13,Pasta Alfredo,29
+2024-08-14,Pasta Alfredo,29
+2024-08-15,Pasta Alfredo,32
+2024-08-16,Pasta Alfredo,42
+2024-08-17,Pasta Alfredo,43
+2024-08-18,Pasta Alfredo,28
+2024-08-19,Pasta Alfredo,32
+2024-08-20,Pasta Alfredo,24
+2024-08-21,Pasta Alfredo,28
+2024-08-22,Pasta Alfredo,32
+2024-08-23,Pasta Alfredo,31
+2024-08-24,Pasta Alfredo,42
+2024-08-25,Pasta Alfredo,30
+2024-08-26,Pasta Alfredo,27
+2024-08-27,Pasta Alfredo,31
+2024-08-28,Pasta Alfredo,27
+2024-08-29,Pasta Alfredo,44
+2024-08-30,Pasta Alfredo,41
+2024-08-31,Pasta Alfredo,44
+2024-09-01,Pasta Alfredo,36
+2024-09-02,Pasta Alfredo,30
+2024-09-03,Pasta Alfredo,33
+2024-09-04,Pasta Alfredo,35
+2024-09-05,Pasta Alfredo,31
+2024-09-06,Pasta Alfredo,41
+2024-09-07,Pasta Alfredo,42
+2024-09-08,Pasta Alfredo,25
+2024-09-09,Pasta Alfredo,32
+2024-09-10,Pasta Alfredo,33
+2024-09-11,Pasta Alfredo,31
+2024-09-12,Pasta Alfredo,23
+2024-09-13,Pasta Alfredo,37
+2024-09-14,Pasta Alfredo,30
+2024-09-15,Pasta Alfredo,36
+2024-09-16,Pasta Alfredo,31
+2024-09-17,Pasta Alfredo,31
+2024-09-18,Pasta Alfredo,25
+2024-09-19,Pasta Alfredo,26
+2024-09-20,Pasta Alfredo,38
+2024-09-21,Pasta Alfredo,43
+2024-09-22,Pasta Alfredo,37
+2024-09-23,Pasta Alfredo,35
+2024-09-24,Pasta Alfredo,24
+2024-09-25,Pasta Alfredo,28
+2024-09-26,Pasta Alfredo,33
+2024-09-27,Pasta Alfredo,34
+2024-09-28,Pasta Alfredo,37
+2024-09-29,Pasta Alfredo,29
+2024-09-30,Pasta Alfredo,25
+2024-10-01,Pasta Alfredo,23
+2024-10-02,Pasta Alfredo,26
+2024-10-03,Pasta Alfredo,33
+2024-10-04,Pasta Alfredo,38
+2024-10-05,Pasta Alfredo,34
+2024-10-06,Pasta Alfredo,25
+2024-10-07,Pasta Alfredo,32
+2024-10-08,Pasta Alfredo,27
+2024-10-09,Pasta Alfredo,30
+2024-10-10,Pasta Alfredo,28
+2024-10-11,Pasta Alfredo,41
+2024-10-12,Pasta Alfredo,43
+2024-10-13,Pasta Alfredo,32
+2024-10-14,Pasta Alfredo,26
+2024-10-15,Pasta Alfredo,29
+2024-10-16,Pasta Alfredo,27
+2024-10-17,Pasta Alfredo,33
+2024-10-18,Pasta Alfredo,35
+2024-10-19,Pasta Alfredo,41
+2024-10-20,Pasta Alfredo,30
+2024-10-21,Pasta Alfredo,26
+2024-10-22,Pasta Alfredo,24
+2024-10-23,Pasta Alfredo,27
+2024-10-24,Pasta Alfredo,28
+2024-10-25,Pasta Alfredo,54
+2024-10-26,Pasta Alfredo,38
+2024-10-27,Pasta Alfredo,32
+2024-10-28,Pasta Alfredo,32
+2024-10-29,Pasta Alfredo,33
+2024-10-30,Pasta Alfredo,38
+2024-10-31,Pasta Alfredo,41
+2024-11-01,Pasta Alfredo,47
+2024-11-02,Pasta Alfredo,40
+2024-11-03,Pasta Alfredo,37
+2024-11-04,Pasta Alfredo,28
+2024-11-05,Pasta Alfredo,32
+2024-11-06,Pasta Alfredo,33
+2024-11-07,Pasta Alfredo,30
+2024-11-08,Pasta Alfredo,39
+2024-11-09,Pasta Alfredo,36
+2024-11-10,Pasta Alfredo,29
+2024-11-11,Pasta Alfredo,26
+2024-11-12,Pasta Alfredo,35
+2024-11-13,Pasta Alfredo,25
+2024-11-14,Pasta Alfredo,28
+2024-11-15,Pasta Alfredo,43
+2024-11-16,Pasta Alfredo,42
+2024-11-17,Pasta Alfredo,28
+2024-11-18,Pasta Alfredo,32
+2024-11-19,Pasta Alfredo,26
+2024-11-20,Pasta Alfredo,32
+2024-11-21,Pasta Alfredo,29
+2024-11-22,Pasta Alfredo,36
+2024-11-23,Pasta Alfredo,41
+2024-11-24,Pasta Alfredo,35
+2024-11-25,Pasta Alfredo,29
+2024-11-26,Pasta Alfredo,34
+2024-11-27,Pasta Alfredo,32
+2024-11-28,Pasta Alfredo,28
+2024-11-29,Pasta Alfredo,41
+2024-11-30,Pasta Alfredo,42
+2024-12-01,Pasta Alfredo,23
+2024-12-02,Pasta Alfredo,27
+2024-12-03,Pasta Alfredo,31
+2024-12-04,Pasta Alfredo,38
+2024-12-05,Pasta Alfredo,50
+2024-12-06,Pasta Alfredo,46
+2024-12-07,Pasta Alfredo,46
+2024-12-08,Pasta Alfredo,30
+2024-12-09,Pasta Alfredo,29
+2024-12-10,Pasta Alfredo,34
+2024-12-11,Pasta Alfredo,36
+2024-12-12,Pasta Alfredo,41
+2024-12-13,Pasta Alfredo,71
+2024-12-14,Pasta Alfredo,52
+2024-12-15,Pasta Alfredo,37
+2024-12-16,Pasta Alfredo,33
+2024-12-17,Pasta Alfredo,30
+2024-12-18,Pasta Alfredo,26
+2024-12-19,Pasta Alfredo,33
+2024-12-20,Pasta Alfredo,51
+2024-12-21,Pasta Alfredo,43
+2024-12-22,Pasta Alfredo,34
+2024-12-23,Pasta Alfredo,32
+2024-12-24,Pasta Alfredo,36
+2024-12-25,Pasta Alfredo,47
+2024-12-26,Pasta Alfredo,24
+2024-12-27,Pasta Alfredo,55
+2024-12-28,Pasta Alfredo,50
+2024-12-29,Pasta Alfredo,26
+2024-12-30,Pasta Alfredo,35
+2024-12-31,Pasta Alfredo,38
+2025-01-01,Pasta Alfredo,29
+2025-01-02,Pasta Alfredo,39
+2025-01-03,Pasta Alfredo,56
+2025-01-04,Pasta Alfredo,41
+2025-01-05,Pasta Alfredo,33
+2025-01-06,Pasta Alfredo,36
+2025-01-07,Pasta Alfredo,64
+2025-01-08,Pasta Alfredo,34
+2025-01-09,Pasta Alfredo,39
+2025-01-10,Pasta Alfredo,49
+2025-01-11,Pasta Alfredo,45
+2025-01-12,Pasta Alfredo,29
+2025-01-13,Pasta Alfredo,33
+2025-01-14,Pasta Alfredo,33
+2025-01-15,Pasta Alfredo,45
+2025-01-16,Pasta Alfredo,41
+2025-01-17,Pasta Alfredo,47
+2025-01-18,Pasta Alfredo,51
+2025-01-19,Pasta Alfredo,34
+2025-01-20,Pasta Alfredo,43
+2025-01-21,Pasta Alfredo,34
+2025-01-22,Pasta Alfredo,34
+2025-01-23,Pasta Alfredo,38
+2025-01-24,Pasta Alfredo,42
+2025-01-25,Pasta Alfredo,49
+2025-01-26,Pasta Alfredo,35
+2025-01-27,Pasta Alfredo,40
+2025-01-28,Pasta Alfredo,44
+2025-01-29,Pasta Alfredo,53
+2025-01-30,Pasta Alfredo,39
+2025-01-31,Pasta Alfredo,56
+2025-02-01,Pasta Alfredo,42
+2025-02-02,Pasta Alfredo,36
+2025-02-03,Pasta Alfredo,42
+2025-02-04,Pasta Alfredo,44
+2025-02-05,Pasta Alfredo,42
+2025-02-06,Pasta Alfredo,46
+2025-02-07,Pasta Alfredo,67
+2025-02-08,Pasta Alfredo,59
+2025-02-09,Pasta Alfredo,39
+2025-02-10,Pasta Alfredo,30
+2025-02-11,Pasta Alfredo,25
+2025-02-12,Pasta Alfredo,41
+2025-02-13,Pasta Alfredo,38
+2025-02-14,Pasta Alfredo,66
+2025-02-15,Pasta Alfredo,55
+2025-02-16,Pasta Alfredo,38
+2025-02-17,Pasta Alfredo,40
+2025-02-18,Pasta Alfredo,37
+2025-02-19,Pasta Alfredo,34
+2025-02-20,Pasta Alfredo,40
+2025-02-21,Pasta Alfredo,49
+2025-02-22,Pasta Alfredo,60
+2025-02-23,Pasta Alfredo,50
+2025-02-24,Pasta Alfredo,38
+2025-02-25,Pasta Alfredo,48
+2025-02-26,Pasta Alfredo,33
+2025-02-27,Pasta Alfredo,45
+2025-02-28,Pasta Alfredo,56
+2025-03-01,Pasta Alfredo,93
+2025-03-02,Pasta Alfredo,74
+2025-03-03,Pasta Alfredo,95
+2025-03-04,Pasta Alfredo,54
+2025-03-05,Pasta Alfredo,99
+2025-03-06,Pasta Alfredo,97
+2025-03-07,Pasta Alfredo,85
+2025-03-08,Pasta Alfredo,87
+2025-03-09,Pasta Alfredo,72
+2025-03-10,Pasta Alfredo,67
+2025-03-11,Pasta Alfredo,62
+2025-03-12,Pasta Alfredo,67
+2025-03-13,Pasta Alfredo,58
+2025-03-14,Pasta Alfredo,81
+2025-03-15,Pasta Alfredo,89
+2025-03-16,Pasta Alfredo,65
+2025-03-17,Pasta Alfredo,68
+2025-03-18,Pasta Alfredo,66
+2025-03-19,Pasta Alfredo,56
+2025-03-20,Pasta Alfredo,78
+2025-03-21,Pasta Alfredo,102
+2025-03-22,Pasta Alfredo,94
+2025-03-23,Pasta Alfredo,63
+2025-03-24,Pasta Alfredo,74
+2025-03-25,Pasta Alfredo,73
+2025-03-26,Pasta Alfredo,77
+2025-03-27,Pasta Alfredo,71
+2025-03-28,Pasta Alfredo,87
+2025-03-29,Pasta Alfredo,96
+2025-03-30,Pasta Alfredo,77
+2025-03-31,Pasta Alfredo,40
+2025-04-01,Pasta Alfredo,51
+2025-04-02,Pasta Alfredo,36
+2025-04-03,Pasta Alfredo,33
+2025-04-04,Pasta Alfredo,54
+2025-04-05,Pasta Alfredo,55
+2025-04-06,Pasta Alfredo,46
+2025-04-07,Pasta Alfredo,43
+2025-04-08,Pasta Alfredo,42
+2025-04-09,Pasta Alfredo,34
+2025-04-10,Pasta Alfredo,42
+2025-04-11,Pasta Alfredo,52
+2025-04-12,Pasta Alfredo,61
+2025-04-13,Pasta Alfredo,42
+2025-04-14,Pasta Alfredo,30
+2025-04-15,Pasta Alfredo,48
+2025-04-16,Pasta Alfredo,24
+2025-04-17,Pasta Alfredo,36
+2025-04-18,Pasta Alfredo,57
+2025-04-19,Pasta Alfredo,55
+2025-04-20,Pasta Alfredo,44
+2025-04-21,Pasta Alfredo,39
+2025-04-22,Pasta Alfredo,38
+2025-04-23,Pasta Alfredo,41
+2025-04-24,Pasta Alfredo,49
+2025-04-25,Pasta Alfredo,48
+2025-04-26,Pasta Alfredo,57
+2025-04-27,Pasta Alfredo,43
+2025-04-28,Pasta Alfredo,42
+2025-04-29,Pasta Alfredo,39
+2025-04-30,Pasta Alfredo,40
+2025-05-01,Pasta Alfredo,41
+2025-05-02,Pasta Alfredo,56
+2025-05-03,Pasta Alfredo,59
+2025-05-04,Pasta Alfredo,44
+2025-05-05,Pasta Alfredo,43
+2025-05-06,Pasta Alfredo,46
+2025-05-07,Pasta Alfredo,32
+2025-05-08,Pasta Alfredo,60
+2025-05-09,Pasta Alfredo,55
+2025-05-10,Pasta Alfredo,57
+2025-05-11,Pasta Alfredo,40
+2025-05-12,Pasta Alfredo,43
+2025-05-13,Pasta Alfredo,38
+2025-05-14,Pasta Alfredo,58
+2025-05-15,Pasta Alfredo,33
+2025-05-16,Pasta Alfredo,53
+2025-05-17,Pasta Alfredo,53
+2025-05-18,Pasta Alfredo,29
+2025-05-19,Pasta Alfredo,41
+2025-05-20,Pasta Alfredo,59
+2025-05-21,Pasta Alfredo,39
+2025-05-22,Pasta Alfredo,44
+2025-05-23,Pasta Alfredo,63
+2025-05-24,Pasta Alfredo,94
+2025-05-25,Pasta Alfredo,34
+2025-05-26,Pasta Alfredo,43
+2025-05-27,Pasta Alfredo,41
+2025-05-28,Pasta Alfredo,40
+2025-05-29,Pasta Alfredo,34
+2025-05-30,Pasta Alfredo,54
+2025-05-31,Pasta Alfredo,39
+2025-06-01,Pasta Alfredo,39
+2025-06-02,Pasta Alfredo,32
+2025-06-03,Pasta Alfredo,37
+2025-06-04,Pasta Alfredo,62
+2025-06-05,Pasta Alfredo,51
+2025-06-06,Pasta Alfredo,41
+2025-06-07,Pasta Alfredo,55
+2025-06-08,Pasta Alfredo,50
+2025-06-09,Pasta Alfredo,49
+2025-06-10,Pasta Alfredo,32
+2025-06-11,Pasta Alfredo,53
+2025-06-12,Pasta Alfredo,51
+2025-06-13,Pasta Alfredo,49
+2025-06-14,Pasta Alfredo,44
+2025-06-15,Pasta Alfredo,41
+2025-06-16,Pasta Alfredo,29
+2025-06-17,Pasta Alfredo,40
+2025-06-18,Pasta Alfredo,60
+2025-06-19,Pasta Alfredo,33
+2025-06-20,Pasta Alfredo,62
+2025-06-21,Pasta Alfredo,47
+2025-06-22,Pasta Alfredo,37
+2025-06-23,Pasta Alfredo,31
+2024-01-01,Vegetable Salad,34
+2024-01-02,Vegetable Salad,38
+2024-01-03,Vegetable Salad,37
+2024-01-04,Vegetable Salad,35
+2024-01-05,Vegetable Salad,46
+2024-01-06,Vegetable Salad,38
+2024-01-07,Vegetable Salad,53
+2024-01-08,Vegetable Salad,39
+2024-01-09,Vegetable Salad,33
+2024-01-10,Vegetable Salad,23
+2024-01-11,Vegetable Salad,43
+2024-01-12,Vegetable Salad,51
+2024-01-13,Vegetable Salad,56
+2024-01-14,Vegetable Salad,35
+2024-01-15,Vegetable Salad,37
+2024-01-16,Vegetable Salad,39
+2024-01-17,Vegetable Salad,35
+2024-01-18,Vegetable Salad,58
+2024-01-19,Vegetable Salad,47
+2024-01-20,Vegetable Salad,62
+2024-01-21,Vegetable Salad,32
+2024-01-22,Vegetable Salad,39
+2024-01-23,Vegetable Salad,34
+2024-01-24,Vegetable Salad,33
+2024-01-25,Vegetable Salad,34
+2024-01-26,Vegetable Salad,35
+2024-01-27,Vegetable Salad,45
+2024-01-28,Vegetable Salad,42
+2024-01-29,Vegetable Salad,41
+2024-01-30,Vegetable Salad,33
+2024-01-31,Vegetable Salad,40
+2024-02-01,Vegetable Salad,35
+2024-02-02,Vegetable Salad,40
+2024-02-03,Vegetable Salad,57
+2024-02-04,Vegetable Salad,60
+2024-02-05,Vegetable Salad,36
+2024-02-06,Vegetable Salad,44
+2024-02-07,Vegetable Salad,38
+2024-02-08,Vegetable Salad,39
+2024-02-09,Vegetable Salad,52
+2024-02-10,Vegetable Salad,45
+2024-02-11,Vegetable Salad,38
+2024-02-12,Vegetable Salad,34
+2024-02-13,Vegetable Salad,42
+2024-02-14,Vegetable Salad,59
+2024-02-15,Vegetable Salad,31
+2024-02-16,Vegetable Salad,57
+2024-02-17,Vegetable Salad,53
+2024-02-18,Vegetable Salad,32
+2024-02-19,Vegetable Salad,57
+2024-02-20,Vegetable Salad,38
+2024-02-21,Vegetable Salad,37
+2024-02-22,Vegetable Salad,35
+2024-02-23,Vegetable Salad,56
+2024-02-24,Vegetable Salad,55
+2024-02-25,Vegetable Salad,41
+2024-02-26,Vegetable Salad,46
+2024-02-27,Vegetable Salad,48
+2024-02-28,Vegetable Salad,30
+2024-02-29,Vegetable Salad,42
+2024-03-01,Vegetable Salad,51
+2024-03-02,Vegetable Salad,58
+2024-03-03,Vegetable Salad,37
+2024-03-04,Vegetable Salad,50
+2024-03-05,Vegetable Salad,44
+2024-03-06,Vegetable Salad,40
+2024-03-07,Vegetable Salad,47
+2024-03-08,Vegetable Salad,70
+2024-03-09,Vegetable Salad,59
+2024-03-10,Vegetable Salad,56
+2024-03-11,Vegetable Salad,65
+2024-03-12,Vegetable Salad,79
+2024-03-13,Vegetable Salad,85
+2024-03-14,Vegetable Salad,69
+2024-03-15,Vegetable Salad,81
+2024-03-16,Vegetable Salad,88
+2024-03-17,Vegetable Salad,61
+2024-03-18,Vegetable Salad,62
+2024-03-19,Vegetable Salad,67
+2024-03-20,Vegetable Salad,61
+2024-03-21,Vegetable Salad,106
+2024-03-22,Vegetable Salad,88
+2024-03-23,Vegetable Salad,89
+2024-03-24,Vegetable Salad,62
+2024-03-25,Vegetable Salad,57
+2024-03-26,Vegetable Salad,58
+2024-03-27,Vegetable Salad,69
+2024-03-28,Vegetable Salad,64
+2024-03-29,Vegetable Salad,94
+2024-03-30,Vegetable Salad,102
+2024-03-31,Vegetable Salad,61
+2024-04-01,Vegetable Salad,84
+2024-04-02,Vegetable Salad,59
+2024-04-03,Vegetable Salad,58
+2024-04-04,Vegetable Salad,104
+2024-04-05,Vegetable Salad,90
+2024-04-06,Vegetable Salad,82
+2024-04-07,Vegetable Salad,57
+2024-04-08,Vegetable Salad,60
+2024-04-09,Vegetable Salad,95
+2024-04-10,Vegetable Salad,73
+2024-04-11,Vegetable Salad,47
+2024-04-12,Vegetable Salad,58
+2024-04-13,Vegetable Salad,62
+2024-04-14,Vegetable Salad,40
+2024-04-15,Vegetable Salad,49
+2024-04-16,Vegetable Salad,43
+2024-04-17,Vegetable Salad,46
+2024-04-18,Vegetable Salad,46
+2024-04-19,Vegetable Salad,64
+2024-04-20,Vegetable Salad,56
+2024-04-21,Vegetable Salad,50
+2024-04-22,Vegetable Salad,42
+2024-04-23,Vegetable Salad,41
+2024-04-24,Vegetable Salad,40
+2024-04-25,Vegetable Salad,40
+2024-04-26,Vegetable Salad,54
+2024-04-27,Vegetable Salad,80
+2024-04-28,Vegetable Salad,42
+2024-04-29,Vegetable Salad,42
+2024-04-30,Vegetable Salad,41
+2024-05-01,Vegetable Salad,46
+2024-05-02,Vegetable Salad,43
+2024-05-03,Vegetable Salad,59
+2024-05-04,Vegetable Salad,50
+2024-05-05,Vegetable Salad,36
+2024-05-06,Vegetable Salad,45
+2024-05-07,Vegetable Salad,64
+2024-05-08,Vegetable Salad,37
+2024-05-09,Vegetable Salad,36
+2024-05-10,Vegetable Salad,64
+2024-05-11,Vegetable Salad,53
+2024-05-12,Vegetable Salad,38
+2024-05-13,Vegetable Salad,36
+2024-05-14,Vegetable Salad,36
+2024-05-15,Vegetable Salad,52
+2024-05-16,Vegetable Salad,40
+2024-05-17,Vegetable Salad,53
+2024-05-18,Vegetable Salad,48
+2024-05-19,Vegetable Salad,46
+2024-05-20,Vegetable Salad,49
+2024-05-21,Vegetable Salad,46
+2024-05-22,Vegetable Salad,42
+2024-05-23,Vegetable Salad,39
+2024-05-24,Vegetable Salad,53
+2024-05-25,Vegetable Salad,56
+2024-05-26,Vegetable Salad,41
+2024-05-27,Vegetable Salad,27
+2024-05-28,Vegetable Salad,47
+2024-05-29,Vegetable Salad,42
+2024-05-30,Vegetable Salad,29
+2024-05-31,Vegetable Salad,51
+2024-06-01,Vegetable Salad,49
+2024-06-02,Vegetable Salad,40
+2024-06-03,Vegetable Salad,39
+2024-06-04,Vegetable Salad,42
+2024-06-05,Vegetable Salad,31
+2024-06-06,Vegetable Salad,40
+2024-06-07,Vegetable Salad,48
+2024-06-08,Vegetable Salad,50
+2024-06-09,Vegetable Salad,39
+2024-06-10,Vegetable Salad,47
+2024-06-11,Vegetable Salad,42
+2024-06-12,Vegetable Salad,39
+2024-06-13,Vegetable Salad,33
+2024-06-14,Vegetable Salad,53
+2024-06-15,Vegetable Salad,47
+2024-06-16,Vegetable Salad,66
+2024-06-17,Vegetable Salad,54
+2024-06-18,Vegetable Salad,34
+2024-06-19,Vegetable Salad,38
+2024-06-20,Vegetable Salad,43
+2024-06-21,Vegetable Salad,58
+2024-06-22,Vegetable Salad,51
+2024-06-23,Vegetable Salad,42
+2024-06-24,Vegetable Salad,39
+2024-06-25,Vegetable Salad,30
+2024-06-26,Vegetable Salad,37
+2024-06-27,Vegetable Salad,31
+2024-06-28,Vegetable Salad,55
+2024-06-29,Vegetable Salad,47
+2024-06-30,Vegetable Salad,39
+2024-07-01,Vegetable Salad,30
+2024-07-02,Vegetable Salad,38
+2024-07-03,Vegetable Salad,37
+2024-07-04,Vegetable Salad,40
+2024-07-05,Vegetable Salad,49
+2024-07-06,Vegetable Salad,51
+2024-07-07,Vegetable Salad,42
+2024-07-08,Vegetable Salad,41
+2024-07-09,Vegetable Salad,46
+2024-07-10,Vegetable Salad,47
+2024-07-11,Vegetable Salad,48
+2024-07-12,Vegetable Salad,50
+2024-07-13,Vegetable Salad,51
+2024-07-14,Vegetable Salad,46
+2024-07-15,Vegetable Salad,43
+2024-07-16,Vegetable Salad,34
+2024-07-17,Vegetable Salad,33
+2024-07-18,Vegetable Salad,28
+2024-07-19,Vegetable Salad,51
+2024-07-20,Vegetable Salad,57
+2024-07-21,Vegetable Salad,33
+2024-07-22,Vegetable Salad,33
+2024-07-23,Vegetable Salad,35
+2024-07-24,Vegetable Salad,39
+2024-07-25,Vegetable Salad,41
+2024-07-26,Vegetable Salad,50
+2024-07-27,Vegetable Salad,44
+2024-07-28,Vegetable Salad,35
+2024-07-29,Vegetable Salad,34
+2024-07-30,Vegetable Salad,38
+2024-07-31,Vegetable Salad,32
+2024-08-01,Vegetable Salad,30
+2024-08-02,Vegetable Salad,37
+2024-08-03,Vegetable Salad,44
+2024-08-04,Vegetable Salad,39
+2024-08-05,Vegetable Salad,44
+2024-08-06,Vegetable Salad,40
+2024-08-07,Vegetable Salad,30
+2024-08-08,Vegetable Salad,31
+2024-08-09,Vegetable Salad,44
+2024-08-10,Vegetable Salad,40
+2024-08-11,Vegetable Salad,26
+2024-08-12,Vegetable Salad,38
+2024-08-13,Vegetable Salad,30
+2024-08-14,Vegetable Salad,36
+2024-08-15,Vegetable Salad,45
+2024-08-16,Vegetable Salad,42
+2024-08-17,Vegetable Salad,50
+2024-08-18,Vegetable Salad,47
+2024-08-19,Vegetable Salad,39
+2024-08-20,Vegetable Salad,32
+2024-08-21,Vegetable Salad,30
+2024-08-22,Vegetable Salad,33
+2024-08-23,Vegetable Salad,42
+2024-08-24,Vegetable Salad,55
+2024-08-25,Vegetable Salad,31
+2024-08-26,Vegetable Salad,35
+2024-08-27,Vegetable Salad,34
+2024-08-28,Vegetable Salad,29
+2024-08-29,Vegetable Salad,30
+2024-08-30,Vegetable Salad,46
+2024-08-31,Vegetable Salad,46
+2024-09-01,Vegetable Salad,32
+2024-09-02,Vegetable Salad,33
+2024-09-03,Vegetable Salad,38
+2024-09-04,Vegetable Salad,30
+2024-09-05,Vegetable Salad,38
+2024-09-06,Vegetable Salad,42
+2024-09-07,Vegetable Salad,51
+2024-09-08,Vegetable Salad,38
+2024-09-09,Vegetable Salad,38
+2024-09-10,Vegetable Salad,40
+2024-09-11,Vegetable Salad,35
+2024-09-12,Vegetable Salad,40
+2024-09-13,Vegetable Salad,50
+2024-09-14,Vegetable Salad,35
+2024-09-15,Vegetable Salad,35
+2024-09-16,Vegetable Salad,60
+2024-09-17,Vegetable Salad,26
+2024-09-18,Vegetable Salad,33
+2024-09-19,Vegetable Salad,29
+2024-09-20,Vegetable Salad,41
+2024-09-21,Vegetable Salad,42
+2024-09-22,Vegetable Salad,35
+2024-09-23,Vegetable Salad,32
+2024-09-24,Vegetable Salad,35
+2024-09-25,Vegetable Salad,41
+2024-09-26,Vegetable Salad,37
+2024-09-27,Vegetable Salad,46
+2024-09-28,Vegetable Salad,43
+2024-09-29,Vegetable Salad,35
+2024-09-30,Vegetable Salad,26
+2024-10-01,Vegetable Salad,32
+2024-10-02,Vegetable Salad,35
+2024-10-03,Vegetable Salad,34
+2024-10-04,Vegetable Salad,51
+2024-10-05,Vegetable Salad,50
+2024-10-06,Vegetable Salad,35
+2024-10-07,Vegetable Salad,32
+2024-10-08,Vegetable Salad,31
+2024-10-09,Vegetable Salad,38
+2024-10-10,Vegetable Salad,35
+2024-10-11,Vegetable Salad,41
+2024-10-12,Vegetable Salad,51
+2024-10-13,Vegetable Salad,35
+2024-10-14,Vegetable Salad,46
+2024-10-15,Vegetable Salad,37
+2024-10-16,Vegetable Salad,36
+2024-10-17,Vegetable Salad,39
+2024-10-18,Vegetable Salad,53
+2024-10-19,Vegetable Salad,43
+2024-10-20,Vegetable Salad,34
+2024-10-21,Vegetable Salad,33
+2024-10-22,Vegetable Salad,59
+2024-10-23,Vegetable Salad,37
+2024-10-24,Vegetable Salad,34
+2024-10-25,Vegetable Salad,42
+2024-10-26,Vegetable Salad,47
+2024-10-27,Vegetable Salad,25
+2024-10-28,Vegetable Salad,33
+2024-10-29,Vegetable Salad,30
+2024-10-30,Vegetable Salad,39
+2024-10-31,Vegetable Salad,33
+2024-11-01,Vegetable Salad,48
+2024-11-02,Vegetable Salad,46
+2024-11-03,Vegetable Salad,39
+2024-11-04,Vegetable Salad,55
+2024-11-05,Vegetable Salad,37
+2024-11-06,Vegetable Salad,36
+2024-11-07,Vegetable Salad,29
+2024-11-08,Vegetable Salad,46
+2024-11-09,Vegetable Salad,55
+2024-11-10,Vegetable Salad,36
+2024-11-11,Vegetable Salad,34
+2024-11-12,Vegetable Salad,34
+2024-11-13,Vegetable Salad,47
+2024-11-14,Vegetable Salad,36
+2024-11-15,Vegetable Salad,45
+2024-11-16,Vegetable Salad,55
+2024-11-17,Vegetable Salad,29
+2024-11-18,Vegetable Salad,55
+2024-11-19,Vegetable Salad,42
+2024-11-20,Vegetable Salad,32
+2024-11-21,Vegetable Salad,39
+2024-11-22,Vegetable Salad,52
+2024-11-23,Vegetable Salad,45
+2024-11-24,Vegetable Salad,32
+2024-11-25,Vegetable Salad,39
+2024-11-26,Vegetable Salad,45
+2024-11-27,Vegetable Salad,43
+2024-11-28,Vegetable Salad,40
+2024-11-29,Vegetable Salad,53
+2024-11-30,Vegetable Salad,52
+2024-12-01,Vegetable Salad,52
+2024-12-02,Vegetable Salad,40
+2024-12-03,Vegetable Salad,34
+2024-12-04,Vegetable Salad,42
+2024-12-05,Vegetable Salad,38
+2024-12-06,Vegetable Salad,51
+2024-12-07,Vegetable Salad,61
+2024-12-08,Vegetable Salad,33
+2024-12-09,Vegetable Salad,41
+2024-12-10,Vegetable Salad,45
+2024-12-11,Vegetable Salad,41
+2024-12-12,Vegetable Salad,40
+2024-12-13,Vegetable Salad,52
+2024-12-14,Vegetable Salad,58
+2024-12-15,Vegetable Salad,30
+2024-12-16,Vegetable Salad,41
+2024-12-17,Vegetable Salad,38
+2024-12-18,Vegetable Salad,39
+2024-12-19,Vegetable Salad,42
+2024-12-20,Vegetable Salad,48
+2024-12-21,Vegetable Salad,50
+2024-12-22,Vegetable Salad,46
+2024-12-23,Vegetable Salad,38
+2024-12-24,Vegetable Salad,35
+2024-12-25,Vegetable Salad,43
+2024-12-26,Vegetable Salad,47
+2024-12-27,Vegetable Salad,46
+2024-12-28,Vegetable Salad,62
+2024-12-29,Vegetable Salad,48
+2024-12-30,Vegetable Salad,64
+2024-12-31,Vegetable Salad,40
+2025-01-01,Vegetable Salad,46
+2025-01-02,Vegetable Salad,47
+2025-01-03,Vegetable Salad,48
+2025-01-04,Vegetable Salad,61
+2025-01-05,Vegetable Salad,42
+2025-01-06,Vegetable Salad,42
+2025-01-07,Vegetable Salad,50
+2025-01-08,Vegetable Salad,32
+2025-01-09,Vegetable Salad,43
+2025-01-10,Vegetable Salad,56
+2025-01-11,Vegetable Salad,56
+2025-01-12,Vegetable Salad,41
+2025-01-13,Vegetable Salad,38
+2025-01-14,Vegetable Salad,47
+2025-01-15,Vegetable Salad,70
+2025-01-16,Vegetable Salad,36
+2025-01-17,Vegetable Salad,63
+2025-01-18,Vegetable Salad,50
+2025-01-19,Vegetable Salad,42
+2025-01-20,Vegetable Salad,46
+2025-01-21,Vegetable Salad,40
+2025-01-22,Vegetable Salad,39
+2025-01-23,Vegetable Salad,44
+2025-01-24,Vegetable Salad,65
+2025-01-25,Vegetable Salad,56
+2025-01-26,Vegetable Salad,40
+2025-01-27,Vegetable Salad,42
+2025-01-28,Vegetable Salad,50
+2025-01-29,Vegetable Salad,45
+2025-01-30,Vegetable Salad,45
+2025-01-31,Vegetable Salad,58
+2025-02-01,Vegetable Salad,83
+2025-02-02,Vegetable Salad,49
+2025-02-03,Vegetable Salad,46
+2025-02-04,Vegetable Salad,55
+2025-02-05,Vegetable Salad,43
+2025-02-06,Vegetable Salad,53
+2025-02-07,Vegetable Salad,72
+2025-02-08,Vegetable Salad,62
+2025-02-09,Vegetable Salad,46
+2025-02-10,Vegetable Salad,53
+2025-02-11,Vegetable Salad,44
+2025-02-12,Vegetable Salad,55
+2025-02-13,Vegetable Salad,38
+2025-02-14,Vegetable Salad,57
+2025-02-15,Vegetable Salad,57
+2025-02-16,Vegetable Salad,39
+2025-02-17,Vegetable Salad,46
+2025-02-18,Vegetable Salad,45
+2025-02-19,Vegetable Salad,52
+2025-02-20,Vegetable Salad,40
+2025-02-21,Vegetable Salad,80
+2025-02-22,Vegetable Salad,106
+2025-02-23,Vegetable Salad,44
+2025-02-24,Vegetable Salad,51
+2025-02-25,Vegetable Salad,44
+2025-02-26,Vegetable Salad,51
+2025-02-27,Vegetable Salad,40
+2025-02-28,Vegetable Salad,68
+2025-03-01,Vegetable Salad,97
+2025-03-02,Vegetable Salad,63
+2025-03-03,Vegetable Salad,75
+2025-03-04,Vegetable Salad,76
+2025-03-05,Vegetable Salad,78
+2025-03-06,Vegetable Salad,92
+2025-03-07,Vegetable Salad,98
+2025-03-08,Vegetable Salad,101
+2025-03-09,Vegetable Salad,64
+2025-03-10,Vegetable Salad,80
+2025-03-11,Vegetable Salad,75
+2025-03-12,Vegetable Salad,67
+2025-03-13,Vegetable Salad,78
+2025-03-14,Vegetable Salad,93
+2025-03-15,Vegetable Salad,130
+2025-03-16,Vegetable Salad,74
+2025-03-17,Vegetable Salad,66
+2025-03-18,Vegetable Salad,82
+2025-03-19,Vegetable Salad,53
+2025-03-20,Vegetable Salad,66
+2025-03-21,Vegetable Salad,117
+2025-03-22,Vegetable Salad,89
+2025-03-23,Vegetable Salad,84
+2025-03-24,Vegetable Salad,87
+2025-03-25,Vegetable Salad,92
+2025-03-26,Vegetable Salad,94
+2025-03-27,Vegetable Salad,70
+2025-03-28,Vegetable Salad,116
+2025-03-29,Vegetable Salad,119
+2025-03-30,Vegetable Salad,108
+2025-03-31,Vegetable Salad,39
+2025-04-01,Vegetable Salad,58
+2025-04-02,Vegetable Salad,58
+2025-04-03,Vegetable Salad,47
+2025-04-04,Vegetable Salad,68
+2025-04-05,Vegetable Salad,62
+2025-04-06,Vegetable Salad,50
+2025-04-07,Vegetable Salad,56
+2025-04-08,Vegetable Salad,45
+2025-04-09,Vegetable Salad,48
+2025-04-10,Vegetable Salad,52
+2025-04-11,Vegetable Salad,70
+2025-04-12,Vegetable Salad,70
+2025-04-13,Vegetable Salad,46
+2025-04-14,Vegetable Salad,53
+2025-04-15,Vegetable Salad,69
+2025-04-16,Vegetable Salad,42
+2025-04-17,Vegetable Salad,49
+2025-04-18,Vegetable Salad,64
+2025-04-19,Vegetable Salad,50
+2025-04-20,Vegetable Salad,61
+2025-04-21,Vegetable Salad,69
+2025-04-22,Vegetable Salad,60
+2025-04-23,Vegetable Salad,51
+2025-04-24,Vegetable Salad,43
+2025-04-25,Vegetable Salad,57
+2025-04-26,Vegetable Salad,69
+2025-04-27,Vegetable Salad,50
+2025-04-28,Vegetable Salad,45
+2025-04-29,Vegetable Salad,31
+2025-04-30,Vegetable Salad,49
+2025-05-01,Vegetable Salad,60
+2025-05-02,Vegetable Salad,81
+2025-05-03,Vegetable Salad,70
+2025-05-04,Vegetable Salad,46
+2025-05-05,Vegetable Salad,50
+2025-05-06,Vegetable Salad,44
+2025-05-07,Vegetable Salad,52
+2025-05-08,Vegetable Salad,41
+2025-05-09,Vegetable Salad,67
+2025-05-10,Vegetable Salad,73
+2025-05-11,Vegetable Salad,51
+2025-05-12,Vegetable Salad,43
+2025-05-13,Vegetable Salad,56
+2025-05-14,Vegetable Salad,48
+2025-05-15,Vegetable Salad,48
+2025-05-16,Vegetable Salad,69
+2025-05-17,Vegetable Salad,39
+2025-05-18,Vegetable Salad,43
+2025-05-19,Vegetable Salad,46
+2025-05-20,Vegetable Salad,54
+2025-05-21,Vegetable Salad,39
+2025-05-22,Vegetable Salad,50
+2025-05-23,Vegetable Salad,58
+2025-05-24,Vegetable Salad,61
+2025-05-25,Vegetable Salad,42
+2025-05-26,Vegetable Salad,44
+2025-05-27,Vegetable Salad,47
+2025-05-28,Vegetable Salad,46
+2025-05-29,Vegetable Salad,43
+2025-05-30,Vegetable Salad,48
+2025-05-31,Vegetable Salad,57
+2025-06-01,Vegetable Salad,42
+2025-06-02,Vegetable Salad,50
+2025-06-03,Vegetable Salad,58
+2025-06-04,Vegetable Salad,43
+2025-06-05,Vegetable Salad,53
+2025-06-06,Vegetable Salad,60
+2025-06-07,Vegetable Salad,65
+2025-06-08,Vegetable Salad,41
+2025-06-09,Vegetable Salad,52
+2025-06-10,Vegetable Salad,46
+2025-06-11,Vegetable Salad,39
+2025-06-12,Vegetable Salad,49
+2025-06-13,Vegetable Salad,60
+2025-06-14,Vegetable Salad,69
+2025-06-15,Vegetable Salad,52
+2025-06-16,Vegetable Salad,43
+2025-06-17,Vegetable Salad,46
+2025-06-18,Vegetable Salad,64
+2025-06-19,Vegetable Salad,53
+2025-06-20,Vegetable Salad,55
+2025-06-21,Vegetable Salad,50
+2025-06-22,Vegetable Salad,44
+2025-06-23,Vegetable Salad,40
