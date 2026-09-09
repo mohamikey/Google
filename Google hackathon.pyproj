@@ -25,6 +25,7 @@
     <Compile Include="Google_hackathon.py" />
     <Compile Include="Data_processing.py" />
     <Compile Include="app.py" />
+    <Compile Include=".gitignore" />
     <Compile Include="smartwaste-ai-website.html" />
   </ItemGroup>
   <ItemGroup>

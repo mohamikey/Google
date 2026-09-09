@@ -1,10 +1,5 @@
 {
-  "Beef Koshari": {
-    "mae": 18.31,
-    "avg_demand": 84.83,
-    "std_demand": 29.39,
-    "last_date": "2025-06-23",
-    "n_samples": 533,
+  "Aalopuri": {
     "feature_cols": [
       "day_of_week",
       "is_weekend",
@@ -16,14 +11,11 @@
       "lag_7",
       "rolling_avg_3",
       "rolling_avg_7"
-    ]
+    ],
+    "avg_demand": 8.864864864864865,
+    "std_demand": 6.315185862789193
   },
-  "Falafel Sandwich": {
-    "mae": 23.55,
-    "avg_demand": 115.23,
-    "std_demand": 40.88,
-    "last_date": "2025-06-23",
-    "n_samples": 533,
+  "Cold coffee": {
     "feature_cols": [
       "day_of_week",
       "is_weekend",
@@ -35,14 +27,11 @@
       "lag_7",
       "rolling_avg_3",
       "rolling_avg_7"
-    ]
+    ],
+    "avg_demand": 10.94017094017094,
+    "std_demand": 6.691851192631278
   },
-  "Fresh Juice": {
-    "mae": 22.89,
-    "avg_demand": 99.68,
-    "std_demand": 33.53,
-    "last_date": "2025-06-23",
-    "n_samples": 533,
+  "Frankie": {
     "feature_cols": [
       "day_of_week",
       "is_weekend",
@@ -54,14 +43,11 @@
       "lag_7",
       "rolling_avg_3",
       "rolling_avg_7"
-    ]
+    ],
+    "avg_demand": 10.296296296296296,
+    "std_demand": 6.100803163395032
   },
-  "Grilled Chicken": {
-    "mae": 13.44,
-    "avg_demand": 64.55,
-    "std_demand": 23.37,
-    "last_date": "2025-06-23",
-    "n_samples": 533,
+  "Panipuri": {
     "feature_cols": [
       "day_of_week",
       "is_weekend",
@@ -73,14 +59,11 @@
       "lag_7",
       "rolling_avg_3",
       "rolling_avg_7"
-    ]
+    ],
+    "avg_demand": 10.441441441441441,
+    "std_demand": 6.522248196727993
   },
-  "Grilled Fish": {
-    "mae": 8.29,
-    "avg_demand": 36.04,
-    "std_demand": 12.53,
-    "last_date": "2025-06-23",
-    "n_samples": 533,
+  "Sandwich": {
     "feature_cols": [
       "day_of_week",
       "is_weekend",
@@ -92,14 +75,11 @@
       "lag_7",
       "rolling_avg_3",
       "rolling_avg_7"
-    ]
+    ],
+    "avg_demand": 9.990196078431373,
+    "std_demand": 6.2955195415316005
   },
-  "Molokhia": {
-    "mae": 10.12,
-    "avg_demand": 56.71,
-    "std_demand": 19.2,
-    "last_date": "2025-06-23",
-    "n_samples": 533,
+  "Sugarcane juice": {
     "feature_cols": [
       "day_of_week",
       "is_weekend",
@@ -111,14 +91,11 @@
       "lag_7",
       "rolling_avg_3",
       "rolling_avg_7"
-    ]
+    ],
+    "avg_demand": 10.057851239669422,
+    "std_demand": 5.778260292771456
   },
-  "Pasta Alfredo": {
-    "mae": 9.33,
-    "avg_demand": 42.53,
-    "std_demand": 14.61,
-    "last_date": "2025-06-23",
-    "n_samples": 533,
+  "Vadapav": {
     "feature_cols": [
       "day_of_week",
       "is_weekend",
@@ -130,25 +107,8 @@
       "lag_7",
       "rolling_avg_3",
       "rolling_avg_7"
-    ]
-  },
-  "Vegetable Salad": {
-    "mae": 10.22,
-    "avg_demand": 49.3,
-    "std_demand": 16.25,
-    "last_date": "2025-06-23",
-    "n_samples": 533,
-    "feature_cols": [
-      "day_of_week",
-      "is_weekend",
-      "month",
-      "day_of_month",
-      "lag_1",
-      "lag_2",
-      "lag_3",
-      "lag_7",
-      "rolling_avg_3",
-      "rolling_avg_7"
-    ]
+    ],
+    "avg_demand": 9.057142857142857,
+    "std_demand": 5.889737769121049
   }
 }
